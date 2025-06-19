@@ -1,25 +1,26 @@
-# grc-portfolio
-Arthur Mack’s GRC, Risk, and Compliance Portfolio
-grc-portfolio/
-│
-├── README.md
-├── resume/
-│   └── ArthurMack_Resume.pdf
-│
-├── policy-lifecycle/
-│   └── Policy_Lifecycle_Demo.pdf
-│
-├── risk-register/
-│   └── Risk_Register_Template.xlsx
-│   └── Risk_Register_Example.pdf
-│
-├── purview-lab/
-│   └── Purview_DLP_Simulation.docx
-│   └── Purview_Screenshots/
-│
-├── qualys-servicenow-lab/
-│   └── POAM_Workflow_Example.xlsx
-│   └── Script_Demo.md
-│
-└── dashboards/
-    └── Compliance_Dashboard_Sample.xlsx
+# Arthur Mack – GRC Portfolio
+
+Welcome to my Governance, Risk, and Compliance (GRC) portfolio.  
+Here you'll find hands-on projects and documentation reflecting my work in:
+
+- Risk Registers (NIST-mapped)
+- Policy Lifecycle Governance
+- Microsoft Purview DLP Configuration
+- POA&M and Audit Management (Qualys to ServiceNow)
+- Compliance Dashboards (Excel, Power BI)
+
+## 📂 Portfolio Sections
+
+🔐 [Policy Lifecycle Demo](./policy-lifecycle/Policy_Lifecycle_Demo.pdf)  
+📊 [Risk Register Template + Summary](./risk-register/)  
+☁️ [Microsoft Purview DLP Lab](./purview-lab/)  
+⚙️ [Qualys-ServiceNow POA&M Integration](./qualys-servicenow-lab/)  
+📈 [Compliance Dashboard (Excel)](./dashboards/)
+
+---
+
+### 🔗 Connect With Me
+
+📄 [Resume](./resume/ArthurMack_Resume.pdf)  
+📫 arthurmack@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/arthurmack)
