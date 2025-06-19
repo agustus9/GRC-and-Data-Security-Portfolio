@@ -11,7 +11,7 @@ Here you'll find hands-on projects and documentation reflecting my work in:
 
 ## 📂 Portfolio Sections
 
-🔐 [Policy Lifecycle Demo](./policy-lifecycle/Policy_Lifecycle_Demo.pdf)  
+🔐 [Policy Lifecycle Demo](./policy-lifecycle/Policy_Lifecycle_Demo_PLACEHOLDER.pdf)  
 📊 [Risk Register Template + Summary](./risk-register/)  
 ☁️ [Microsoft Purview DLP Lab](./purview-lab/)  
 ⚙️ [Qualys-ServiceNow POA&M Integration](./qualys-servicenow-lab/)  
@@ -21,6 +21,6 @@ Here you'll find hands-on projects and documentation reflecting my work in:
 
 ### 🔗 Connect With Me
 
-📄 [Resume](./resume/ArthurMack_Resume.pdf)  
+📄 [Resume](./resume/ArthurMack_Resume_PLACEHOLDER.pdf)  
 📫 arthurmack@email.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/arthurmack)
