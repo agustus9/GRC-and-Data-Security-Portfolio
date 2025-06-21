@@ -91,6 +91,11 @@ Highlights:
 - - [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)  
   _Simulate and manage M365 DLP using Microsoft Purview — includes screenshots and a policy template._
 
+grc-portfolio/
+└── purview-lab/
+    ├── Microsoft_Purview_DLP_Lab.md
+    ├── Purview_Screenshot_1.png
+    ├── Purview_Screenshot_2.png
 
 ## 🎓 Certifications
 
