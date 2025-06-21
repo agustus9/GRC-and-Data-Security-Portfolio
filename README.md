@@ -1,6 +1,19 @@
 # Arthur Mack – GRC Portfolio
 
 Welcome to my Governance, Risk, and Compliance (GRC) portfolio.  
+
+## 🧭 GRC Overview
+
+**Governance, Risk, and Compliance (GRC)** is the integrated collection of capabilities that enable an organization to reliably achieve objectives, address uncertainty, and act with integrity.
+
+| Pillar | Description |
+|--------|-------------|
+| **Governance** | Ensures alignment of IT/security initiatives with business goals, including policies, roles, and frameworks (e.g., NIST, ISO 27001). |
+| **Risk Management** | Identifies, assesses, and mitigates risks to critical assets — often through risk registers, assessments, KRIs, and POA&Ms. |
+| **Compliance** | Ensures adherence to legal, regulatory, and policy obligations (e.g., HIPAA, SOX, PCI-DSS, FedRAMP). Supported by evidence collection, UARs, audits, and continuous monitoring. |
+
+My portfolio demonstrates practical implementation of GRC across tools like **Microsoft Purview**, **Qualys**, and **ServiceNow**, using real-world policy and risk handling scenarios.
+
 Here you'll find hands-on projects and documentation reflecting my work in:
 
 - Risk Registers (NIST-mapped)
