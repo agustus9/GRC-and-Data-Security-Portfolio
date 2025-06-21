@@ -11,7 +11,15 @@ Here you'll find hands-on projects and documentation reflecting my work in:
 
 ## 📂 Portfolio Sections
 
-🔐 [Policy Lifecycle Demo](./policy-lifecycle/Policy_Lifecycle_Demo_PLACEHOLDER.pdf)   
+### 📄 Policy Lifecycle Demonstration
+
+A real-world simulation of the full policy lifecycle:
+- ✅ Created an Acceptable Use Policy mapped to NIST SP 800-53 and ISO 27001
+- 🔄 Ran through approval, staff distribution, implementation, and annual review
+- 📊 Tracked exceptions and monitored control coverage via ServiceNow and Microsoft Purview
+
+📁 [View PDF](./policy-lifecycle/Policy_Lifecycle_Demo.pdf)
+ 
 ### 📊 Risk Register Template + Summary
 
 This folder includes a structured and reusable Risk Register aligned with NIST CSF, ISO/IEC 27005, and CIS Controls.
