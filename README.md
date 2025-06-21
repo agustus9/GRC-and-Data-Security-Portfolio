@@ -13,6 +13,22 @@ Here you'll find hands-on projects and documentation reflecting my work in:
 
 🔐 [Policy Lifecycle Demo](./policy-lifecycle/Policy_Lifecycle_Demo_PLACEHOLDER.pdf)  
 📊 [Risk Register Template + Summary](./risk-register/)  
+### 📊 Risk Register Template + Summary
+
+This folder includes a structured and reusable Risk Register aligned with NIST CSF, ISO/IEC 27005, and CIS Controls.
+
+- ✅ `Risk_Register_Template.xlsx` – Editable Excel template with:
+  - Likelihood × Impact heatmap scoring
+  - Residual Risk calculation
+  - Fields for Risk Owner, Mitigation, and Control Mapping
+- ✅ `Risk_Register_Example.pdf` – A sample filled-out risk register for reference
+- 🔐 Frameworks Used:
+  - NIST CSF
+  - ISO/IEC 27001:2013 Annex A
+  - CIS Controls v8
+
+🛠 Built and maintained by Arthur Mack as part of this GRC portfolio.
+
 ☁️ [Microsoft Purview DLP Lab](./purview-lab/)  
 ⚙️ [Qualys-ServiceNow POA&M Integration](./qualys-servicenow-lab/)  
 📈 [Compliance Dashboard (Excel)](./dashboards/)
