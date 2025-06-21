@@ -75,6 +75,22 @@ Sample Excel dashboard tracking compliance status by control category and asset.
 
 📁 [Download Compliance_Dashboard_Sample.xlsx](./dashboards/Compliance_Dashboard_Sample.xlsx)
 
+---
+
+## 💼 GRC Skills Matrix (2025+)
+
+This section provides a strategic mapping of **in-demand GRC skills** aligned with Arthur Mack’s real-world projects and professional capabilities.
+
+📄 [View Full Skills Overview →](./GRC_Skills_Overview.md)
+
+Highlights:
+- Maps key enterprise-ready GRC capabilities (Governance, Risk, Compliance, Vulnerability Mgmt, Cloud, Audit)
+- Aligns each skill with lab artifacts from this GitHub portfolio
+- Reflects current job market priorities (based on 2025 hiring trends)
+
+Whether you're a recruiter, hiring manager, or peer, this matrix shows Arthur’s hands-on alignment with modern cybersecurity GRC demands.
+
+
 ## 🎓 Certifications
 
 Here are the certifications I've earned (or am actively pursuing) to reinforce my GRC and cybersecurity expertise:
