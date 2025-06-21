@@ -24,10 +24,6 @@ Here you'll find hands-on projects and documentation reflecting my work in:
 - [POA&M and Audit Workflow: Qualys-ServiceNow Integration](./qualys-servicenow-lab/)
 - [Compliance Dashboard (Excel)](./dashboards/)
 
-## 🔍 Screenshots
-
-![Purview Screenshot 1](./Purview_Screenshot_1.png)
-![Purview Screenshot 2](./Purview_Screenshot_2.png)
 
 ## 📂 Portfolio Sections
 
@@ -68,6 +64,11 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 
 - [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)  
   _Simulate and manage M365 DLP using Microsoft Purview — includes screenshots and a policy template._
+
+  ## 🔍 Screenshots
+
+![Purview Screenshot 1](./Purview_Screenshot_1.png)
+![Purview Screenshot 2](./Purview_Screenshot_2.png)
 
 ### 🤝 Qualys–ServiceNow POA&M Integration Lab
 
