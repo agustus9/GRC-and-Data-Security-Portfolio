@@ -88,7 +88,8 @@ Highlights:
 - Aligns each skill with lab artifacts from this GitHub portfolio
 - Reflects current job market priorities (based on 2025 hiring trends)
 
-- [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md) – Hands-on simulation using Microsoft Purview to build, test, and monitor DLP policies across M365 workloads.
+- - [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)  
+  _Simulate and manage M365 DLP using Microsoft Purview — includes screenshots and a policy template._
 
 
 ## 🎓 Certifications
