@@ -31,7 +31,8 @@ A real-world simulation of the full policy lifecycle:
 - 🔄 Ran through approval, staff distribution, implementation, and annual review
 - 📊 Tracked exceptions and monitored control coverage via ServiceNow and Microsoft Purview
 
-📁 [View PDF](./policy-lifecycle/Policy_Lifecycle_Demo.pdf)
+📁 [View PDF]((https://github.com/user-attachments/files/20845119/Policy_Lifecycle_Demo.pdf)
+fecycle_Demo.pdf)
  
 ### 📊 Risk Register Template + Summary
 
