@@ -73,7 +73,7 @@ Demonstrates automation of Plan of Action & Milestones (POA&M) workflows:
 
 Sample Excel dashboard tracking compliance status by control category and asset. Useful for audit readiness, KPI reporting, and control failure monitoring.
 
-📁 [Download Compliance_Dashboard_Sample.xlsx](./dashboards/Compliance_Dashboard_Sample.xlsx)
+📁 [Download Compliance_Dashboard_Sample.xlsx](https://github.com/user-attachments/files/20845198/Compliance_Dashboard_Sample.xlsx)
 
 ---
 
