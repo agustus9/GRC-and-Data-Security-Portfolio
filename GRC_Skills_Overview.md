@@ -15,8 +15,6 @@ This document maps the top in-demand Governance, Risk, and Compliance (GRC) skil
 | 9 | **Reporting & Business Metrics** | Compliance dashboards, KPI tracking, and visual reporting. | [Compliance Dashboard (Excel)](./dashboards/) |
 | 10 | **DLP & Data Governance** | DLP policy configuration, classification, and analytics. | [Microsoft Purview Lab](./purview-lab/) |
 
-> 🎯 This matrix supports recruiters and hiring managers in quickly identifying my technical depth and strategic alignment to modern GRC priorities.
-
 ## 🛠️ Technologies & Tools
 
 | Domain                    | Tools / Technologies                                        |
