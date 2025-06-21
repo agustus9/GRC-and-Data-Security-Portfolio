@@ -88,7 +88,7 @@ Highlights:
 - Aligns each skill with lab artifacts from this GitHub portfolio
 - Reflects current job market priorities (based on 2025 hiring trends)
 
-Whether you're a recruiter, hiring manager, or peer, this matrix shows Arthur’s hands-on alignment with modern cybersecurity GRC demands.
+- [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md) – Hands-on simulation using Microsoft Purview to build, test, and monitor DLP policies across M365 workloads.
 
 
 ## 🎓 Certifications
