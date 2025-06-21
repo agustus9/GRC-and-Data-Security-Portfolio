@@ -62,6 +62,22 @@ Sample Excel dashboard tracking compliance status by control category and asset.
 
 📁 [Download Compliance_Dashboard_Sample.xlsx](./dashboards/Compliance_Dashboard_Sample.xlsx)
 
+## 🎓 Certifications
+
+Here are the certifications I've earned (or am actively pursuing) to reinforce my GRC and cybersecurity expertise:
+
+| Certification | Status | Provider |
+|---------------|--------|----------|
+| ✅ CEH – Certified Ethical Hacker | Earned | EC-Council |
+| ✅ Security+ (CompTIA) | Earned | CompTIA |
+| ✅ AWS Certified Security – Specialty | Earned | AWS |
+| 🔄 CRISC – Certified in Risk and Information Systems Control | In Progress | ISACA |
+| 🔄 CISM – Certified Information Security Manager | In Progress | ISACA |
+| 🔄 CISSP – Certified Information Systems Security Professional | In Progress | (ISC)² |
+| 🔄 ISO 27001 Lead Implementer | In Progress | Various Providers |
+| 🔄 SC-400 – Microsoft Information Protection Administrator | In Progress | Microsoft |
+| ✅ Microsoft Purview DLP Administrator Course | Completed | Udemy / Microsoft Learn |
+
 
 ---
 
