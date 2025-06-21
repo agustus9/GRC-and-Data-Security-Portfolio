@@ -14,16 +14,20 @@ Welcome to my Governance, Risk, and Compliance (GRC) portfolio.
 
 My portfolio showcases the practical implementation of GRC across various tools, including **Microsoft Purview**, **Qualys**, and **ServiceNow**, utilizing real-world policy and risk management scenarios.
 
+## 📁 GRC Portfolio Projects
+
 Here you'll find hands-on projects and documentation reflecting my work in:
 
-- Risk Registers (NIST-mapped)
-- Policy Lifecycle Governance
-- Microsoft Purview DLP Configuration
-- POA&M and Audit Management (Qualys to ServiceNow)
-- Compliance Dashboards (Excel, Power BI)
-- Microsoft_Purview_DLP_Lab.md
-─ Purview_Screenshot_1.png
-─ Purview_Screenshot_2.png
+- [Risk Register Template + Summary](./risk-register/)
+- [Policy Lifecycle Governance Demo](./policy-lifecycle/)
+- [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)
+- [POA&M and Audit Workflow: Qualys-ServiceNow Integration](./qualys-servicenow-lab/)
+- [Compliance Dashboard (Excel)](./dashboards/)
+
+## 🔍 Screenshots
+
+![Purview Screenshot 1](./Purview_Screenshot_1.png)
+![Purview Screenshot 2](./Purview_Screenshot_2.png)
 
 ## 📂 Portfolio Sections
 
