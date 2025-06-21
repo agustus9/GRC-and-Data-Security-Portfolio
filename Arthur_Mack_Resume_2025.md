@@ -31,7 +31,7 @@ Results-driven IT Security Engineer with 9+ years of hands-on experience in cybe
 - CEH – Certified Ethical Hacker
 - AWS Certified Security – Specialty
 - CompTIA Security+
-- Studying: CRISC, CISM, CISSP, SC-400 (Microsoft Purview)
+- Studying: CRISC, CISM, SC-400 (Microsoft Purview)
 
 ---
 
