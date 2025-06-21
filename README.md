@@ -21,6 +21,6 @@ Here you'll find hands-on projects and documentation reflecting my work in:
 
 ### 🔗 Connect With Me
 
-📄 (Resume)(https://github.com/agustus9/grc-portfolio/blob/main/Arthur_Mack_Resume_2025.md)
+📄 (Resume)(Arthur_Mack_Resume_2025.md)
 📫 arthurmack@email.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/arthurmack](https://www.linkedin.com/in/arthur-m-24a2a81ba/))
+🔗 [LinkedIn]([https://www.linkedin.com/in/arthur-m-24a2a81ba/))
