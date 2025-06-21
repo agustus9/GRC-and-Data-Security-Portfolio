@@ -11,8 +11,7 @@ Here you'll find hands-on projects and documentation reflecting my work in:
 
 ## 📂 Portfolio Sections
 
-🔐 [Policy Lifecycle Demo](./policy-lifecycle/Policy_Lifecycle_Demo_PLACEHOLDER.pdf)  
-📊 [Risk Register Template + Summary](./risk-register/)  
+🔐 [Policy Lifecycle Demo](./policy-lifecycle/Policy_Lifecycle_Demo_PLACEHOLDER.pdf)   
 ### 📊 Risk Register Template + Summary
 
 This folder includes a structured and reusable Risk Register aligned with NIST CSF, ISO/IEC 27005, and CIS Controls.
