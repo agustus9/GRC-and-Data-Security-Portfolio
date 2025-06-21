@@ -36,9 +36,32 @@ This folder includes a structured and reusable Risk Register aligned with NIST C
 
 🛠 Built and maintained by Arthur Mack as part of this GRC portfolio.
 
-☁️ [Microsoft Purview DLP Lab](./purview-lab/)  
-⚙️ [Qualys-ServiceNow POA&M Integration](./qualys-servicenow-lab/)  
-📈 [Compliance Dashboard (Excel)](./dashboards/)
+### 🔐 Microsoft Purview DLP Lab
+
+Simulated a full data loss prevention lab using Microsoft Purview:
+- 📦 Built policies to protect PII, PHI, and PCI across O365 apps
+- 🧪 Used simulation mode to test policy behavior before enforcing
+- ⚙️ Activated enforcement actions and tracked alerts
+- 🎯 Integrated Adaptive Protection with user risk scoring
+
+📁 [View PDF](./purview-lab/Microsoft_Purview_DLP_Lab.pdf)
+
+⚙️ ### 🤝 Qualys–ServiceNow POA&M Integration Lab
+
+Demonstrates automation of Plan of Action & Milestones (POA&M) workflows:
+- 🔗 Triggered ServiceNow POA&M records from Qualys compliance scan failures
+- 🛠 Mapped failed controls to CMDB Configuration Items (CIs)
+- 🔄 Auto-assigned remediation deadlines with full lifecycle tracking
+- 📊 Fed metadata into dashboards for audit and KPI reporting
+
+📁 [View PDF](./qualys-servicenow-lab/Qualys_ServiceNow_POAM_Lab.pdf)
+
+### 📊 Compliance Dashboard (Excel)
+
+Sample Excel dashboard tracking compliance status by control category and asset. Useful for audit readiness, KPI reporting, and control failure monitoring.
+
+📁 [Download Compliance_Dashboard_Sample.xlsx](./dashboards/Compliance_Dashboard_Sample.xlsx)
+
 
 ---
 
