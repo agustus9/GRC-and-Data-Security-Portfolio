@@ -73,9 +73,6 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 | ✅ AWS Certified Security – Specialty | Earned | AWS |
 | 🔄 CRISC – Certified in Risk and Information Systems Control | In Progress | ISACA |
 | 🔄 CISM – Certified Information Security Manager | In Progress | ISACA |
-| 🔄 CISSP – Certified Information Systems Security Professional | In Progress | (ISC)² |
-| 🔄 ISO 27001 Lead Implementer | In Progress | Various Providers |
-| 🔄 SC-400 – Microsoft Information Protection Administrator | In Progress | Microsoft |
 | ✅ Microsoft Purview DLP Administrator Course | Completed | Udemy / Microsoft Learn |
 
 
