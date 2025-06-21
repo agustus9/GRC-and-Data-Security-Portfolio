@@ -35,8 +35,13 @@ Learn how to configure and test Microsoft Purview Data Loss Prevention (DLP) for
 
 ## 📸 Screenshots
 _Stored in this folder_:
-- `Purview_Screenshot_1.png`
-- `Purview_Screenshot_2.png`
+### DLP Policy Configuration Screenshot
+
+![Purview Screenshot 1](./Purview_Screenshot_1.png)
+
+### DLP Alerts and Activity Screenshot
+
+![Purview Screenshot 2](./Purview_Screenshot_2.png)
 
 ---
 
