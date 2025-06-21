@@ -19,11 +19,11 @@ This document maps the top in-demand Governance, Risk, and Compliance (GRC) skil
 
 | Domain                    | Tools / Technologies                                        |
 |---------------------------|-------------------------------------------------------------|
-| Vulnerability Management  | Qualys VMDR, Tenable Nessus, Orca Security                  |
+| Vulnerability Management  | Qualys VMDR, Tenable Nessus                  |
 | Compliance Automation     | Qualys Policy Compliance, ServiceNow GRC, FEMA              |
-| Risk & Policy Governance  | Excel, Risk Registers, POA&Ms, Policy Lifecycle Templates   |
-| Security Operations       | Splunk, SCCM, Nexthink, Intune                              |
+| Risk & Policy Governance  | Risk Registers, POA&Ms, Policy Lifecycle Templates   |
+| Security Operations       | Splunk, SCCM, ServiceNow, Intune                              |
 | Cloud Security            | AWS (IAM, EC2), Azure, Microsoft Purview DLP               |
-| Reporting & Dashboards    | Excel (Compliance Dashboards), Power BI (basic exposure)   |
+| Reporting & Dashboards    | FEMA (Compliance Dashboards), Qualys (Compliance Module)  |
 | DLP                       | Microsoft Purview, Proofpoint (theoretical), SC-400 path    |
 | Audit Readiness           | SOC 2 evidence prep, HITRUST alignment (in progress)        |
