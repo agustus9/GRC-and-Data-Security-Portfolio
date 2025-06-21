@@ -21,6 +21,9 @@ Here you'll find hands-on projects and documentation reflecting my work in:
 - Microsoft Purview DLP Configuration
 - POA&M and Audit Management (Qualys to ServiceNow)
 - Compliance Dashboards (Excel, Power BI)
+- Microsoft_Purview_DLP_Lab.md
+─ Purview_Screenshot_1.png
+─ Purview_Screenshot_2.png
 
 ## 📂 Portfolio Sections
 
@@ -59,6 +62,9 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 
 📁 [View PDF](./purview-lab/Microsoft_Purview_DLP_Lab.pdf)
 
+- [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)  
+  _Simulate and manage M365 DLP using Microsoft Purview — includes screenshots and a policy template._
+
 ### 🤝 Qualys–ServiceNow POA&M Integration Lab
 
 Demonstrates automation of Plan of Action & Milestones (POA&M) workflows:
@@ -88,14 +94,6 @@ Highlights:
 - Aligns each skill with lab artifacts from this GitHub portfolio
 - Reflects current job market priorities (based on 2025 hiring trends)
 
-- - [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)  
-  _Simulate and manage M365 DLP using Microsoft Purview — includes screenshots and a policy template._
-
-grc-portfolio/
-└── purview-lab/
-    ├── Microsoft_Purview_DLP_Lab.md
-    ├── Purview_Screenshot_1.png
-    ├── Purview_Screenshot_2.png
 
 ## 🎓 Certifications
 
