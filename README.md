@@ -46,7 +46,7 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 
 📁 [View PDF](./purview-lab/Microsoft_Purview_DLP_Lab.pdf)
 
-⚙️ ### 🤝 Qualys–ServiceNow POA&M Integration Lab
+### 🤝 Qualys–ServiceNow POA&M Integration Lab
 
 Demonstrates automation of Plan of Action & Milestones (POA&M) workflows:
 - 🔗 Triggered ServiceNow POA&M records from Qualys compliance scan failures
