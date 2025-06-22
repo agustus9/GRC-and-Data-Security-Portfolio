@@ -21,7 +21,7 @@ My portfolio showcases the practical implementation of GRC across various tools,
 
 - [📄 Policy Lifecycle Governance Demo](./policy-lifecycle/Policy_Lifecycle_Demo.md)
 
-- [📄 POA&M Workflow: Qualys → ServiceNow](https://github.com/agustus9/grc-portfolio/blob/main/qualys-servicenow-lab/POAM_Workflow_Example.md)
+- [📄 POA&M Workflow Example](./qualys-servicenow-lab/POAM_Workflow_Example.md)
 
 - [📄 Compliance Dashboard (Excel)](dashboards/README.md)
 
