@@ -99,6 +99,12 @@ Highlights:
 - Aligns each skill with lab artifacts from this GitHub portfolio
 - Reflects current job market priorities (based on 2025 hiring trends)
 
+## 💼 Skills Overview
+
+📄 [🧰 Tools You’ve Mastered](./tools-mastered.md)  
+A detailed breakdown of all security, compliance, cloud, and automation tools I’ve worked with hands-on across projects and professional roles.
+
+[![Tools](https://img.shields.io/badge/Tools-Mastered-blue)](./tools-mastered.md)
 
 ## 🎓 Certifications
 
