@@ -25,7 +25,7 @@ My portfolio showcases the practical implementation of GRC across various tools,
 
 - [📄 Compliance Dashboard (Excel)](dashboards/README.md)
 
-- [📄 Risk Register (Example)](https://github.com/agustus9/grc-portfolio/blob/main/risk-register/Risk_Register_Example.md)
+- [📄 Risk Register Example](./risk-register/Risk_Register_Example.md)
 
 - [📄 Risk Register Template](https://github.com/agustus9/grc-portfolio/blob/main/risk-register/Risk_Register_Template.md)
 
