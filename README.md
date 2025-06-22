@@ -19,7 +19,7 @@ My portfolio showcases the practical implementation of GRC across various tools,
 
 - [📄 Microsoft Purview DLP Lab](https://github.com/agustus9/grc-portfolio/blob/main/purview-lab/Microsoft_Purview_DLP_Lab.md)
 
-- [📄 Policy Lifecycle Governance Demo](https://github.com/agustus9/grc-portfolio/blob/main/policy-lifecycle/Policy_Lifecycle_Demo.md)
+- [📄 Policy Lifecycle Governance Demo](policy-lifecycle/Policy_Lifecycle_Demo.md)
 
 - [📄 POA&M Workflow: Qualys → ServiceNow](https://github.com/agustus9/grc-portfolio/blob/main/qualys-servicenow-lab/POAM_Workflow_Example.md)
 
