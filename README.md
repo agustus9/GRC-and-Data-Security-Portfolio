@@ -14,32 +14,22 @@ Welcome to my Governance, Risk, and Compliance (GRC) portfolio.
 
 My portfolio showcases the practical implementation of GRC across various tools, including **Microsoft Purview**, **Qualys**, and **ServiceNow**, utilizing real-world policy and risk management scenarios.
 
-## 📁 GRC Portfolio Projects
 
 ## 📁 GRC Portfolio Projects
 
-Explore real-world GRC, compliance, and risk documentation and labs:
+- [📄 Microsoft Purview DLP Lab](https://github.com/agustus9/grc-portfolio/blob/main/purview-lab/Microsoft_Purview_DLP_Lab.md)
 
-- [📄 Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)  
-  Configure DLP policies, sensitivity labels, analytics insights, and use case documentation.
+- [📄 Policy Lifecycle Governance Demo](https://github.com/agustus9/grc-portfolio/blob/main/policy-lifecycle/Policy_Lifecycle_Demo.md)
 
-- [📄 Policy Lifecycle Governance Demo](./policy-lifecycle/Policy_Lifecycle_Demo.md)  
-  Illustrates the end-to-end policy lifecycle process, including drafting, review, approval, implementation, and retirement.
+- [📄 POA&M Workflow: Qualys → ServiceNow](https://github.com/agustus9/grc-portfolio/blob/main/qualys-servicenow-lab/POAM_Workflow_Example.md)
 
-- [📄 POA&M Workflow: Qualys → ServiceNow](./qualys-servicenow-lab/POAM_Workflow_Example.md)  
-  Shows how Qualys findings flow into ServiceNow for governance tracking, resolution, and closure.
+- [📄 Compliance Dashboard (Excel)](https://github.com/agustus9/grc-portfolio/blob/main/dashboards/Compliance_Dashboard_Sample.md)
 
-- [📄 Compliance Dashboard (Excel)](./dashboards/Compliance_Dashboard_Sample.md)  
-  Visual dashboard summarizing compliance status, policy adherence, and risk heatmaps.
+- [📄 Risk Register (Example)](https://github.com/agustus9/grc-portfolio/blob/main/risk-register/Risk_Register_Example.md)
 
-- [📄 Risk Register (Example)](./risk-register/Risk_Register_Example.md)  
-  Sample risk register mapped to NIST SP 800-30, showing risk severity, ownership, and mitigation.
+- [📄 Risk Register Template](https://github.com/agustus9/grc-portfolio/blob/main/risk-register/Risk_Register_Template.md)
 
-- [📄 Risk Register Template](./risk-register/Risk_Register_Template.md)  
-  Downloadable template to track enterprise risk aligned to frameworks like NIST, ISO, or HIPAA.
-
-- [📄 Qualys Custom Assessment & Remediation Script](./qualys-servicenow-lab/Script_Demo.md)  
-  Sample automation script for executing remediation or data collection with Qualys CAR (Groovy-based).
+- [📄 Qualys Custom Assessment & Remediation Script](https://github.com/agustus9/grc-portfolio/blob/main/qualys-servicenow-lab/Script_Demo.md)
 
 
 ## 📂 Portfolio Sections
