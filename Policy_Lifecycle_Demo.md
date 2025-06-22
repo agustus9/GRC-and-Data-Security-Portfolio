@@ -1,59 +1,66 @@
-# 📄 Policy Lifecycle Governance Demo
+# 🧾 Policy Lifecycle Governance Demo
 
-This demo outlines how security policies are governed, tracked, and revised throughout their lifecycle within a GRC framework. The lifecycle ensures policies remain relevant, effective, and compliant with industry and organizational standards.
-
----
-
-## 🛠️ Stages of the Policy Lifecycle
-
-### 1. **Policy Creation**
-- Drafted based on regulatory requirements (e.g., NIST, ISO 27001, HIPAA).
-- Involves stakeholders such as security, compliance, legal, and business units.
-
-### 2. **Review and Approval**
-- Policies undergo formal review by GRC or compliance team.
-- Reviewed for clarity, scope, enforcement potential, and business alignment.
-- Approved by policy owners, risk officers, or steering committees.
-
-### 3. **Publication and Communication**
-- Policies are published in a central repository (e.g., Confluence, SharePoint).
-- Communicated through awareness training, onboarding, or direct manager briefings.
-
-### 4. **Implementation**
-- Enforcement via technical controls (e.g., DLP, SIEM alerts, firewall rules).
-- Integrated into SOPs, ticket workflows (e.g., ServiceNow), and audits.
-
-### 5. **Monitoring and Enforcement**
-- Policy compliance monitored via tools like Qualys PC, ServiceNow, and SCCM.
-- Exceptions tracked, noncompliance logged, and incidents triaged.
-
-### 6. **Periodic Review and Updates**
-- Policies are reviewed annually (or semi-annually) for effectiveness.
-- Changes due to regulatory shifts, risk appetite changes, or audit findings.
-
-### 7. **Archiving or Retiring**
-- Outdated policies are archived with a reason for deprecation.
-- New version control maintained in the repository.
+This lab-style demo illustrates how organizations manage the full lifecycle of an information security policy, from creation to retirement, aligned with GRC principles and compliance requirements.
 
 ---
 
-## ✅ Governance Activities Demonstrated
+## 📌 Objectives
 
-- Version control tagging in GitHub to track policy changes.
-- Review logs and exception management in ServiceNow.
-- Qualys PC used for automated compliance scans and reporting.
-- Microsoft Purview used to monitor data handling policy enforcement.
-
----
-
-## 📎 Artifacts
-
-- Sample Policy_Lifecycle_Demo.pdf (coming soon)
-- GitHub commit logs as version history
-- Linked to: [Compliance Dashboard](../dashboards/Compliance_Dashboard_Sample.md)
-- Tied to: [Risk Register Template](../risk-register/Risk_Register_Template.md)
+- Demonstrate the lifecycle of a security policy in a GRC context.
+- Simulate version control, stakeholder reviews, and periodic updates.
+- Align policy stages to ISO 27001:2022 and NIST CSF best practices.
 
 ---
 
-_Last Updated: 2025-06-22 by Arthur Mack_
+## 🛠️ Phases of the Policy Lifecycle
+
+### 1. **Policy Drafting**
+- Define scope, objective, ownership, and control mappings.
+- Use a baseline template aligned with ISO/NIST/SOC 2 frameworks.
+- Collaborate with SMEs and stakeholders (IT, Legal, HR, Risk).
+
+### 2. **Policy Review & Approval**
+- Route policy for review using a workflow (e.g., ServiceNow GRC or manual sign-offs).
+- Incorporate legal/regulatory feedback.
+- Finalize and publish v1.0 in SharePoint, Confluence, or GRC tool.
+
+### 3. **Policy Distribution & Awareness**
+- Communicate via email, LMS, and team briefings.
+- Log acknowledgments if policy acceptance is required (for ISO, SOC 2, PCI).
+
+### 4. **Policy Monitoring**
+- Track enforcement via audits, compliance scans, or DLP systems (e.g., Microsoft Purview).
+- Monitor violations, exceptions, and change requests.
+
+### 5. **Policy Review / Update**
+- Conduct annual or biennial reviews.
+- Record version control and change history.
+- Align with new regulatory or business changes.
+
+### 6. **Policy Retirement**
+- Archive policy.
+- Communicate retirement and provide successor policy if applicable.
+- Retain records for audit purposes (typically 3–7 years depending on industry).
+
+---
+
+## 🧠 Example Scenario
+
+A **Data Classification Policy** was implemented in 2022 to comply with ISO 27001 A.5.12 and NIST PR.IP-1. Following a DLP incident in Q3 2023, the policy was revised to include stricter access controls and re-issued as v1.2 in January 2024.
+
+---
+
+## 📂 Documentation Output
+
+- `Policy_Lifecycle_Tracker_SAMPLE.xlsx`
+- `Policy_Change_Log.md`
+- Policy mapping to ISO/NIST/SOC 2 (see [Compliance Dashboard](../dashboards/Compliance_Dashboard_Sample.md))
+
+---
+
+## 🔗 Related Projects
+
+- [Risk Register Template](../risk-register/Risk_Register_Template.md)
+- [Microsoft Purview DLP Lab](../purview-lab/Microsoft_Purview_DLP_Lab.md)
+- [POA&M Integration Demo](../qualys-servicenow-lab/POAM_Workflow_Example.md)
 
