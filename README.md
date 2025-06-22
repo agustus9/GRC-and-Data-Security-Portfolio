@@ -23,7 +23,7 @@ My portfolio showcases the practical implementation of GRC across various tools,
 
 - [📄 POA&M Workflow: Qualys → ServiceNow](https://github.com/agustus9/grc-portfolio/blob/main/qualys-servicenow-lab/POAM_Workflow_Example.md)
 
-- [📄 Compliance Dashboard (Excel)](https://github.com/agustus9/grc-portfolio/blob/main/dashboards/Compliance_Dashboard_Sample.md)
+- [Compliance Dashboard Excel File](dashboards/Compliance_Dashboard_Sample.xlsx)
 
 - [📄 Risk Register (Example)](https://github.com/agustus9/grc-portfolio/blob/main/risk-register/Risk_Register_Example.md)
 
