@@ -124,6 +124,6 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 
 ## 🔗 Connect With Me
 
-📄 [Arthur Mack – Resume](https://github.com/agustus9/grc-portfolio/blob/main/Arthur_Mack_Resume_2025.md)  
+[📄 My Resume (2025)](resume/Arthur_Mack_Resume_2025.md)  
 📫 arthurmack@email.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
