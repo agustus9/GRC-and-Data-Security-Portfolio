@@ -18,11 +18,12 @@ My portfolio showcases the practical implementation of GRC across various tools,
 
 Here you'll find hands-on projects and documentation reflecting my work in:
 
-- [Risk Register Template + Summary](./risk-register/)
-- [Policy Lifecycle Governance Demo](./policy-lifecycle/)
-- [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)
-- [POA&M and Audit Workflow: Qualys-ServiceNow Integration](./qualys-servicenow-lab/)
-- [Compliance Dashboard (Excel)](./dashboards/)
+- [Policy Lifecycle Demo](./policy-lifecycle/Policy_Lifecycle_Demo.md)
+- [POA&M Workflow](./qualys-servicenow-lab/POAM_Workflow_Example.md)
+- [Compliance Dashboard](./dashboards/Compliance_Dashboard_Sample.md)
+- [Risk Register Example](./risk-register/Risk_Register_Example.md)
+- [Risk Register Template](./risk-register/Risk_Register_Template.md)
+- [Qualys Script Demo](./qualys-servicenow-lab/Script_Demo.md)
 
 
 ## 📂 Portfolio Sections
