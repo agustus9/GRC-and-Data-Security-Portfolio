@@ -29,7 +29,7 @@ My portfolio showcases the practical implementation of GRC across various tools,
 
 - [📄 Risk Register Template](./risk-register/Risk_Register_Template.md)
 
-- [📄 Qualys Custom Assessment & Remediation Script](https://github.com/agustus9/grc-portfolio/blob/main/qualys-servicenow-lab/Script_Demo.md)
+- [📄 Qualys Custom Assessment & Remediation Script Demo](./qualys-servicenow-lab/Script_Demo.md)
 
 
 
