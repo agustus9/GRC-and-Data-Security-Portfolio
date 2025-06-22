@@ -84,7 +84,7 @@ Demonstrates automation of Plan of Action & Milestones (POA&M) workflows:
 - 🔄 Auto-assigned remediation deadlines with full lifecycle tracking
 - 📊 Fed metadata into dashboards for audit and KPI reporting
 
-📁 [View PDF](./qualys-servicenow-lab/Qualys_ServiceNow_POAM_Lab.pdf)
+📁 [Qualys-ServiceNow POA&M Lab (PDF)](./qualys-servicenow-lab/Qualys_ServiceNow_POAM_Lab.pdf)
 
 ### 📊 Compliance Dashboard (Excel)
 
