@@ -1,54 +1,59 @@
+# 📄 Policy Lifecycle Governance Demo
 
-# 🛡️ Policy Lifecycle Demo – Arthur Mack's GRC Portfolio
+This demo outlines how security policies are governed, tracked, and revised throughout their lifecycle within a GRC framework. The lifecycle ensures policies remain relevant, effective, and compliant with industry and organizational standards.
 
-## Overview
-This project demonstrates the end-to-end lifecycle of an information security policy. It simulates how organizations draft, review, approve, implement, monitor, and retire policies within a GRC framework, aligned with ISO 27001 and NIST standards.
+---
 
-## 📋 Policy Lifecycle Stages
+## 🛠️ Stages of the Policy Lifecycle
 
-1. **Policy Drafting**
-   - Created an Acceptable Use Policy (AUP) template based on ISO/IEC 27002 guidance.
-   - Defined scope, audience, responsible stakeholders, and enforcement language.
+### 1. **Policy Creation**
+- Drafted based on regulatory requirements (e.g., NIST, ISO 27001, HIPAA).
+- Involves stakeholders such as security, compliance, legal, and business units.
 
-2. **Review & Stakeholder Alignment**
-   - Simulated review rounds with Legal, HR, IT Security, and Executive teams.
-   - Created mock comments and tracked policy revisions.
+### 2. **Review and Approval**
+- Policies undergo formal review by GRC or compliance team.
+- Reviewed for clarity, scope, enforcement potential, and business alignment.
+- Approved by policy owners, risk officers, or steering committees.
 
-3. **Approval & Publication**
-   - Included metadata fields: versioning, approval date, and review schedule.
-   - Created a mock approval flow with a sample sign-off sheet.
+### 3. **Publication and Communication**
+- Policies are published in a central repository (e.g., Confluence, SharePoint).
+- Communicated through awareness training, onboarding, or direct manager briefings.
 
-4. **Implementation**
-   - Designed a rollout checklist: email notification, user training steps, and HR onboarding inclusion.
-   - Created a sample tracking log for policy attestation.
+### 4. **Implementation**
+- Enforcement via technical controls (e.g., DLP, SIEM alerts, firewall rules).
+- Integrated into SOPs, ticket workflows (e.g., ServiceNow), and audits.
 
-5. **Monitoring & Exceptions**
-   - Mocked a policy exception request form (to be logged via ServiceNow).
-   - Created monitoring KPIs such as policy violations, exception volume, and control alignment.
+### 5. **Monitoring and Enforcement**
+- Policy compliance monitored via tools like Qualys PC, ServiceNow, and SCCM.
+- Exceptions tracked, noncompliance logged, and incidents triaged.
 
-6. **Retirement / Version Update**
-   - Defined retirement triggers: tech changes, audit findings, regulatory updates.
-   - Archived policy and linked to the new updated version.
+### 6. **Periodic Review and Updates**
+- Policies are reviewed annually (or semi-annually) for effectiveness.
+- Changes due to regulatory shifts, risk appetite changes, or audit findings.
 
-## 📂 Files Included
+### 7. **Archiving or Retiring**
+- Outdated policies are archived with a reason for deprecation.
+- New version control maintained in the repository.
 
-- `Policy_Lifecycle_Demo.pdf`: Visual walkthrough of the policy lifecycle.
-- `Policy_Template_ISO_27001.docx`: Editable sample policy.
-- `Policy_Exception_Form_SAMPLE.docx`: Sample form used for exception handling.
+---
 
-## 🔗 Mapped Frameworks
+## ✅ Governance Activities Demonstrated
 
-| Framework     | Relevance                                             |
-|---------------|--------------------------------------------------------|
-| ISO 27001     | Policy creation, monitoring, and continuous review     |
-| NIST SP 800-53| Policy implementation and enforcement controls         |
-| COBIT         | Governance structure around policy accountability      |
+- Version control tagging in GitHub to track policy changes.
+- Review logs and exception management in ServiceNow.
+- Qualys PC used for automated compliance scans and reporting.
+- Microsoft Purview used to monitor data handling policy enforcement.
 
-## 🧩 Skills Demonstrated
+---
 
-- Policy drafting and version control
-- Audit-readiness documentation
-- Exception handling lifecycle
-- Cross-team governance alignment
-- GRC framework mapping
+## 📎 Artifacts
+
+- Sample Policy_Lifecycle_Demo.pdf (coming soon)
+- GitHub commit logs as version history
+- Linked to: [Compliance Dashboard](../dashboards/Compliance_Dashboard_Sample.md)
+- Tied to: [Risk Register Template](../risk-register/Risk_Register_Template.md)
+
+---
+
+_Last Updated: 2025-06-22 by Arthur Mack_
 
