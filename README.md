@@ -32,7 +32,6 @@ My portfolio showcases the practical implementation of GRC across various tools,
 - [📄 Qualys Custom Assessment & Remediation Script](https://github.com/agustus9/grc-portfolio/blob/main/qualys-servicenow-lab/Script_Demo.md)
 
 
-## 📂 Portfolio Sections
 
 ### 📄 Policy Lifecycle Demonstration
 
