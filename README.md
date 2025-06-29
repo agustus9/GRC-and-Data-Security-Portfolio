@@ -226,7 +226,7 @@ Use these tools to enhance your DLP policies and Insider Risk Management detecti
 
 ## 🔗 Related Portfolio Sections
 
-- [Microsoft Purview DLP Lab](../purview-lab/Purview_DLP_Simulation_PLACEHOLDER.docx)
+- [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
 - [Compliance Dashboard](../dashboards/Compliance_Dashboard_Sample.md)
 
 ---
