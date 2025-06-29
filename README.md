@@ -126,7 +126,8 @@ These patterns are used to define **Custom Sensitive Information Types (SITs)** 
 
 | File | Description |
 |------|-------------|
-| [Regex_Custom_Sensitive_Information_Types.md](Regex_Custom_Sensitive_Information_Types.md) | Contains regex patterns and logic used to detect custom SITs, including U.S. SSNs, ABA Routing Numbers, IBANs, SWIFT Codes, Employee IDs, and more. |
+| - [Regex Expressions – Custom Sensitive Information Types](purview-regex/Regex_Custom_Sensitive_Information_Types.md)
+| Contains regex patterns and logic used to detect custom SITs, including U.S. SSNs, ABA Routing Numbers, IBANs, SWIFT Codes, Employee IDs, and more. |
 | Sample JSON definitions (Coming soon) | Will include sample definitions formatted for Microsoft Purview via JSON for direct import via Microsoft 365 Compliance Center. |
 
 ---
