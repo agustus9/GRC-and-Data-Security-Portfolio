@@ -38,7 +38,7 @@ Learn how to configure and test Microsoft Purview Data Loss Prevention (DLP) for
 ### Screenshot 1 – DLP Policy Setup
 ![Purview Screenshot 1](https://raw.githubusercontent.com/Arthur-Mack/grc-portfolio/main/purview-lab/Purview_Screenshot_1.png)
 
-### Screenshot 2 – Data Loss Prevention Insights
+### Screenshot 2 – DLP Insights View
 ![Purview Screenshot 2](https://raw.githubusercontent.com/Arthur-Mack/grc-portfolio/main/purview-lab/Purview_Screenshot_2.png)
 
 
