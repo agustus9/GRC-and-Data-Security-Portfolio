@@ -80,11 +80,12 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 
 ## Microsoft Purview DLP Lab Screenshots
 
-### Screenshot 1 – DLP Policy Setup
-![Purview Screenshot 1](./Purview_Screenshot_1.png)
+Hands-on exploration of Microsoft Purview's Data Loss Prevention capabilities.
 
-### Screenshot 2 – DLP Insights View
-![Purview Screenshot 2](./Purview_Screenshot_2.png)
+![Purview Screenshot 1](./purview-lab/Purview_Screenshot_1.png)
+![Purview Screenshot 2](./purview-lab/Purview_Screenshot_2.png)
+
+🔗 [View the full lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)
 
 
 ### 📁 Purview Regex Expressions & Custom Sensitive Information Types
