@@ -76,6 +76,14 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 ![Purview Screenshot 1](./Purview_Screenshot_1.png)
 ![Purview Screenshot 2](./Purview_Screenshot_2.png)
 
+### 📁 Purview Regex Expressions & Custom Sensitive Information Types
+
+Explore Microsoft Purview's support for custom Sensitive Information Types using regular expressions (regex). Includes examples and templates.
+
+- 🔍 [Custom Regex Template for Sensitive Info Types](./purview-regex/Custom_Sensitive_Information_Types_Template.md)
+- 📘 [Purview Regex Overview README](./purview-regex/README_purview_regex.md)
+
+
 ### 🤝 Qualys–ServiceNow POA&M Integration Lab
 
 Demonstrates automation of Plan of Action & Milestones (POA&M) workflows:
