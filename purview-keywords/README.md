@@ -12,15 +12,15 @@ Keyword dictionaries help detect specific terms or phrases that relate to regula
 
 This lab demonstrates how to create and import custom keyword dictionaries into Microsoft Purview.
 
----
+📄 Keyword Sets:
+- [financial_terms.txt](./financial_terms.txt)
+- [healthcare_terms.txt](./healthcare_terms.txt)
 
-### 📄 Financial Terms (Preview)
-bank account
-routing number
-credit card
-investment
-account balance
-loan amount
-tax ID
-wire transfer
+🖼️ Visual Guide:
+- ![Import Guide](./Keyword_Dictionary_Import_Guide.png)
+
+### Lab Objectives:
+- Understand what keyword dictionaries are and their role in data classification.
+- Learn how to format and import .txt files for financial and healthcare term detection.
+- Visual walkthrough using Purview’s web interface.
 
