@@ -1,5 +1,7 @@
 # Microsoft Purview – Keyword Dictionary Lab
 
+![Purview Keywords](https://img.shields.io/badge/Microsoft%20Purview-Keyword%20Dictionary-blueviolet?style=flat-square&logo=microsoft)
+
 This section documents how to create and import custom keyword dictionaries into Microsoft Purview for use in Sensitive Information Types (SITs).
 
 ## 📘 Overview
