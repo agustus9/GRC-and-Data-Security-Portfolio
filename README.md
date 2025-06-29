@@ -114,6 +114,82 @@ A detailed breakdown of all security, compliance, cloud, and automation tools I�
 
 - [Regex Expressions for Microsoft Purview](purview-lab/Regex_Expressions_for_Purview.md): A collection of regular expressions used to define sensitive information types (e.g., SSNs, credit cards, emails) for custom DLP policies in Microsoft Purview.
 
+- # 🔍 Microsoft Purview Regex Expressions & Custom Sensitive Information Types
+
+This section of the GRC Portfolio provides curated and custom-built Regular Expressions (Regex) for use in **Microsoft Purview** Data Loss Prevention (DLP) and Information Protection policies.
+
+These patterns are used to define **Custom Sensitive Information Types (SITs)** that extend beyond the default Purview catalog and help address compliance with frameworks such as **NIST, HIPAA, PCI-DSS, GDPR**, and **ISO 27001**.
+
+---
+
+## 📁 Included in This Folder
+
+| File | Description |
+|------|-------------|
+| [Regex_Custom_Sensitive_Information_Types.md](Regex_Custom_Sensitive_Information_Types.md) | Contains regex patterns and logic used to detect custom SITs, including U.S. SSNs, ABA Routing Numbers, IBANs, SWIFT Codes, Employee IDs, and more. |
+| Sample JSON definitions (Coming soon) | Will include sample definitions formatted for Microsoft Purview via JSON for direct import via Microsoft 365 Compliance Center. |
+
+---
+
+## 🧪 Use Cases
+
+These custom expressions allow detection of:
+
+- U.S. Social Security Numbers (SSNs)
+- International Bank Account Numbers (IBAN)
+- U.S. Routing Numbers (ABA)
+- Employee or Personnel IDs
+- SWIFT/BIC Codes
+- Custom Company Identifiers (e.g., internal HR codes or contract numbers)
+
+---
+
+## 📚 Why Custom SITs Matter
+
+Default sensitive information types in Microsoft Purview are powerful but **may not cover unique business identifiers** or regional data types critical for:
+
+- Regulatory audits (e.g., HIPAA, PCI-DSS)
+- Contractual obligations with third parties
+- Risk-based data classification
+- Sector-specific standards like **NIST SP 800-53** or **CJIS**
+
+Custom SITs bridge this gap and ensure **granular visibility and data protection** across structured and unstructured content.
+
+---
+
+## 🔧 Integration Instructions
+
+1. Open Microsoft Purview compliance portal.
+2. Navigate to **Data Classification** → **Sensitive Information Types** → **Create Sensitive Info Type**.
+3. Use the regex patterns provided in the markdown file.
+4. Define supporting evidence keywords (optional).
+5. Apply SIT to your custom DLP or auto-labeling policies.
+
+---
+
+## 🔗 Related Portfolio Sections
+
+- [Microsoft Purview DLP Lab](../purview-lab/Purview_DLP_Simulation_PLACEHOLDER.docx)
+- [Compliance Dashboard](../dashboards/Compliance_Dashboard_Sample.md)
+
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Purview
+- Regex101 (for testing)
+- Microsoft 365 Compliance Portal
+
+---
+
+## 👤 Author
+
+Arthur Mack  
+🔗 [LinkedIn](https://www.linkedin.com/in/arthur-mack-sec)  
+📂 [GitHub Portfolio Root](https://github.com/agustus9/grc-portfolio)
+
+---
+
 ## 🎓 Certifications
 
 Here are the certifications I've earned (or am actively pursuing) to reinforce my GRC and cybersecurity expertise:
