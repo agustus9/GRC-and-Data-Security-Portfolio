@@ -228,8 +228,8 @@ Use these tools to enhance your DLP policies and Insider Risk Management detecti
 ## 👤 Author
 
 Arthur Mack  
-🔗 [LinkedIn](https://www.linkedin.com/in/arthur-mack-sec)  
-📂 [GitHub Portfolio Root](https://github.com/agustus9/grc-portfolio)
+- **GitHub GRC Portfolio**: [https://github.com/agustus9/grc-portfolio](https://github.com/agustus9/grc-portfolio)
+- **LinkedIn**: [https://www.linkedin.com/in/arthur-m-24a2a81ba/](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
 
 ---
 
