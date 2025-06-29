@@ -252,4 +252,4 @@ Over 9 years of experience in cybersecurity, specializing in vulnerability manag
 [📄 View My Resume (2025)](./Arthur_Mack_Resume_2025.md)
 
 📫 arthurmack@email.com  
-- **LinkedIn**: [https://www.linkedin.com/in/arthur-m-24a2a81ba/](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
+**LinkedIn**: [https://www.linkedin.com/in/arthur-m-24a2a81ba/](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
