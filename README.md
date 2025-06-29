@@ -246,7 +246,6 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 **Arthur Mack**  
 Senior IT Security Engineer | GRC & Compliance Specialist  
 Over 9 years of experience in cybersecurity, specializing in vulnerability management, cloud security, policy compliance, and governance frameworks (NIST, ISO 27001, HIPAA).  
-📫 arthurmack@email.com 
 
 ## 🔗 Connect With Me
 
