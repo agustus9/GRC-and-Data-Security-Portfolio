@@ -15,5 +15,12 @@ This lab demonstrates how to create and import custom keyword dictionaries into 
 ---
 
 ### 📄 Financial Terms (Preview)
-
+bank account
+routing number
+credit card
+investment
+account balance
+loan amount
+tax ID
+wire transfer
 
