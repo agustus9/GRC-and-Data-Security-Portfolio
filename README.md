@@ -249,6 +249,7 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 | 🔄 CRISC – Certified in Risk and Information Systems Control | In Progress | ISACA |
 | 🔄 CISM – Certified Information Security Manager | In Progress | ISACA |
 | ✅ Microsoft Purview DLP Administrator Course | Completed | Udemy / Microsoft Learn |
+| ✅ Definitive GRC Analyst Master Class | Completed | Simply Cyber Academy |
 
 ---
 
@@ -270,3 +271,4 @@ This portfolio is supported by a variety of training platforms, including:
 - [Cybrary: CRISC & CISM by Kelly Handerhan](https://www.cybrary.it/)
 - [Udemy: Governance, Risk, and Compliance 2025](https://www.udemy.com/)
 - Microsoft Learn, ISACA prep material, and personal lab simulations
+- [Simply Cyber: Practical Cybersecurity Skills & GRC Training](https://www.simplycyber.io/)
