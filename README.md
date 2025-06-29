@@ -167,6 +167,40 @@ Custom SITs bridge this gap and ensure **granular visibility and data protection
 5. Apply SIT to your custom DLP or auto-labeling policies.
 
 ---
+# 🔐 Purview Regex Expressions & Custom Sensitive Information Types
+
+This folder contains:
+
+- ✅ Sample Regular Expressions for use in Microsoft Purview custom Sensitive Information Types
+- ✅ Custom Sensitive Information Types Template & Examples
+
+---
+
+## 📁 Files Included
+
+| File Name                                      | Description                                                        |
+|-----------------------------------------------|--------------------------------------------------------------------|
+| `Regex_Custom_Sensitive_Information_Types.md` | Reference guide for regex patterns used in data classification     |
+| `Custom_Sensitive_Information_Types_Template.md` | Template for building custom SITs with all required components     |
+
+---
+
+## 📚 About Microsoft Purview Custom SITs
+
+Microsoft Purview lets you define your own custom Sensitive Information Types (SITs) to detect proprietary, regulated, or internal data formats using:
+
+- Regular Expressions (Regex)
+- Keyword Lists
+- Supporting Elements (keywords or regex)
+- Confidence levels
+- Proximity tuning
+
+Use these tools to enhance your DLP policies and Insider Risk Management detection capabilities.
+
+---
+
+🔗 Return to the main GRC Portfolio: [GitHub Repo](https://github.com/agustus9/grc-portfolio)
+
 
 ## 🔗 Related Portfolio Sections
 
