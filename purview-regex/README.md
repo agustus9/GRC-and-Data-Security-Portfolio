@@ -58,4 +58,4 @@ When creating a **Custom Sensitive Information Type** in the Microsoft Purview c
 
 **Arthur Mack**  
 🔗 GitHub GRC Portfolio: [github.com/agustus9/grc-portfolio](https://github.com/agustus9/grc-portfolio)  
-🔗 LinkedIn: [linkedin.com/in/arthur366q](https://linkedin.com/in/arthur366q)
+🔗 **LinkedIn**: [https://www.linkedin.com/in/arthur-m-24
