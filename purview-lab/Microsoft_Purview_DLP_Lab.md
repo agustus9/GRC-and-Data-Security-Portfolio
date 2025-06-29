@@ -46,9 +46,6 @@ Attach your lab notes or exported reports here (e.g., DLP policy template, audit
 
 ✅ Sample Template: [DLP_Policy_Template_SAMPLE.xlsx](./DLP_Policy_Template_SAMPLE.xlsx)
 
-
-- 📂 [Microsoft Purview – Keyword Dictionary Lab](./purview-keywords/README.md)
-
 ---
 
 ## 🔗 Related Resources
