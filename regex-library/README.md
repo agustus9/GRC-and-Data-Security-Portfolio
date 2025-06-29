@@ -56,6 +56,6 @@ This library serves to:
 ## 👨‍💻 Author
 
 **Arthur Mack**  
-*Data Security Engineer | GRC & Compliance | Microsoft Purview DLP | Regex Developer*
+Senior IT Security Engineer | GRC & Compliance Specialist | Data Security Engineer 
 
 
