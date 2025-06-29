@@ -227,9 +227,10 @@ Use these tools to enhance your DLP policies and Insider Risk Management detecti
 
 ## 👤 Author
 
-Arthur Mack  
-- **GitHub GRC Portfolio**: [https://github.com/agustus9/grc-portfolio](https://github.com/agustus9/grc-portfolio)
-- **LinkedIn**: [https://www.linkedin.com/in/arthur-m-24a2a81ba/](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
+**Arthur Mack**  
+Senior IT Security Engineer | GRC & Compliance Specialist  
+Over 9 years of experience in cybersecurity, specializing in vulnerability management, cloud security, policy compliance, and governance frameworks (NIST, ISO 27001, HIPAA).  
+📫 arthurmack@email.com 
 
 ---
 
@@ -254,4 +255,4 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 [📄 View My Resume (2025)](./Arthur_Mack_Resume_2025.md)
 
 📫 arthurmack@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
+- **LinkedIn**: [https://www.linkedin.com/in/arthur-m-24a2a81ba/](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
