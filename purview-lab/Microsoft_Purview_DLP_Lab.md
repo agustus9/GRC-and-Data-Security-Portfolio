@@ -48,6 +48,10 @@ Attach your lab notes or exported reports here (e.g., DLP policy template, audit
 
 ---
 
+- 📂 [Microsoft Purview – Keyword Dictionary Lab](./purview-keywords/README.md)
+
+---
+
 ## 🔗 Related Resources
 - [Microsoft Purview DLP Docs](https://learn.microsoft.com/en-us/microsoft-365/compliance/dlp-learn-about-dlp)
 - [Data Classification in Purview](https://learn.microsoft.com/en-us/microsoft-365/compliance/sensitive-information-type-learn-about)
