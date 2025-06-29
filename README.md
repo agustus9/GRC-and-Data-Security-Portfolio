@@ -225,15 +225,6 @@ Use these tools to enhance your DLP policies and Insider Risk Management detecti
 
 ---
 
-## 👤 Author
-
-**Arthur Mack**  
-Senior IT Security Engineer | GRC & Compliance Specialist  
-Over 9 years of experience in cybersecurity, specializing in vulnerability management, cloud security, policy compliance, and governance frameworks (NIST, ISO 27001, HIPAA).  
-📫 arthurmack@email.com 
-
----
-
 ## 🎓 Certifications
 
 Here are the certifications I've earned (or am actively pursuing) to reinforce my GRC and cybersecurity expertise:
@@ -249,6 +240,13 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 
 
 ---
+
+## 👤 Author
+
+**Arthur Mack**  
+Senior IT Security Engineer | GRC & Compliance Specialist  
+Over 9 years of experience in cybersecurity, specializing in vulnerability management, cloud security, policy compliance, and governance frameworks (NIST, ISO 27001, HIPAA).  
+📫 arthurmack@email.com 
 
 ## 🔗 Connect With Me
 
