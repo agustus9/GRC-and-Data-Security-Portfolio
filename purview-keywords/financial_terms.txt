@@ -1,0 +1,10 @@
+account number
+bank routing number
+credit card
+debit card
+SWIFT code
+IBAN
+payment processing
+ACH transfer
+financial statement
+invoice number

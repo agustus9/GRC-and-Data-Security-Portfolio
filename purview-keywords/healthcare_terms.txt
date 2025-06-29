@@ -1,0 +1,10 @@
+medical record
+patient ID
+diagnosis code
+procedure code
+health insurance number
+HIPAA
+PHI
+EHR
+prescription ID
+treatment plan
