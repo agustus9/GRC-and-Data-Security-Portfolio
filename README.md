@@ -18,21 +18,20 @@ Welcome to my Governance, Risk, and Compliance (GRC) portfolio.
 My portfolio showcases the practical implementation of GRC across various tools, including **Microsoft Purview**, **Qualys**, and **ServiceNow**, utilizing real-world policy and risk management scenarios.
 
 
-## 📁 GRC Portfolio Projects
+## 🛠 GRC Portfolio Projects
 
-- [📄 Microsoft Purview DLP Lab](https://github.com/agustus9/grc-portfolio/blob/main/purview-lab/Microsoft_Purview_DLP_Lab.md)
+Explore my hands-on work across key GRC domains, supported by custom labs, dashboards, and simulations.  
+These projects reflect real-world implementation of industry frameworks (NIST, ISO 27001, PCI-DSS) and tools (Qualys, Microsoft Purview, ServiceNow).
 
-- [📄 Policy Lifecycle Governance Demo](./policy-lifecycle/Policy_Lifecycle_Demo.md)
-
-- [📄 POA&M Workflow Example](./qualys-servicenow-lab/POAM_Workflow_Example.md)
-
-- [📄 Compliance Dashboard (Excel)](dashboards/README.md)
-
-- [📄 Risk Register Example](./risk-register/Risk_Register_Example.md)
-
-- [📄 Risk Register Template](./risk-register/Risk_Register_Template.md)
-
-- [📄 Qualys Custom Assessment & Remediation Script Demo](./qualys-servicenow-lab/Script_Demo.md)
+| Project | Description | Skills & Tools |
+|--------|-------------|----------------|
+| **[Risk Register – NIST Mapped](./risk-register/Risk_Register_Template.md)** | Simulated risk register aligned with NIST SP 800-30/53 | ![NIST](https://img.shields.io/badge/NIST-800--53-blue) ![Excel](https://img.shields.io/badge/Excel-Risk%20Dashboard-success) |
+| **[Policy Lifecycle Governance](./policy-lifecycle/Policy_Lifecycle_Demo.md)** | Tracks a security policy from draft to retirement | ![ISO27001](https://img.shields.io/badge/ISO-27001-orange) ![Governance](https://img.shields.io/badge/Governance-Lifecycle-yellow) |
+| **[Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)** | Hands-on Data Loss Prevention lab with sensitivity labels and analytics | ![Purview](https://img.shields.io/badge/Microsoft-Purview-blueviolet) ![DLP](https://img.shields.io/badge/DLP-Sensitive%20Info%20Protection-lightgrey) |
+| **[Compliance Dashboard](./dashboards/Compliance_Dashboard_Sample.md)** | Excel dashboard for KPI/KRI compliance tracking | ![Compliance](https://img.shields.io/badge/Compliance-Dashboard-brightgreen) ![Excel](https://img.shields.io/badge/Excel-Metrics-green) |
+| **[Qualys → ServiceNow POA&M Lab](./qualys-servicenow-lab/POAM_Workflow_Example.md)** | Integrates Qualys policy failures into ServiceNow with POA&M logic | ![Qualys](https://img.shields.io/badge/Qualys-Vuln%20Mgmt-red) ![ServiceNow](https://img.shields.io/badge/ServiceNow-GRC-lightblue) |
+| **[Regex Library for Custom Sensitive Info Types](./purview-regex/Regex_Custom_Sensitive_Information_Types.md)** | Custom regex patterns for Purview’s data classification engine | ![Regex](https://img.shields.io/badge/Regex-Custom%20Data%20Types-informational) ![Purview](https://img.shields.io/badge/Purview-Custom%20Sensitivity-purple) |
+| **[Regex Lab Exercises](./regex-library/labs/README.md)** | Lab-based regex detection exercises built for GRC/DLP training | ![Regex](https://img.shields.io/badge/Regex-Labs-critical) ![Practice](https://img.shields.io/badge/Hands--On-Training-yellowgreen) |
 
 
 
