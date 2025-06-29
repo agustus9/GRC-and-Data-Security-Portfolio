@@ -13,14 +13,49 @@ regex-library/
 ├── README.md              # Overview of the regex library (this file)
 ├── labs/                  # Hands-on regex labs and use case examples
 └── patterns/              # Verified and documented regex expressions
-
+```
 
 ---
 
-### 📌 What You Can Do Next
-- ✅ Copy/paste this into your `regex-library/README.md`
-- ✍️ Add or customize examples and links to any specific patterns or labs you’ve already added
-- 📁 Link this file from the **main GRC Portfolio README** under a “Regex Projects” section if you haven’t already
+## 🎯 Purpose
 
-Want me to generate the markdown file ready for GitHub upload?
+This library serves to:
+- Support the creation of **custom Sensitive Information Types** in Microsoft Purview
+- Provide **regex templates** for detecting financial, healthcare, and personal identifiers (e.g., SSNs, credit cards, IBANs)
+- Offer **reusable regex patterns** for audit readiness, data classification, and policy enforcement
+- Enable regex testing and learning through **lab-based exercises** and practical walkthroughs
+
+---
+
+## 🔍 Sample Use Cases
+
+- Detecting improperly stored **Social Security Numbers (SSNs)** in SharePoint files
+- Creating custom patterns for **international passport numbers**
+- Testing DLP policies with **bank account number formats** in test datasets
+- Auditing sensitive data fields in exported CSVs using regex matchers
+
+---
+
+## 🧪 How to Use
+
+- Browse the `patterns/` folder to find ready-to-use expressions with context and notes.
+- Work through the exercises in the `labs/` folder to simulate how regex patterns behave with real content.
+- Use this as a foundation to **integrate regex into your Microsoft Purview DLP**, PowerShell scripts, or cloud compliance policies.
+
+---
+
+## 🔗 Related Resources
+
+- [Microsoft Purview Custom Sensitive Information Types](https://learn.microsoft.com/en-us/microsoft-365/compliance/sensitive-information-type-learn-about?view=o365-worldwide)
+- [Regex101](https://regex101.com) — for building and testing expressions interactively
+- [Arthur Mack GRC Portfolio](https://github.com/agustus9/grc-portfolio)
+- [Arthur Mack on LinkedIn](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
+
+---
+
+## 👨‍💻 Author
+
+**Arthur Mack**  
+*Data Security Engineer | GRC & Compliance | Microsoft Purview DLP | Regex Developer*
+
 
