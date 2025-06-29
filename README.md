@@ -80,11 +80,11 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 
 ## Microsoft Purview DLP Lab Screenshots
 
-### Screenshot 1 – Policy Setup
-![Purview Screenshot 1](https://raw.githubusercontent.com/your-username/grc-portfolio/main/purview-lab/Purview_Screenshot_1.png)
+### Screenshot 1 – DLP Policy Setup
+![Purview Screenshot 1](./Purview_Screenshot_1.png)
 
-### Screenshot 2 – Analytics Dashboard
-![Purview Screenshot 2](https://raw.githubusercontent.com/your-username/grc-portfolio/main/purview-lab/Purview_Screenshot_2.png)
+### Screenshot 2 – DLP Insights View
+![Purview Screenshot 2](./Purview_Screenshot_2.png)
 
 
 ### 📁 Purview Regex Expressions & Custom Sensitive Information Types
