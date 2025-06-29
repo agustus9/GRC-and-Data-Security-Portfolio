@@ -112,6 +112,8 @@ A detailed breakdown of all security, compliance, cloud, and automation tools Iâ
 
 [![Tools](https://img.shields.io/badge/Tools-Mastered-blue)](./tools-mastered.md)
 
+- [Regex Expressions for Microsoft Purview](purview-lab/Regex_Expressions_for_Purview.md): A collection of regular expressions used to define sensitive information types (e.g., SSNs, credit cards, emails) for custom DLP policies in Microsoft Purview.
+
 ## ðŸŽ“ Certifications
 
 Here are the certifications I've earned (or am actively pursuing) to reinforce my GRC and cybersecurity expertise:
