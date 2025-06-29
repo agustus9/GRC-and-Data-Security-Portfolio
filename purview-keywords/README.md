@@ -8,12 +8,12 @@ This section documents how to create and import custom keyword dictionaries into
 
 Keyword dictionaries help detect specific terms or phrases that relate to regulated or business-sensitive content. These dictionaries can be used to trigger DLP policies.
 
-## 📁 Folder Structure
+## Microsoft Purview – Keyword Dictionary Lab
 
-```bash
-purview-keywords/
-├── README.md
-├── keyword_sets/
-│   ├── financial_terms.txt
-│   ├── healthcare_terms.txt
-├── Keyword_Dictionary_Import_Guide.png
+This lab demonstrates how to create and import custom keyword dictionaries into Microsoft Purview.
+
+---
+
+### 📄 Financial Terms (Preview)
+
+
