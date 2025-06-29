@@ -5,17 +5,22 @@
 
 Welcome to my Governance, Risk, and Compliance (GRC) portfolio.  
 
-## 🧭 GRC Overview
+## 📚 GRC Overview
 
-**Governance, Risk, and Compliance (GRC)** is the integrated collection of capabilities that enable an organization to reliably achieve objectives, address uncertainty, and act with integrity.
+Governance, Risk, and Compliance (GRC) is the integrated collection of capabilities that enable an organization to reliably achieve objectives, address uncertainty, and act with integrity.
 
-| Pillar | Description |
-|--------|-------------|
-| **Governance** | Ensures alignment of IT/security initiatives with business goals, including policies, roles, and frameworks (e.g., NIST, ISO 27001). |
-| **Risk Management** | Identifies, assesses, and mitigates risks to critical assets — often through risk registers, assessments, KRIs, and POA&Ms. |
-| **Compliance** | Ensures adherence to legal, regulatory, and policy obligations (e.g., HIPAA, SOX, PCI-DSS, FedRAMP). Supported by evidence collection, UARs, audits, and continuous monitoring. |
+![GRC](https://img.shields.io/badge/GRC-Governance%2C%20Risk%2C%20Compliance-blue)
+![Frameworks](https://img.shields.io/badge/Frameworks-NIST%20%7C%20ISO%2027001%20%7C%20CIS-green)
+![Compliance](https://img.shields.io/badge/Compliance-HIPAA%20%7C%20PCI--DSS%20%7C%20FedRAMP-brightgreen)
+![Risk Tools](https://img.shields.io/badge/Tools-Risk%20Register%20%7C%20POA%26M%20%7C%20UARs-lightgrey)
+![Certifications](https://img.shields.io/badge/Certifications-CRISC%20%7C%20CISM%20%7C%20Purview%20DLP-yellow)
 
-My portfolio showcases the practical implementation of GRC across various tools, including **Microsoft Purview**, **Qualys**, and **ServiceNow**, utilizing real-world policy and risk management scenarios.
+| Pillar         | Description                                                                                                                                         |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Governance** | Ensures alignment of IT/security initiatives with business goals, including policies, roles, and frameworks (e.g., NIST, ISO 27001).               |
+| **Risk Mgmt.** | Identifies, assesses, and mitigates risks to critical assets — often through risk registers, assessments, KRIs, and POA&Ms.                        |
+| **Compliance** | Ensures adherence to legal, regulatory, and policy obligations (e.g., HIPAA, SOX, PCI-DSS, FedRAMP). Supported by evidence collection, UARs, audits. |
+
 
 
 ## 🛠 GRC Portfolio Projects
