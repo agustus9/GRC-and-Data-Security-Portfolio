@@ -78,10 +78,14 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 - [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)  
   _Simulate and manage M365 DLP using Microsoft Purview — includes screenshots and a policy template._
 
-  ## 🔍 Screenshots
+## Microsoft Purview DLP Lab Screenshots
 
-![Purview Screenshot 1](./Purview_Screenshot_1.png)
-![Purview Screenshot 2](./Purview_Screenshot_2.png)
+### Screenshot 1 – Policy Setup
+![Purview Screenshot 1](https://raw.githubusercontent.com/your-username/grc-portfolio/main/purview-lab/Purview_Screenshot_1.png)
+
+### Screenshot 2 – Analytics Dashboard
+![Purview Screenshot 2](https://raw.githubusercontent.com/your-username/grc-portfolio/main/purview-lab/Purview_Screenshot_2.png)
+
 
 ### 📁 Purview Regex Expressions & Custom Sensitive Information Types
 
