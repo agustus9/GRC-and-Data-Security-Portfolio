@@ -16,7 +16,6 @@ This lab demonstrates how to create and import custom keyword dictionaries into 
 - [financial_terms.txt](./financial_terms.txt)
 - [healthcare_terms.txt](./healthcare_terms.txt)
 
-🖼️ Visual Guide:
 - ![Import Guide](./Keyword_Dictionary_Import_Guide.png)
 
 ### Lab Objectives:
