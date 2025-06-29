@@ -78,6 +78,8 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 - [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)  
   _Simulate and manage M365 DLP using Microsoft Purview — includes screenshots and a policy template._
 
+  - 📂 [Microsoft Purview – Keyword Dictionary Lab](./purview-keywords/README.md)
+
 ## Microsoft Purview DLP Lab Screenshots
 
 Hands-on exploration of Microsoft Purview's Data Loss Prevention capabilities.
