@@ -31,13 +31,13 @@ Learn how to configure and test Microsoft Purview Data Loss Prevention (DLP) for
 ### 3. Apply the Policy
 ...
 
-## Microsoft Purview DLP Lab Screenshots
+## 📸 Screenshots
 
-### Screenshot 1 – Policy Setup
-![Policy Screenshot 1](./purview-lab/Purview_Screenshot_1.png)
+### Screenshot 1 – DLP Policy Setup
+![Purview Screenshot 1](./Purview_Screenshot_1.png)
 
-### Screenshot 2 – Analytics Dashboard
-![Policy Screenshot 2](./purview-lab/Purview_Screenshot_2.png)
+### Screenshot 2 – DLP Insights View
+![Purview Screenshot 2](./Purview_Screenshot_2.png)
 
 ---
 
