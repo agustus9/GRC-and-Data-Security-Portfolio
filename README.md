@@ -2,7 +2,6 @@
   <img src="assets/grc_portfolio_banner.png" alt="Arthur Mack GRC Portfolio Banner" width="100%" />
 </p>
 
-# Arthur Mack – GRC Portfolio
 
 Welcome to my Governance, Risk, and Compliance (GRC) portfolio.  
 
