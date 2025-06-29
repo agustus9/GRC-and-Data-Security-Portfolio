@@ -228,9 +228,6 @@ Use these tools to enhance your DLP policies and Insider Risk Management detecti
 
 - [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
 - [Compliance Dashboard Sample](dashboards/Compliance_Dashboard_Sample.md)
-- [Regex Expressions for Purview](purview-regex/Regex_Custom_Sensitive_Information_Types.md)
-- [Keyword Dictionary Lab for Purview](purview-keywords/Keyword_Dictionary_Lab.md)
-- [Qualys–ServiceNow POA&M Lab](qualys-servicenow-lab/Qualys_ServiceNow_POAM_Lab.md)
 
 ---
 
