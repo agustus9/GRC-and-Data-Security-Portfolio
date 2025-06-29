@@ -259,6 +259,12 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 Senior IT Security Engineer | GRC & Compliance Specialist | Data Security Engineer  
 Over 9 years of experience in cybersecurity, specializing in vulnerability management, cloud security, policy compliance, and governance frameworks (NIST, ISO 27001, HIPAA).
 
+## Learning Resources
+This portfolio is supported by a variety of training platforms, including:
+- [Cybrary: CRISC & CISM by Kelly Handerhan](https://www.cybrary.it/)
+- [Udemy: Governance, Risk, and Compliance 2025](https://www.udemy.com/)
+- Microsoft Learn, ISACA prep material, and personal lab simulations
+
 ## 🔗 Connect With Me
 
 - 📄 [View My Resume (2025)](https://github.com/agustus9/grc-portfolio/blob/main/Arthur_Mack_Resume_2025.md)  
