@@ -17,7 +17,7 @@ This section of the GRC Portfolio highlights key cybersecurity, privacy, and com
 | [📦ISO/IEC 27001](./ISO_27001.md) | International standard for information security management. |
 | [📦NIST 800-53](./NIST_800_53.md) | Comprehensive U.S. federal cybersecurity control catalog. |
 | [📦 PCI-DSS](PCI_DSS.md) | Payment Card Industry Data Security Standard. |
-| [📦HIPAA](./HIPAA.md) | U.S. law governing health information privacy and security. |
+| [📦 HIPAA](frameworks/HIPAA.md) | U.S. law governing health information privacy and security. |
 | [📦GLBA](./GLBA.md) | U.S. financial data protection law. |
 | [📦SOX](./SOX.md) | Sarbanes-Oxley Act for financial reporting and internal controls. |
 | [📦FFIEC CAT](./FFIEC_CAT.md) | Risk assessment framework for financial institutions. |
