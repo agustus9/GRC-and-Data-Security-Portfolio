@@ -274,3 +274,7 @@ This portfolio is supported by a variety of training platforms, including:
 - [Udemy: Governance, Risk, and Compliance 2025](https://www.udemy.com/)
 - Microsoft Learn, ISACA prep material, and personal lab simulations
 - [Simply Cyber: Practical Cybersecurity Skills & GRC Training](https://www.simplycyber.io/)
+
+<p align="center">
+  <img src="assets/its_a_grc_world_banner.gif" alt="It's a GRC World">
+</p>
