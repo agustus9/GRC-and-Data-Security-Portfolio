@@ -277,9 +277,8 @@ This portfolio is supported by a variety of training platforms, including:
 
 ---
 
-<p align="center">
-  <img src="assets/its_a_grc_world_banner.png" alt="It's a GRC World" width="600">
-</p>
+<img src="assets/its_a_grc_world_banner.png" alt="It's a GRC World" width="450">
+
 
 
 
