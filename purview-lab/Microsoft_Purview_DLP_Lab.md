@@ -1,57 +1,69 @@
-# 🛡️ Microsoft Purview DLP Lab
+# Microsoft Purview – DLP Simulation Lab
 
-![Microsoft Purview Lab Banner](Microsoft_Purview_Lab_Banner.png)
+This GitHub-based lab simulates how Microsoft Purview’s DLP tools can be structured and implemented using prewritten templates, keyword dictionaries, and POA&M response workflows.
 
-
-## 📌 Overview
-Learn how to configure and test Microsoft Purview Data Loss Prevention (DLP) for M365 workloads. This lab simulates a real-world scenario involving DLP policy design, deployment, and validation.
+> 🧪 This is a simulated training lab, not a production environment.
 
 ---
 
-## 🧪 Lab Objectives
-- Enable and configure Microsoft Purview DLP.
-- Create and customize DLP policies for email and OneDrive.
-- Simulate policy matches and view audit/report logs.
+## 🧬 1. Sensitive Information Types
+
+Microsoft Purview offers built-in and custom **Sensitive Information Types (SITs)** for identifying data like credit cards, SSNs, or healthcare info.
+
+You can also create **Custom SITs** using:
+- **Regex patterns**
+- **Keyword dictionaries**
+- **Supporting evidence (confidence levels)**
+
+📄 View examples:  
+- [Regex Expressions](../regex-library/patterns/)
+- [Custom SIT Readme](../purview-regex/Regex_Custom_Sensitive_Information_Types.md)
 
 ---
 
-## 🧰 Prerequisites
-- Microsoft 365 E5 Developer tenant
-- Admin credentials
-- Microsoft Purview compliance portal access
+## 🛡️ 2. DLP & Policy Simulation
+
+Use our Excel-based **DLP policy template** to simulate rule creation for Microsoft Purview.
+
+📄 Download: [DLP_Policy_Template_SAMPLE.xlsx](DLP_Policy_Template_SAMPLE.xlsx)
+
+Policy Components:
+- Conditions (e.g., detects “financial terms”)
+- Actions (e.g., block download, alert admin)
+- Scopes (e.g., SharePoint, Teams, Exchange)
+
+📸 Screenshot:  
+![Purview Policy View](Purview_Screenshot_1.png)
 
 ---
 
-## 🛠️ Step-by-Step Lab Instructions
+## 🗂️ 3. Keyword Dictionaries
 
-### 1. Access Microsoft Purview
-1. Log in to the [Microsoft Purview Compliance Portal](https://compliance.microsoft.com/).
-2. Navigate to **Data Loss Prevention > Policies**.
+Purview supports uploading custom keyword lists to create **dictionary-based SITs**.
 
-### 2. Create a New DLP Policy
-...
+📄 Sample Files:
+- [financial_terms.txt](../purview-keywords/financial_terms.txt)
+- [healthcare_terms.txt](../purview-keywords/healthcare_terms.txt)
 
-### 3. Apply the Policy
-...
+🧭 Import Instructions:  
+[Keyword Dictionary Setup Guide](../purview-keywords/README.md)
 
-## 📸 Screenshots
-
-### Screenshot 1 – DLP Policy Setup
-![Purview Screenshot 1](./Purview_Screenshot_1.png)
-
-### Screenshot 2 – DLP Insights View
-![Purview Screenshot 2](./Purview_Screenshot_2.png)
+📸 Visual:  
+![Import Guide](../purview-keywords/Keyword_Dictionary_Import_Guide_Scaled.png)
 
 ---
 
-## 🧾 Documentation Output
-Attach your lab notes or exported reports here (e.g., DLP policy template, audit results).
+## 🛠️ 4. POA&M Mapping
 
-✅ Sample Template: [DLP_Policy_Template_SAMPLE.xlsx](./DLP_Policy_Template_SAMPLE.xlsx)
+Violations detected by DLP should be documented in a **Plan of Action & Milestones (POA&M)**.
+
+📄 Template: [POAM_Workflow_Example.xlsx](../qualys-servicenow-lab/POAM_Workflow_Example.xlsx)
+
+| Incident | Control | Action | Owner | Due Date |
+|----------|---------|--------|--------|----------|
+| Sensitive info emailed externally | NIST 800-53 AC-21 | Auto-revoke access | Security Compliance | 30 days |
 
 ---
 
-## 🔗 Related Resources
-- [Microsoft Purview DLP Docs](https://learn.microsoft.com/en-us/microsoft-365/compliance/dlp-learn-about-dlp)
-- [Data Classification in Purview](https://learn.microsoft.com/en-us/microsoft-365/compliance/sensitive-information-type-learn-about)
-
+> 🔄 This lab continues to evolve with additional templates, rules, and dashboards.  
+> Explore more in: [Regex Library](../regex-library/) | [Keyword Lab](../purview-keywords/)
