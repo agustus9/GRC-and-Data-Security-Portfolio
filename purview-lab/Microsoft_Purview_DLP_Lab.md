@@ -1,5 +1,7 @@
 # Microsoft Purview – DLP Simulation Lab
 
+![Microsoft Purview Lab Banner](Microsoft_Purview_Lab_Banner.png)
+
 This GitHub-based lab simulates how Microsoft Purview’s DLP tools can be structured and implemented using prewritten templates, keyword dictionaries, and POA&M response workflows.
 
 > 🧪 This is a simulated training lab, not a production environment.
