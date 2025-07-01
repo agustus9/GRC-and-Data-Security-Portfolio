@@ -1,5 +1,8 @@
 # 🛡️ Microsoft Purview DLP Lab
 
+![Microsoft Purview Lab Banner](Microsoft_Purview_Lab_Banner.png)
+
+
 ## 📌 Overview
 Learn how to configure and test Microsoft Purview Data Loss Prevention (DLP) for M365 workloads. This lab simulates a real-world scenario involving DLP policy design, deployment, and validation.
 
