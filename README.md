@@ -277,7 +277,10 @@ This portfolio is supported by a variety of training platforms, including:
 
 ---
 
-<img src="assets/its_a_grc_world_banner.png" alt="It's a GRC World" width="450">
+<p align="center">
+  <img src="assets/its_a_grc_world_banner.png" alt="It's a GRC World" width="700" height="100">
+</p>
+
 
 
 
