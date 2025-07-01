@@ -116,24 +116,6 @@ Sample Excel dashboard tracking compliance status by control category and asset.
 
 ---
 
-## 💼 GRC Skills Matrix (2025+)
-
-This section provides a strategic mapping of **in-demand GRC skills** aligned with Arthur Mack’s real-world projects and professional capabilities.
-
-📄 [View Full Skills Overview →](./GRC_Skills_Overview.md)
-
-Highlights:
-- Maps key enterprise-ready GRC capabilities (Governance, Risk, Compliance, Vulnerability Mgmt, Cloud, Audit)
-- Aligns each skill with lab artifacts from this GitHub portfolio
-- Reflects current job market priorities (based on 2025 hiring trends)
-
-## 💼 Skills Overview
-
-📄 [🧰 Tools You’ve Mastered](./tools-mastered.md)  
-A detailed breakdown of all security, compliance, cloud, and automation tools I’ve worked with hands-on across projects and professional roles.
-
-[![Tools](https://img.shields.io/badge/Tools-Mastered-blue)](./tools-mastered.md)
-
 - [Regex Expressions for Microsoft Purview](purview-lab/Regex_Expressions_for_Purview.md): A collection of regular expressions used to define sensitive information types (e.g., SSNs, credit cards, emails) for custom DLP policies in Microsoft Purview.
 
 - # 🔍 Microsoft Purview Regex Expressions & Custom Sensitive Information Types
@@ -236,6 +218,26 @@ Use these tools to enhance your DLP policies and Insider Risk Management detecti
 - Microsoft Purview
 - Regex101 (for testing)
 - Microsoft 365 Compliance Portal
+
+---
+
+## 💼 GRC Skills Matrix (2025+)
+
+This section provides a strategic mapping of **in-demand GRC skills** aligned with Arthur Mack’s real-world projects and professional capabilities.
+
+📄 [View Full Skills Overview →](./GRC_Skills_Overview.md)
+
+Highlights:
+- Maps key enterprise-ready GRC capabilities (Governance, Risk, Compliance, Vulnerability Mgmt, Cloud, Audit)
+- Aligns each skill with lab artifacts from this GitHub portfolio
+- Reflects current job market priorities (based on 2025 hiring trends)
+
+## 💼 Skills Overview
+
+📄 [🧰 Tools You’ve Mastered](./tools-mastered.md)  
+A detailed breakdown of all security, compliance, cloud, and automation tools I’ve worked with hands-on across projects and professional roles.
+
+[![Tools](https://img.shields.io/badge/Tools-Mastered-blue)](./tools-mastered.md)
 
 ---
 
