@@ -86,7 +86,7 @@ Hands-on exploration of Microsoft Purview's Sensitive Information Types.
 
 ![Purview Screenshot 1](./purview-lab/Purview_Screenshot_1.png)
 
-Hands-on exploration of Microsoft Purview's Data Loss Prevention | Policy
+Hands-on exploration of Microsoft Purview's Data Loss Prevention | Policy.
 
 ![Purview Screenshot 2](./purview-lab/Purview_Screenshot_2.png)
 
