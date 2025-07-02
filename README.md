@@ -221,6 +221,10 @@ Use these tools to enhance your DLP policies and Insider Risk Management detecti
 
 ---
 
+- [🏦 Financial Regulations & Cybersecurity Frameworks](financial-regulations/financial-regulations.md)
+
+---
+
 ## 💼 GRC Skills Matrix (2025+)
 
 This section provides a strategic mapping of **in-demand GRC skills** aligned with Arthur Mack’s real-world projects and professional capabilities.
