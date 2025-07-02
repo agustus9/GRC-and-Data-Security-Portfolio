@@ -221,6 +221,12 @@ Use these tools to enhance your DLP policies and Insider Risk Management detecti
 
 ---
 
+## Financial Regulations & Cybersecurity Frameworks
+
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2024--04--27-blue)](https://shields.io/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+This section provides an overview of key U.S. and international financial regulations and cybersecurity frameworks vital for compliance, risk management, and data security. It includes detailed references and resources for frameworks such as ISO 27001, NIST, GDPR, Basel III, and others, helping organizations strengthen their security posture and regulatory adherence.
 - [🏦 Financial Regulations & Cybersecurity Frameworks](financial-regulations/financial-regulations.md)
 
 ---
