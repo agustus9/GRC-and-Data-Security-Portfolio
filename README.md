@@ -82,14 +82,22 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 
 ## Microsoft Purview DLP Lab Screenshots
 
-Hands-on exploration of Microsoft Purview's Data Loss Prevention capabilities.
+Hands-on exploration of Microsoft Purview's Sensitive Information Types.
 
 ![Purview Screenshot 1](./purview-lab/Purview_Screenshot_1.png)
+
+Hands-on exploration of Microsoft Purview's Data Loss Prevention | Policy
 
 ![Purview Screenshot 2](./purview-lab/Purview_Screenshot_2.png)
 
 🔗 [View the full lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)
 
+## 🔗 Related Portfolio Sections
+
+- [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
+- [Compliance Dashboard Sample](dashboards/Compliance_Dashboard_Sample.md)
+
+- --
 
 ### 📁 Purview Regex Expressions & Custom Sensitive Information Types
 
@@ -98,6 +106,7 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 - 🔍 [Custom Regex Template for Sensitive Info Types](./purview-regex/Custom_Sensitive_Information_Types_Template.md)
 - 📘 [Purview Regex Overview README](./purview-regex/README_purview_regex.md)
 
+---
 
 ### 🤝 Qualys–ServiceNow POA&M Integration Lab
 
@@ -205,12 +214,6 @@ Use these tools to enhance your DLP policies and Insider Risk Management detecti
 ---
 
 🔗 Return to the main GRC Portfolio: [GitHub Repo](https://github.com/agustus9/grc-portfolio)
-
-
-## 🔗 Related Portfolio Sections
-
-- [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
-- [Compliance Dashboard Sample](dashboards/Compliance_Dashboard_Sample.md)
 
 ---
 
