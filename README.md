@@ -63,7 +63,12 @@ This folder includes a structured and reusable Risk Register aligned with NIST C
   - ISO/IEC 27001:2013 Annex A
   - CIS Controls v8
 
+## Resources
+
+- 🔐 For a detailed control mapping across standards and frameworks, see the [Controls Mapping Guide](financial-regulations/Controls_Mapping_Guide.md).
 🛠 Built and maintained by Arthur Mack as part of this GRC portfolio.
+
+---
 
 ### 🔐 Microsoft Purview DLP Lab
 
