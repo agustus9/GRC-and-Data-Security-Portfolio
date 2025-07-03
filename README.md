@@ -37,7 +37,6 @@ These projects reflect real-world implementation of industry frameworks (NIST, I
 | **[Policy Lifecycle Governance](./policy-lifecycle/Policy_Lifecycle_Demo.md)** | Tracks a security policy from draft to retirement | ![ISO27001](https://img.shields.io/badge/ISO-27001-orange) ![Governance](https://img.shields.io/badge/Governance-Lifecycle-yellow) |
 | **[Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)** | Hands-on Data Loss Prevention lab with sensitivity labels and analytics | ![Purview](https://img.shields.io/badge/Microsoft-Purview-blueviolet) ![DLP](https://img.shields.io/badge/DLP-Sensitive%20Info%20Protection-lightgrey) |
 | **[Compliance Dashboard](dashboards/README.md)** | Excel dashboard for KPI/KRI compliance tracking | ![Compliance](https://img.shields.io/badge/Compliance-Dashboard-brightgreen) ![Excel](https://img.shields.io/badge/Excel-Metrics-green) |
-| **[Qualys → ServiceNow POA&M Lab](./qualys-servicenow-lab/POAM_Workflow_Example.md)** | Integrates Qualys policy failures into ServiceNow with POA&M logic | ![Qualys](https://img.shields.io/badge/Qualys-Vuln%20Mgmt-red) ![ServiceNow](https://img.shields.io/badge/ServiceNow-GRC-lightblue) |
 | **[Regex Library for Custom Sensitive Info Types](./purview-regex/Regex_Custom_Sensitive_Information_Types.md)** | Custom regex patterns for Purview’s data classification engine | ![Regex](https://img.shields.io/badge/Regex-Custom%20Data%20Types-informational) ![Purview](https://img.shields.io/badge/Purview-Custom%20Sensitivity-purple) |
 | **[Regex Lab Exercises](./regex-library/labs/README.md)** | Lab-based regex detection exercises built for GRC/DLP training | ![Regex](https://img.shields.io/badge/Regex-Labs-critical) ![Practice](https://img.shields.io/badge/Hands--On-Training-yellowgreen) |
 
@@ -133,16 +132,6 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 
 ---
 
-### 🤝 Qualys–ServiceNow POA&M Integration Lab
-
-Demonstrates automation of Plan of Action & Milestones (POA&M) workflows:
-- 🔗 Triggered ServiceNow POA&M records from Qualys compliance scan failures
-- 🛠 Mapped failed controls to CMDB Configuration Items (CIs)
-- 🔄 Auto-assigned remediation deadlines with full lifecycle tracking
-- 📊 Fed metadata into dashboards for audit and KPI reporting
-
-📁 [Qualys-ServiceNow POA&M Lab (PDF)](./qualys-servicenow-lab/Qualys_ServiceNow_POAM_Lab.pdf)
-
 ### 📊 Compliance Dashboard (Excel)
 
 Sample Excel dashboard tracking compliance status by control category and asset. Useful for audit readiness, KPI reporting, and control failure monitoring.
@@ -168,59 +157,6 @@ These patterns are used to define **Custom Sensitive Information Types (SITs)** 
 | - [Regex Expressions – Custom Sensitive Information Types](purview-regex/Regex_Custom_Sensitive_Information_Types.md)
 | Contains regex patterns and logic used to detect custom SITs, including U.S. SSNs, ABA Routing Numbers, IBANs, SWIFT Codes, Employee IDs, and more. |
 | Sample JSON definitions (Coming soon) | Will include sample definitions formatted for Microsoft Purview via JSON for direct import via Microsoft 365 Compliance Center. |
-
----
-
-## 🧪 Use Cases
-
-These custom expressions allow detection of:
-
-- U.S. Social Security Numbers (SSNs)
-- International Bank Account Numbers (IBAN)
-- U.S. Routing Numbers (ABA)
-- Employee or Personnel IDs
-- SWIFT/BIC Codes
-- Custom Company Identifiers (e.g., internal HR codes or contract numbers)
-
----
-
-## 📚 Why Custom SITs Matter
-
-Default sensitive information types in Microsoft Purview are powerful but **may not cover unique business identifiers** or regional data types critical for:
-
-- Regulatory audits (e.g., HIPAA, PCI-DSS)
-- Contractual obligations with third parties
-- Risk-based data classification
-- Sector-specific standards like **NIST SP 800-53** or **CJIS**
-
-Custom SITs bridge this gap and ensure **granular visibility and data protection** across structured and unstructured content.
-
----
-
-## 🔧 Integration Instructions
-
-1. Open Microsoft Purview compliance portal.
-2. Navigate to **Data Classification** → **Sensitive Information Types** → **Create Sensitive Info Type**.
-3. Use the regex patterns provided in the markdown file.
-4. Define supporting evidence keywords (optional).
-5. Apply SIT to your custom DLP or auto-labeling policies.
-
----
-# 🔐 Purview Regex Expressions & Custom Sensitive Information Types
-
-This folder contains:
-
-- ✅ Sample Regular Expressions for use in Microsoft Purview custom Sensitive Information Types
-- ✅ Custom Sensitive Information Types Template & Examples
-
----
-
-## 📁 Files Included
-
-| File Name                                      | Description                                                        |
-|-----------------------------------------------|--------------------------------------------------------------------|
-| `Regex_Custom_Sensitive_Information_Types.md` | Reference guide for regex patterns used in data classification     |
-| `Custom_Sensitive_Information_Types_Template.md` | Template for building custom SITs with all required components     |
 
 ---
 
@@ -252,14 +188,12 @@ Use these tools to enhance your DLP policies and Insider Risk Management detecti
 
 ## 💼 GRC Skills Matrix (2025+)
 
-- Data classification & labeling
-- Data discovery & risk assessment
-- Data governance policies
-- Data lifecycle management
-- Compliance monitoring & reporting
-- Use of Microsoft Purview, Power BI, and automation tools
+| Skills & Tools | Experience Level / Projects | 
+|---------------|--------|----------|
+| ✅ Data Classification & Labels | Created sensitivity labels, data lifecycle policies, applied to docs/emails in Purview |
+| ✅ Data Discovery & Risk Assessment | Developed risk registers aligned with NIST/ISO, used dashboards for monitoring |
+| ✅ Microsoft Purview | Configured DLP policies, custom info types, sensitivity labels |
 
-This section provides a strategic mapping of **in-demand GRC skills** aligned with Arthur Mack’s real-world projects and professional capabilities.
 
 📄 [View Full Skills Overview →](./GRC_Skills_Overview.md)
 
