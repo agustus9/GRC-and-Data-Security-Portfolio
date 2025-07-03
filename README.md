@@ -188,11 +188,11 @@ Use these tools to enhance your DLP policies and Insider Risk Management detecti
 
 ## 💼 GRC Skills Matrix (2025+)
 
-| Skills & Tools | Experience Level / Projects | 
-|---------------|--------|----------|
-| ✅ Data Classification & Labels | Created sensitivity labels, data lifecycle policies, applied to docs/emails in Purview |
-| ✅ Data Discovery & Risk Assessment | Developed risk registers aligned with NIST/ISO, used dashboards for monitoring |
-| ✅ Microsoft Purview | Configured DLP policies, custom info types, sensitivity labels |
+| **Skills & Tools**                         | **Experience Level / Projects**                                              |
+|--------------------------------------------|-------------------------------------------------------------------------------|
+| ✅ Data Classification & Labels           | Created sensitivity labels, data lifecycle policies, and applied to docs/emails in Purview |
+| ✅ Data Discovery & Risk Assessment         | Developed risk registers aligned with NIST/ISO standards; utilized dashboards for monitoring |
+| ✅ Microsoft Purview                        | Configured Data Loss Prevention (DLP) policies, custom info types, and sensitivity labels |
 
 
 📄 [View Full Skills Overview →](./GRC_Skills_Overview.md)
