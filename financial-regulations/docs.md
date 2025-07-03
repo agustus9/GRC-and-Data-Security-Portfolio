@@ -48,6 +48,8 @@ The full detailed guide is available in the [Controls_Mapping_Guide.md](Controls
 
 ---
 
+[Controls Mapping Guide](docs/Controls_Mapping_Guide.md)
+
 ## Feedback & Contributions
 
 If you have suggestions for improving this documentation, please submit a pull request or open an issue.
