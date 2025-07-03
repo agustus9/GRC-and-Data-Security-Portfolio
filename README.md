@@ -252,6 +252,13 @@ Use these tools to enhance your DLP policies and Insider Risk Management detecti
 
 ## 💼 GRC Skills Matrix (2025+)
 
+- Data classification & labeling
+- Data discovery & risk assessment
+- Data governance policies
+- Data lifecycle management
+- Compliance monitoring & reporting
+- Use of Microsoft Purview, Power BI, and automation tools
+
 This section provides a strategic mapping of **in-demand GRC skills** aligned with Arthur Mack’s real-world projects and professional capabilities.
 
 📄 [View Full Skills Overview →](./GRC_Skills_Overview.md)
