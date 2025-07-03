@@ -76,7 +76,6 @@ This section provides an overview of key U.S. and international financial regula
 ## Controls Mapping Guide
 
 - 🔐 For a detailed control mapping across standards and frameworks, see the [Controls Mapping Guide](financial-regulations/Controls_Mapping_Guide.md).
-🛠 Built and maintained by Arthur Mack as part of this GRC portfolio.
 
 ---
 
@@ -256,7 +255,7 @@ Highlights:
 📄 [🧰 Tools You’ve Mastered](./tools-mastered.md)  
 A detailed breakdown of all security, compliance, cloud, and automation tools I’ve worked with hands-on across projects and professional roles.
 
-[![Tools](https://img.shields.io/badge/Tools-Mastered-blue)](./tools-mastered.md)
+✅ [![Tools](https://img.shields.io/badge/Tools-Mastered-blue)](./tools-mastered.md)
 
 ---
 
@@ -276,25 +275,19 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 
 ---
 
-## 👤 Author
-
-**Arthur Mack**  
-Senior IT Security Engineer | GRC & Compliance Specialist | Data Security Engineer  
-Over 9 years of experience in cybersecurity, specializing in vulnerability management, cloud security, policy compliance, and governance frameworks (NIST, ISO 27001, HIPAA).
-
-
 ## 🔗 Connect With Me
 
 - 📄 [View My Resume (2025)](https://github.com/agustus9/grc-portfolio/blob/main/Arthur_Mack_Resume_2025.md)  
 - 📫 arthurmack@email.com  
 - 🔗 [LinkedIn: Arthur Mack](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
 
-- ## Learning Resources
-This portfolio is supported by a variety of training platforms, including:
-- [Cybrary: CRISC & CISM by Kelly Handerhan](https://www.cybrary.it/)
-- [Udemy: Governance, Risk, and Compliance 2025](https://www.udemy.com/)
-- Microsoft Learn, ISACA prep material, and personal lab simulations
-- [Simply Cyber: Practical Cybersecurity Skills & GRC Training](https://www.simplycyber.io/)
+## Learning Resources
+  
+- ✅ This portfolio is supported by a variety of training platforms, including:
+- 🔄 [Cybrary: CRISC & CISM by Kelly Handerhan](https://www.cybrary.it/)
+- 🔄 [Udemy: Governance, Risk, and Compliance 2025](https://www.udemy.com/)
+- ✅ Microsoft Learn, ISACA prep material, and personal lab simulations
+- ✅ [Simply Cyber: Practical Cybersecurity Skills & GRC Training](https://www.simplycyber.io/)
 
 ---
 
