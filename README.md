@@ -89,20 +89,20 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 
 📁 [View PDF](./purview-lab/Microsoft_Purview_DLP_Lab.pdf)
 
-- [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)  
+- 📂 [Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)  
   _Simulate and manage M365 DLP using Microsoft Purview — includes screenshots and a policy template._
 
   - 📂 [Microsoft Purview – Keyword Dictionary Lab](./purview-keywords/README.md)
 
-## Microsoft Purview DLP Lab Screenshots
+### 📸 Microsoft Purview DLP Lab Screenshots
 
-Hands-on exploration of Microsoft Purview's Sensitive Information Types.
+- 📦 Hands-on exploration of Microsoft Purview's Sensitive Information Types.
 
-![Purview Screenshot 1](./purview-lab/Purview_Screenshot_1.png)
+- 🎯 ![Purview Screenshot 1](./purview-lab/Purview_Screenshot_1.png)
 
-Hands-on exploration of Microsoft Purview's Data Loss Prevention | Policy.
+- 🧪 Hands-on exploration of Microsoft Purview's Data Loss Prevention | Policy.
 
-![Purview Screenshot 2](./purview-lab/Purview_Screenshot_2.png)
+🔗 ![Purview Screenshot 2](./purview-lab/Purview_Screenshot_2.png)
 
 🔗 [View the full lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)
 
