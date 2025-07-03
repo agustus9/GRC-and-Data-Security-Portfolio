@@ -82,10 +82,13 @@ This section provides an overview of key U.S. and international financial regula
 ---
 
 ## 🔐 Data Privacy & Data Protection Projects
-- **Microsoft Purview DLP Lab:** Developed data loss prevention policies, sensitivity labels, and custom info types.
-- **Regex & Sensitive Info Types:** Created custom regex patterns for detecting PII, PHI, PCI data in compliance workflows.
-- **Policy Lifecycle Automation:** Simulated full policy lifecycle including approval, deployment, and review; aligned with ISO and NIST standards.
-- **Controls Mapping:** Mapped controls to frameworks like ISO 27001 and NIST, demonstrating governance and compliance management.
+
+| **Projects & Focus**                     | **Skills & Achievements**                                                    |
+|------------------------------------------|-------------------------------------------------------------------------------|
+| Microsoft Purview DLP Lab                | Developed data loss prevention policies, sensitivity labels, and custom info types in Purview |
+| Regex & Sensitive Info Types             | Created custom regex patterns for detecting PII, PHI, PCI data within compliance workflows |
+| Policy Lifecycle Automation              | Simulated full policy lifecycle — approval, deployment, and review — aligned with ISO and NIST standards |
+| Controls Mapping                         | Mapped controls to frameworks like ISO 27001 and NIST, demonstrating governance and compliance management |
 
 ---
 
