@@ -98,7 +98,7 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 
 - 📦 Hands-on exploration of Microsoft Purview's Sensitive Information Types.
 
-- 🎯 ![Purview Screenshot 1](./purview-lab/Purview_Screenshot_1.png)
+- 🎯![Purview Screenshot 1](./purview-lab/Purview_Screenshot_1.png)
 
 - 🧪 Hands-on exploration of Microsoft Purview's Data Loss Prevention | Policy.
 
