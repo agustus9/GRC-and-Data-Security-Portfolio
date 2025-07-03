@@ -4,6 +4,7 @@
 
 
 Welcome to my Governance, Risk, and Compliance (GRC) portfolio.  
+"Aspiring GRC Manager & Data Protection Engineer focused on risk governance, compliance frameworks, and data privacy within financial institutions. Currently pursuing CRISC, CISM, and Microsoft Purview certifications to deepen my expertise."
 
 ## 📚 GRC Overview
 
