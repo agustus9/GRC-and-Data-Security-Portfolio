@@ -51,7 +51,7 @@ This section catalogs key financial regulations and frameworks relevant to Gover
 
 ## Additional Resources
 
-[Controls Mapping Guide](docs/Controls_Mapping_Guide.md)
+For a comprehensive control mapping across financial regulations and cybersecurity frameworks, see the [Controls Mapping Guide](Controls_Mapping_Guide.md).
 
 This section will grow as your portfolio evolves — each `.md` file will include details, compliance implications, and enterprise use cases for each regulation.
 
