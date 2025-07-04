@@ -49,9 +49,6 @@ Purview supports uploading custom keyword lists to create **dictionary-based SIT
 🧭 Import Instructions:  
 [Keyword Dictionary Setup Guide](../purview-keywords/README.md)
 
-📸 Visual:  
-![Import Guide](../purview-keywords/Keyword_Dictionary_Import_Guide_Scaled.png)
-
 ---
 
 ## 🛠️ 4. POA&M Mapping
