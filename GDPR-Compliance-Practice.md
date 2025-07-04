@@ -30,8 +30,4 @@
 
 ---
 
-### How to use:
-- Copy everything above.
-- Paste into your markdown file (`.md`) on GitHub.
-- The tables will display with proper borders and styling.
 
