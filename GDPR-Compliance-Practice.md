@@ -1,7 +1,3 @@
-Certainly! Here's the **full styled table content** that you can copy directly from the screen and paste into your GitHub `GDPR.md` file:
-
----
-
 # GDPR Practice Starter Data
 
 ## Data Inventory
