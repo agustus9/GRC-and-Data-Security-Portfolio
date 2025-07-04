@@ -38,8 +38,6 @@ These projects reflect real-world implementation of industry frameworks (NIST, I
 | **[Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)** | Hands-on Data Loss Prevention lab with sensitivity labels and analytics | ![Purview](https://img.shields.io/badge/Microsoft-Purview-blueviolet) ![DLP](https://img.shields.io/badge/DLP-Sensitive%20Info%20Protection-lightgrey) |
 | **[Compliance Dashboard](dashboards/README.md)** | Excel dashboard for KPI/KRI compliance tracking | ![Compliance](https://img.shields.io/badge/Compliance-Dashboard-brightgreen) ![Excel](https://img.shields.io/badge/Excel-Metrics-green) |
 | **[Regex Library for Custom Sensitive Info Types](./purview-regex/Regex_Custom_Sensitive_Information_Types.md)** | Custom regex patterns for Purview’s data classification engine | ![Regex](https://img.shields.io/badge/Regex-Custom%20Data%20Types-informational) ![Purview](https://img.shields.io/badge/Purview-Custom%20Sensitivity-purple) |
-| **[Regex Lab Exercises](./regex-library/labs/README.md)** | Lab-based regex detection exercises built for GRC/DLP training | ![Regex](https://img.shields.io/badge/Regex-Labs-critical) ![Practice](https://img.shields.io/badge/Hands--On-Training-yellowgreen) |
-
 
 
 ### 📄 Policy Lifecycle Demonstration
