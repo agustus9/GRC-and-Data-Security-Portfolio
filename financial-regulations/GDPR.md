@@ -142,6 +142,25 @@ Organizations worldwide handling EU residents' data must comply, impacting priva
   - Document processing activities.
   - Keep logs of training, audits, and breach responses.
   - Prepare compliance reports for management and regulators.
+ 
+---
+
+## GDPR Practice Template
+
+To assist with your GDPR compliance efforts, we've prepared a comprehensive **GDPR Practice Template** in Excel format. This template helps you organize your data inventory, data flow mapping, risk assessments, and data subject rights management.
+
+### How to Access the Template
+
+You can download the GDPR Practice Template Excel file using the link below:
+
+[Download GDPR Practice Template](grc-portfolio/financial-regulations/GDPR_Practice_Template.xlsx)
+
+### Usage Instructions
+
+- Save the file to your local machine.
+- Open it with Excel or compatible spreadsheet software.
+- Fill out the sheets according to your organization's data processes.
+- Use the template as a living document to maintain GDPR compliance.
 
 ---
 
