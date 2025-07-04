@@ -54,7 +54,7 @@ To assist with your SOX compliance efforts, we've prepared a comprehensive SOX P
 **How to Access the Template**  
 You can download the SOX Practice Template Excel file using the link below:
 
-[Download SOX Practice Template](https://github.com/agustus9/grc-portfolio/financial-regulations/SOX_Practice_Template.xlsx)
+[Download SOX Practice Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/SOX_Practice_Template.xlsx)
 
 **Usage Instructions**  
 1. Save the file to your local machine.  
