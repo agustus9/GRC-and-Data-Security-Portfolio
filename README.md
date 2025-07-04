@@ -123,6 +123,12 @@ This folder includes a structured and reusable Risk Register aligned with NIST C
   - ISO/IEC 27001:2013 Annex A
   - CIS Controls v8
 
+### 📊 Compliance Dashboard (Excel)
+
+Sample Excel dashboard tracking compliance status by control category and asset. Useful for audit readiness, KPI reporting, and control failure monitoring.
+
+📁 [Download Compliance_Dashboard_Sample.xlsx](https://github.com/user-attachments/files/20845198/Compliance_Dashboard_Sample.xlsx)
+
 ---
 
 ### 📁 Purview Regex Expressions & Custom Sensitive Information Types
@@ -131,14 +137,6 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 
 - 🔍 [Custom Regex Template for Sensitive Info Types](./purview-regex/Custom_Sensitive_Information_Types_Template.md)
 - 📘 [Purview Regex Overview README](./purview-regex/README_purview_regex.md)
-
----
-
-### 📊 Compliance Dashboard (Excel)
-
-Sample Excel dashboard tracking compliance status by control category and asset. Useful for audit readiness, KPI reporting, and control failure monitoring.
-
-📁 [Download Compliance_Dashboard_Sample.xlsx](https://github.com/user-attachments/files/20845198/Compliance_Dashboard_Sample.xlsx)
 
 ---
 
