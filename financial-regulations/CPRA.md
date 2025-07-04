@@ -11,3 +11,47 @@ The CPRA builds upon the California Consumer Privacy Act (CCPA), enhancing priva
 
 ## Significance
 Strengthens consumer control over personal data and increases compliance requirements for businesses operating in California.
+
+---
+
+# CPRA / CCPA Project Plan
+
+## Project Phases & Activities
+
+### Initiation
+- Identify personal data.
+- Stakeholder engagement.
+
+### Assessment
+- Map data flows.
+- Gap analysis for rights.
+
+### Planning
+- Develop data subject rights processes.
+- Privacy policies.
+
+### Implementation
+- Data access and deletion mechanisms.
+
+### Validation & Auditing
+- Test data access/deletion.
+- Audit logs.
+
+### Ongoing Monitoring
+- Data rights management.
+- Regular reviews.
+
+## Objectives
+- Enable consumer rights.
+- Ensure data privacy.
+
+## Responsible Parties
+- Data Privacy Officer
+- IT Security
+- Legal Team
+
+## Deliverables
+- Data Inventory
+- Privacy Policies
+- Access & Deletion Logs
+- Training & Audit Reports
