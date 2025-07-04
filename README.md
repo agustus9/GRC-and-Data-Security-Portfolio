@@ -39,30 +39,6 @@ These projects reflect real-world implementation of industry frameworks (NIST, I
 | **[Compliance Dashboard](dashboards/README.md)** | Excel dashboard for KPI/KRI compliance tracking | ![Compliance](https://img.shields.io/badge/Compliance-Dashboard-brightgreen) ![Excel](https://img.shields.io/badge/Excel-Metrics-green) |
 | **[Regex Library for Custom Sensitive Info Types](./purview-regex/Regex_Custom_Sensitive_Information_Types.md)** | Custom regex patterns for Purview’s data classification engine | ![Regex](https://img.shields.io/badge/Regex-Custom%20Data%20Types-informational) ![Purview](https://img.shields.io/badge/Purview-Custom%20Sensitivity-purple) |
 
-
-### 📄 Policy Lifecycle Demonstration
-
-A real-world simulation of the full policy lifecycle:
-- ✅ Created an Acceptable Use Policy mapped to NIST SP 800-53 and ISO 27001
-- 🔄 Ran through approval, staff distribution, implementation, and annual review
-- 📊 Tracked exceptions and monitored control coverage via ServiceNow and Microsoft Purview
-
-📁 [View PDF](https://github.com/user-attachments/files/20845119/Policy_Lifecycle_Demo.pdf)
- 
-### 📊 Risk Register Template + Summary
-
-This folder includes a structured and reusable Risk Register aligned with NIST CSF, ISO/IEC 27005, and CIS Controls.
-
-- ✅ `Risk_Register_Template.xlsx` – Editable Excel template with:
-  - Likelihood × Impact heatmap scoring
-  - Residual Risk calculation
-  - Fields for Risk Owner, Mitigation, and Control Mapping
-- ✅ `Risk_Register_Example.pdf` – A sample filled-out risk register for reference
-- 🔐 Frameworks Used:
-  - NIST CSF
-  - ISO/IEC 27001:2013 Annex A
-  - CIS Controls v8
-
 ---
 
 ### 🏦 Financial Regulations & Cybersecurity Frameworks
@@ -122,7 +98,32 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 - [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
 - [Compliance Dashboard Sample](dashboards/Compliance_Dashboard_Sample.md)
 
-- --
+---
+
+### 📄 Policy Lifecycle Demonstration
+
+A real-world simulation of the full policy lifecycle:
+- ✅ Created an Acceptable Use Policy mapped to NIST SP 800-53 and ISO 27001
+- 🔄 Ran through approval, staff distribution, implementation, and annual review
+- 📊 Tracked exceptions and monitored control coverage via ServiceNow and Microsoft Purview
+
+📁 [View PDF](https://github.com/user-attachments/files/20845119/Policy_Lifecycle_Demo.pdf)
+ 
+### 📊 Risk Register Template + Summary
+
+This folder includes a structured and reusable Risk Register aligned with NIST CSF, ISO/IEC 27005, and CIS Controls.
+
+- ✅ `Risk_Register_Template.xlsx` – Editable Excel template with:
+  - Likelihood × Impact heatmap scoring
+  - Residual Risk calculation
+  - Fields for Risk Owner, Mitigation, and Control Mapping
+- ✅ `Risk_Register_Example.pdf` – A sample filled-out risk register for reference
+- 🔐 Frameworks Used:
+  - NIST CSF
+  - ISO/IEC 27001:2013 Annex A
+  - CIS Controls v8
+
+---
 
 ### 📁 Purview Regex Expressions & Custom Sensitive Information Types
 
