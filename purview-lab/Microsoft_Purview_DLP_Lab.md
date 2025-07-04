@@ -17,9 +17,8 @@ You can also create **Custom SITs** using:
 - **Keyword dictionaries**
 - **Supporting evidence (confidence levels)**
 
-📄 View examples:  
-- [Regex Expressions](../regex-library/patterns/)
-- [Custom SIT Readme](../purview-regex/Regex_Custom_Sensitive_Information_Types.md)
+📸 Screenshot:  
+![Purview Policy View](Purview_Screenshot_2.png)
 
 ---
 
