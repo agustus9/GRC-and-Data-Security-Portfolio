@@ -46,6 +46,22 @@
 - Internal Audit
 - IT Security
 
+---
+
+**2. SOX Practice Template**  
+To assist with your SOX compliance efforts, we've prepared a comprehensive SOX Practice Template in Excel format. This template helps you organize your financial controls, audit logs, risk assessments, and compliance tracking.
+
+**How to Access the Template**  
+You can download the SOX Practice Template Excel file using the link below:
+
+**Download SOX Practice Template**
+
+**Usage Instructions**  
+1. Save the file to your local machine.  
+2. Open it with Excel or compatible spreadsheet software.  
+3. Fill out the sheets according to your organization's financial controls and audit processes.  
+4. Use the template as a living document to support ongoing compliance.
+
 ## Deliverables
 - Control Maps & Policies
 - Testing Reports
