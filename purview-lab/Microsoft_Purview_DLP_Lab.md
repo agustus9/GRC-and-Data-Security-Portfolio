@@ -18,7 +18,7 @@ You can also create **Custom SITs** using:
 - **Supporting evidence (confidence levels)**
 
 📸 Screenshot:  
-![Purview Policy View](Purview_Screenshot_2.png)
+![Purview Policy View](Purview_Screenshot_1.png)
 
 ---
 
@@ -34,7 +34,7 @@ Policy Components:
 - Scopes (e.g., SharePoint, Teams, Exchange)
 
 📸 Screenshot:  
-![Purview Policy View](Purview_Screenshot_1.png)
+![Purview Policy View](Purview_Screenshot_2.png)
 
 ---
 
