@@ -153,7 +153,7 @@ To assist with your GDPR compliance efforts, we've prepared a comprehensive **GD
 
 You can download the GDPR Practice Template Excel file using the link below:
 
-[Download GDPR Practice Template](financial-regulations/GDPR_Practice_Template.xlsx)
+[Download GDPR Practice Template](https://raw.githubusercontent.com/grc-portfolio/financial-regulations/main/GDPR_Practice_Template.xlsx)
 
 ### Usage Instructions
 
