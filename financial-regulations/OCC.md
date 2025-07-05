@@ -51,3 +51,5 @@ Ensure sound banking practices and safeguard the stability of the banking system
 - Control Policies
 - Audit Reports
 - Monitoring Metrics
+
+[Download OCC_Guidelines Practice Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/OCC_Guidelines_Practice_Template.xlsx)
