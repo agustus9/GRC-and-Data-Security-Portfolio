@@ -50,3 +50,5 @@ Basel III enhances banking regulations with measures to strengthen bank capital 
 - Capital & Liquidity Reports
 - Internal Policies
 - Monitoring Dashboards
+
+[Download Basel_III_Practice_Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/Basel_III_Practice_Template.xlsx)
