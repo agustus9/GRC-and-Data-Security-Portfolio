@@ -51,10 +51,6 @@
 **2. SOX Practice Template**  
 To assist with your SOX compliance efforts, we've prepared a comprehensive SOX Practice Template in Excel format. This template helps you organize your financial controls, audit logs, risk assessments, and compliance tracking.
 
-**How to Access the Template**  
-You can download the SOX Practice Template Excel file using the link below:
-
-[Download SOX Practice Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/SOX_Practice_Template.xlsx)
 
 **Usage Instructions**  
 1. Save the file to your local machine.  
@@ -67,3 +63,8 @@ You can download the SOX Practice Template Excel file using the link below:
 - Testing Reports
 - Training Documentation
 - Audit Records
+
+**How to Access the Template**  
+You can download the SOX Practice Template Excel file using the link below:
+
+[Download SOX Practice Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/SOX_Practice_Template.xlsx)
