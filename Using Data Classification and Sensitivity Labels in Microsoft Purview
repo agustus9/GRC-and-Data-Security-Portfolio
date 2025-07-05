@@ -10,7 +10,7 @@ Learn how to create, apply, and manage sensitivity labels and data classificatio
 
 ## Starter Files
 | File Name | Description |
-|--------------|--------------|
+| ----------- | ----------- |
 | `sensitivity-labels.json` | Sample JSON configuration for labels |
 | `Sample_Confidential_Document.docx` | Sample document labeled confidential |
 | `Sample_Public_Report.pdf` | Sample report for public data |
@@ -29,8 +29,58 @@ Learn how to create, apply, and manage sensitivity labels and data classificatio
 - Navigate to **Data classification > Sensitivity labels**  
 - Click **"+ Create a sensitivity label"**  
 - Fill in label details:
-  - **Name:** e.g., _Confidential_  
-  - **Description:** e.g., _Highly sensitive data requiring encryption and restricted access_  
+  - **Name:** e.g., *Confidential*  
+  - **Description:** e.g., *Highly sensitive data requiring encryption and restricted access*  
   - **Color:** Select a color for label visualization  
-  - Configure label settings such as encryption, content marking, access restrictions, etc.  
+- Configure label settings such as encryption, content marking, access restrictions, etc.  
 - Save the label
+
+---
+
+**Option B: Use JSON configuration (starter template below)**
+
+```json
+{
+  "SensitivityLabels": [
+    {
+      "Name": "Confidential",
+      "Description": "Highly sensitive data requiring encryption and restricted access",
+      "Color": "Red",
+      "Encryption": {
+        "Enabled": true,
+        "DefaultProtection": "EncryptOnly"
+      },
+      "ContentMarking": {
+        "Watermark": "CONFIDENTIAL",
+        "Header": null,
+        "Footer": null
+      }
+    },
+    {
+      "Name": "Internal Use Only",
+      "Description": "Internal data for organizational use",
+      "Color": "Yellow",
+      "Encryption": {
+        "Enabled": false
+      },
+      "ContentMarking": {
+        "Watermark": "INTERNAL USE ONLY",
+        "Header": null,
+        "Footer": null
+      }
+    },
+    {
+      "Name": "Public",
+      "Description": "Publicly shareable data",
+      "Color": "Green",
+      "Encryption": {
+        "Enabled": false
+      },
+      "ContentMarking": {
+        "Watermark": null,
+        "Header": null,
+        "Footer": null
+      }
+    }
+  ]
+}
