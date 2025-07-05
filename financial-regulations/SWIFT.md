@@ -49,3 +49,5 @@ Helps financial institutions protect themselves against cyber attacks, fraud, an
 - Control Implementation Records
 - Test & Audit Reports
 - Monitoring Logs
+
+[Download SWIFT Practice Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/SWIFT_CSCF_Practice_Template.xlsx)
