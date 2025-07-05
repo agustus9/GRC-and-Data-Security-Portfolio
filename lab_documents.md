@@ -4,26 +4,37 @@ Welcome to your collection of **lab documents** for completing Microsoft Purview
 
 ---
 
-## 📝 Word Document 
+## 📝 Word Documents
 
-| Document | Description | Example Link |
+| Document | Description | Download Link |
 |------------|--------------|--------------|
-| **Data Classification Policy** | Document your organization's data classification policies. | [Download Word Document](./templates/Data_Classification_Policy_Template.docx) |
-| **Data Governance Framework** | Outline your data governance approach. | [Download Word Document](./templates/Data_Governance_Framework.docx) |
+| **Data Classification Policy** | Document your organization's data classification policies. | [Download Word Document](./Documents/Data_Classification_Policy_Document.docx) |
+| **Data Governance Framework** | Outline your data governance approach. | [Download Word Document(./Documents/Data_Governance_Framework.docx) |
+| **Document Fingerprint Example** | Sample document fingerprinting process. | [Download Word Document](./Documents/Doc_Fingerprint_Example.docx) |
+| **Credit Card Example** | Sample document related to credit card data. | [Download Word Document](./Documents/credit_card_example.docx) |
 
 > **Tip:** Customize these documents with your organization’s details, then upload them to the lab environment.
 
 ---
 
-## 📊 Excel Document 
+## 📊 Excel Documents
 
-| Document | Description | Example Link |
+| Document | Description | Download Link |
 |------------|--------------|--------------|
-| **Data Inventory** | Record your data assets and classifications. | [Download Excel Document](./templates/Data_Inventory_Template.xlsx) |
-| **Access Control Log** | Log access activities and reviews. | [Download Excel Document](./templates/Access_Control_Log.xlsx) |
-| **Risk Assessment Worksheet** | Document risk assessments related to data assets. | [Download Excel Document](./templates/Risk_Assessment_Worksheet.xlsx) |
+| **Data Inventory** | Record your data assets and classifications. | [Download Excel Document](./Documents/Data_Inventory_Document.xlsx) |
+| **Access Control Log** | Log access activities and reviews. | [Download Excel Document](./Documents/Access_Control_Log.xlsx) |
+| **Risk Assessment Worksheet** | Document risk assessments related to data assets. | [Download Excel Document](./Documents/Risk_Assessment_Worksheet.xlsx) |
 
-> **Tip:** Use these spreadsheets to organize your findings and support compliance activities.
+---
+
+## 📥 Additional Files
+
+| File Name | Description | Download Link |
+|------------|--------------|--------------|
+| **Trainable_Classifiers.pdf** | Guide on trainable classifiers in Purview. | [Download PDF](./Documents/Trainable_Classifiers.pdf) |
+| **EDM-Required_File.csv** | Example CSV file for EDM requirements. | [Download CSV](./Documents/EDM-Required_File.csv) |
+
+> **Tip:** Use these files to enhance your lab exercises and understanding of the platform.
 
 ---
 
@@ -42,4 +53,3 @@ Welcome to your collection of **lab documents** for completing Microsoft Purview
 - [Sample Data Classification Policy (Example)](https://example.com/sample-policy.docx)  
 
 ---
-
