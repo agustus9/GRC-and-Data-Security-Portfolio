@@ -45,9 +45,10 @@ Facilitates compliance and risk management for healthcare, financial, and other 
 - IT Operations
 - External Assessors
 
-[Download HITRUST Practice Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/HITRUST_Practice_Template.xlsx)
 ## Deliverables
 - Control Implementation Documentation
 - Gap & Risk Reports
 - Certification Audit Reports
 - Continuous Monitoring Plan
+
+[Download HITRUST Practice Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/HITRUST_Practice_Template.xlsx)
