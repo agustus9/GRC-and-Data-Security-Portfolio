@@ -80,7 +80,7 @@ Simulated a full data loss prevention lab using Microsoft Purview:
   _Simulate and manage M365 DLP using Microsoft Purview — includes screenshots and a policy template._
 
 
-### 📸 Microsoft Purview DLP Lab Screenshots
+### 📸 Microsoft Purview Lab Screenshots
 
 - Hands-on exploration of Microsoft Purview's Sensitive Information Types.
 
