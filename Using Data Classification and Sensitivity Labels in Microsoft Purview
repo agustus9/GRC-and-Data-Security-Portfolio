@@ -7,7 +7,7 @@ Learn how to create, apply, and manage sensitivity labels and data classificatio
 - Access to **Microsoft Purview** & **Microsoft 365 Compliance Center**  
 - Permissions: **Compliance Administrator**, **Information Protection Administrator**, or equivalent  
 - Basic understanding of data sensitivity and classification concepts
-
+---
 ## Starter Files
 | File Name | Description |
 |-------------|--------------|
@@ -15,7 +15,7 @@ Learn how to create, apply, and manage sensitivity labels and data classificatio
 | `Sample_Confidential_Document.docx` | Sample document labeled confidential |
 | `Sample_Public_Report.pdf` | Sample report for public data |
 | *Screenshot placeholders* | For documenting the process |
-
+---
 ## Step-by-Step Instructions
 
 ### 1. Sign in to Microsoft Compliance Center
