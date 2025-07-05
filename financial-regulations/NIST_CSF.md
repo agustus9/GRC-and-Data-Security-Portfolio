@@ -52,3 +52,5 @@ Organizations leverage the NIST CSF to improve their cybersecurity posture, alig
 - Security Controls
 - Incident Response Plan
 - Monitoring Reports
+
+[Download NIST_CSF Practice Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/NIST_CSF_Practice_Template.xlsx)
