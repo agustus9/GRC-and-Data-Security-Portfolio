@@ -7,3 +7,4 @@
 - Audit trails
 - Encryption and incident response plans
 
+[Download NYDFS_500 Practice Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/NYDFS_500_Practice_Template.xlsx)
