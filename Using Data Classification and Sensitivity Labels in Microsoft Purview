@@ -1,86 +1,37 @@
-# Lab 1: Using Data Classification and Sensitivity Labels in Microsoft Purview
+**Lab 1: Using Data Classification and Sensitivity Labels in Microsoft Purview**
 
-## Objective
+**Objective**  
 Learn how to create, apply, and manage sensitivity labels and data classifications to protect organizational data within Microsoft Purview and Microsoft 365 environments.
 
-## Prerequisites
-- Access to Microsoft Purview & Microsoft 365 Compliance Center
-- Permissions: Compliance Administrator, Information Protection Administrator, or equivalent
+**Prerequisites**  
+- Access to Microsoft Purview & Microsoft 365 Compliance Center  
+- Permissions: Compliance Administrator, Information Protection Administrator, or equivalent  
 - Basic understanding of data sensitivity and classification concepts
 
-## Starter Files
-| File Name | Description |
-| ----------- | ----------- |
-| `sensitivity-labels.json` | Sample JSON configuration for labels |
-| `Sample_Confidential_Document.docx` | Sample document labeled confidential |
-| `Sample_Public_Report.pdf` | Sample report for public data |
-| *Screenshot placeholders* | For documenting the process |
+**Starter Files**  
+- `sensitivity-labels.json`: Sample JSON configuration for labels  
+- `Sample_Confidential_Document.docx`: Sample document labeled confidential  
+- `Sample_Public_Report.pdf`: Sample report for public data  
+- Screenshot placeholders: For documenting the process
 
-## Step-by-Step Instructions
+**Step-by-Step Instructions**
 
-### 1. Sign in to Microsoft Compliance Center
-- Navigate to [https://compliance.microsoft.com](https://compliance.microsoft.com)
-- Sign in with your administrator account
+1. **Sign in to Microsoft Compliance Center**  
+Navigate to https://compliance.microsoft.com  
+Sign in with your administrator account
 
-### 2. Create Sensitivity Labels
+2. **Create Sensitivity Labels**  
 
-**Option A: Use the GUI**
-
+**Option A: Use the GUI**  
 - Navigate to **Data classification > Sensitivity labels**  
 - Click **"+ Create a sensitivity label"**  
-- Fill in label details:
-  - **Name:** e.g., *Confidential*  
-  - **Description:** e.g., *Highly sensitive data requiring encryption and restricted access*  
-  - **Color:** Select a color for label visualization  
-- Configure label settings such as encryption, content marking, access restrictions, etc.  
+- Fill in label details:  
+  - **Name**: e.g., *Confidential*  
+  - **Description**: e.g., *Highly sensitive data requiring encryption and restricted access*  
+  - **Color**: Choose a color for label visualization  
+- Configure label settings (encryption, content marking, access restrictions)  
 - Save the label
 
 ---
 
-**Option B: Use JSON configuration (starter template below)**
-
-```json
-{
-  "SensitivityLabels": [
-    {
-      "Name": "Confidential",
-      "Description": "Highly sensitive data requiring encryption and restricted access",
-      "Color": "Red",
-      "Encryption": {
-        "Enabled": true,
-        "DefaultProtection": "EncryptOnly"
-      },
-      "ContentMarking": {
-        "Watermark": "CONFIDENTIAL",
-        "Header": null,
-        "Footer": null
-      }
-    },
-    {
-      "Name": "Internal Use Only",
-      "Description": "Internal data for organizational use",
-      "Color": "Yellow",
-      "Encryption": {
-        "Enabled": false
-      },
-      "ContentMarking": {
-        "Watermark": "INTERNAL USE ONLY",
-        "Header": null,
-        "Footer": null
-      }
-    },
-    {
-      "Name": "Public",
-      "Description": "Publicly shareable data",
-      "Color": "Green",
-      "Encryption": {
-        "Enabled": false
-      },
-      "ContentMarking": {
-        "Watermark": null,
-        "Header": null,
-        "Footer": null
-      }
-    }
-  ]
-}
+Feel free to select this entire text and copy it directly. You can then paste it into your markdown or document.
