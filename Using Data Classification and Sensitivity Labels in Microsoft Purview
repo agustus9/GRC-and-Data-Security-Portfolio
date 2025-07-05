@@ -3,8 +3,6 @@
 ## Objective
 Learn how to create, apply, and manage sensitivity labels and data classifications to protect organizational data within Microsoft Purview and Microsoft 365 environments.
 
----
-
 ## Prerequisites
 - Access to **Microsoft Purview** & **Microsoft 365 Compliance Center**  
 - Permissions: **Compliance Administrator**, **Information Protection Administrator**, or equivalent  
@@ -17,8 +15,6 @@ Learn how to create, apply, and manage sensitivity labels and data classificatio
 | `Sample_Confidential_Document.docx` | Sample document labeled confidential |
 | `Sample_Public_Report.pdf` | Sample report for public data |
 | *Screenshot placeholders* | For documenting the process |
-
----
 
 ## Step-by-Step Instructions
 
@@ -38,5 +34,3 @@ Learn how to create, apply, and manage sensitivity labels and data classificatio
   - **Color**: Choose a color for label visualization  
 - Configure label settings (encryption, content marking, access restrictions)  
 - Save the label
-
----
