@@ -1,100 +1,36 @@
-<!--
-Note: Markdown parsers vary in support for embedded HTML.
-This version uses HTML for styling where supported.
--->
+# Lab 1: Using Data Classification and Sensitivity Labels in Microsoft Purview
 
-# <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">
-  📝 <strong>Lab 1: Using Data Classification and Sensitivity Labels in Microsoft Purview</strong>
-</div>
-
----
-
-## <div style="color: #2E8B57;">Objective</div>
+## Objective
 Learn how to create, apply, and manage sensitivity labels and data classifications to protect organizational data within Microsoft Purview and Microsoft 365 environments.
 
----
-
-## <div style="color: #2E8B57;">Prerequisites</div>
+## Prerequisites
 - Access to Microsoft Purview & Microsoft 365 Compliance Center
 - Permissions: Compliance Administrator, Information Protection Administrator, or equivalent
 - Basic understanding of data sensitivity and classification concepts
 
----
+## Starter Files
+| File Name | Description |
+|--------------|--------------|
+| `sensitivity-labels.json` | Sample JSON configuration for labels |
+| `Sample_Confidential_Document.docx` | Sample document labeled confidential |
+| `Sample_Public_Report.pdf` | Sample report for public data |
+| *Screenshot placeholders* | For documenting the process |
 
-## <div style="color: #2E8B57;">Starter Files</div>
-- <strong>Sensitivity Labels JSON Config:</strong> <code>sensitivity-labels.json</code> (sample JSON configuration for labels)
-- <strong>Sample Data Files:</strong>
-  - <code>Sample_Confidential_Document.docx</code>
-  - <code>Sample_Public_Report.pdf</code>
-- <em>Screenshot placeholders</em> for documentation
+## Step-by-Step Instructions
 
----
-
-## <div style="color: #2E8B57;">Steps</div>
-
-### 1. Sign in to Microsoft Purview & Compliance Center
-- Navigate to <a href="https://compliance.microsoft.com" target="_blank">https://compliance.microsoft.com</a>
-- Sign in with your admin account
-
----
+### 1. Sign in to Microsoft Compliance Center
+- Navigate to [https://compliance.microsoft.com](https://compliance.microsoft.com)
+- Sign in with your administrator account
 
 ### 2. Create Sensitivity Labels
-**Option A:** Use the GUI to create labels
-- Navigate: Data classification &gt; Sensitivity labels
-- Click <strong>"+ Create a sensitivity label"</strong>
-- Define labels such as:
-  - <strong>Confidential</strong>
-  - <strong>Internal Use Only</strong>
-  - <strong>Public</strong>
 
-**Option B:** Use JSON configuration (starter template provided below)
+**Option A: Use the GUI**
 
----
-
-### 3. Sample JSON Configuration for Sensitivity Labels
-
-```json
-{
-  "SensitivityLabels": [
-    {
-      "Name": "Confidential",
-      "Description": "Highly sensitive data requiring encryption and restricted access",
-      "Color": "Red",
-      "Encryption": {
-        "Enabled": true,
-        "DefaultProtection": "EncryptOnly"
-      },
-      "ContentMarking": {
-        "Watermark": "CONFIDENTIAL",
-        "Header": null,
-        "Footer": null
-      }
-    },
-    {
-      "Name": "Internal Use Only",
-      "Description": "Internal data for organizational use",
-      "Color": "Yellow",
-      "Encryption": {
-        "Enabled": false
-      },
-      "ContentMarking": {
-        "Watermark": "INTERNAL USE ONLY",
-        "Header": null,
-        "Footer": null
-      }
-    },
-    {
-      "Name": "Public",
-      "Description": "Publicly shareable data",
-      "Color": "Green",
-      "Encryption": {
-        "Enabled": false
-      },
-      "ContentMarking": {
-        "Watermark": null,
-        "Header": null,
-        "Footer": null
-      }
-    }
-  ]
-}
+- Navigate to **Data classification > Sensitivity labels**  
+- Click **"+ Create a sensitivity label"**  
+- Fill in label details:
+  - **Name:** e.g., _Confidential_  
+  - **Description:** e.g., _Highly sensitive data requiring encryption and restricted access_  
+  - **Color:** Select a color for label visualization  
+  - Configure label settings such as encryption, content marking, access restrictions, etc.  
+- Save the label
