@@ -1,42 +1,51 @@
-# Lab 1: Using Data Classification and Sensitivity Labels in Microsoft Purview
+<!--
+Note: Markdown parsers vary in support for embedded HTML.
+This version uses HTML for styling where supported.
+-->
 
-## Objective
+# <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">
+  📝 <strong>Lab 1: Using Data Classification and Sensitivity Labels in Microsoft Purview</strong>
+</div>
+
+---
+
+## <div style="color: #2E8B57;">Objective</div>
 Learn how to create, apply, and manage sensitivity labels and data classifications to protect organizational data within Microsoft Purview and Microsoft 365 environments.
 
 ---
 
-## Prerequisites
+## <div style="color: #2E8B57;">Prerequisites</div>
 - Access to Microsoft Purview & Microsoft 365 Compliance Center
 - Permissions: Compliance Administrator, Information Protection Administrator, or equivalent
 - Basic understanding of data sensitivity and classification concepts
 
 ---
 
-## Starter Files
-- **Sensitivity Labels JSON Config:** `sensitivity-labels.json` (sample JSON configuration for labels)
-- **Sample Data Files:**
-  - `Sample_Confidential_Document.docx`
-  - `Sample_Public_Report.pdf`
-- **Screenshot placeholders** for documentation
+## <div style="color: #2E8B57;">Starter Files</div>
+- <strong>Sensitivity Labels JSON Config:</strong> <code>sensitivity-labels.json</code> (sample JSON configuration for labels)
+- <strong>Sample Data Files:</strong>
+  - <code>Sample_Confidential_Document.docx</code>
+  - <code>Sample_Public_Report.pdf</code>
+- <em>Screenshot placeholders</em> for documentation
 
 ---
 
-## Steps
+## <div style="color: #2E8B57;">Steps</div>
 
 ### 1. Sign in to Microsoft Purview & Compliance Center
-- Navigate to [https://compliance.microsoft.com](https://compliance.microsoft.com)
+- Navigate to <a href="https://compliance.microsoft.com" target="_blank">https://compliance.microsoft.com</a>
 - Sign in with your admin account
 
 ---
 
 ### 2. Create Sensitivity Labels
 **Option A:** Use the GUI to create labels
-- Navigate: Data classification > Sensitivity labels
-- Click **"+ Create a sensitivity label"**
+- Navigate: Data classification &gt; Sensitivity labels
+- Click <strong>"+ Create a sensitivity label"</strong>
 - Define labels such as:
-  - **Confidential**
-  - **Internal Use Only**
-  - **Public**
+  - <strong>Confidential</strong>
+  - <strong>Internal Use Only</strong>
+  - <strong>Public</strong>
 
 **Option B:** Use JSON configuration (starter template provided below)
 
