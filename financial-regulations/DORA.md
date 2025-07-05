@@ -52,3 +52,5 @@ Ensure the financial sector can withstand and recover from all types of ICT-rela
 - Resilience & Incident Plans
 - Test Results
 - Monitoring Reports
+
+[Download DORA_Practice_Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/DORA_Practice_Template.xlsx)
