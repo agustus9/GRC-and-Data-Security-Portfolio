@@ -53,3 +53,5 @@ Helps countries develop effective measures to detect, prevent, and prosecute fin
 - AML Policies
 - Customer Due Diligence Records
 - Monitoring & Audit Reports
+
+[Download FATF Practice Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/FATF_Practice_Template.xlsx)
