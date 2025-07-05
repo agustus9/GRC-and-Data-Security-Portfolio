@@ -51,3 +51,5 @@
 - Security Policies
 - Scan & Test Reports
 - Training Records
+
+[Download PCI-DSS Practice Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/PCI-DSS_Practice_Template.xlsx)
