@@ -55,3 +55,5 @@ Strengthens consumer control over personal data and increases compliance require
 - Privacy Policies
 - Access & Deletion Logs
 - Training & Audit Reports
+
+[Download CPRA_&_CCPA_Practice_Template](https://github.com/agustus9/grc-portfolio/blob/main/financial-regulations/CPRA_&_CCPA_Practice_Template.xlsx)
