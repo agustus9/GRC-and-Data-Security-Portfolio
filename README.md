@@ -98,6 +98,10 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 - [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
 - [Compliance Dashboard Sample](dashboards/Compliance_Dashboard_Sample.md)
 
+## Resources
+
+- [📄 Microsoft Purview Lab Documents — Access all starter templates and additional files you'll need for your Purview labs](./lab_documents.md)
+  
 ---
 
 ### 📄 Policy Lifecycle Demonstration
