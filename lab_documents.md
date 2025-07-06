@@ -9,7 +9,7 @@ Welcome to your collection of **lab documents** for completing Microsoft Purview
 | Document | Description | Download Link |
 |------------|--------------|--------------|
 | **Data Classification Policy** | Document your organization's data classification policies. | [Download Word Document](purview-lab/Data_Classification_Policy) |
-| **Data Governance Framework** | Outline your data governance approach. | [Download Word Document](purview-lab/Data_Governance) |
+| **Data Governance Framework** | Outline your data governance approach. | [Download Word Document](purview-lab/Data_Governance.docx) |
 | **Document Fingerprint Example** | Sample document fingerprinting process. | [Download Word Document](purview-lab/Data_Governance_Framework.docx) |
 | **Credit Card Example** | Sample document related to credit card data. | [Download Word Document](purview-lab/credit_card_example.docx) |
 
