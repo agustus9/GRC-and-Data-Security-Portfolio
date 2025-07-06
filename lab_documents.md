@@ -22,8 +22,8 @@ Welcome to your collection of **lab documents** for completing Microsoft Purview
 | Document | Description | Download Link |
 |------------|--------------|--------------|
 | **Data Inventory** | Record your data assets and classifications. | [Download Excel Document](purview-lab//Data_Inventory.xlsx) |
-| **Access Control Log** | Log access activities and reviews. | [Download Excel Document](purview-lab/Access_Control_Log.xlsx) |
-| **Risk Assessment Worksheet** | Document risk assessments related to data assets. | [Download Excel Document](purview-lab/Risk_Assessment_Worksheet.xlsx) |
+| **Access Control Log** | Log access activities and reviews. | [Download Excel Document](purview-lab/Access_Control_Log) |
+| **Risk Assessment Worksheet** | Document risk assessments related to data assets. | [Download Excel Document](purview-lab/Risk_Assessment_Worksheet |
 
 ---
 
