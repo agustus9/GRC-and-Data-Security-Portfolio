@@ -8,8 +8,8 @@ Welcome to your collection of **lab documents** for completing Microsoft Purview
 
 | Document | Description | Download Link |
 |------------|--------------|--------------|
-| **Data Classification Policy** | Document your organization's data classification policies. | [Download Word Document](./Documents/Data_Classification_Policy_Document.docx) |
-| **Data Governance Framework** | Outline your data governance approach. | [Download Word Document(./Documents/Data_Governance_Framework.docx) |
+| **Data Classification Policy** | Document your organization's data classification policies. | [Download Word Document](purview-lab/Data_Classification_Policy) |
+| **Data Governance Framework** | Outline your data governance approach. | [Download Word Document(purview-lab/Data_Governance) |
 | **Document Fingerprint Example** | Sample document fingerprinting process. | [Download Word Document](purview-lab/Doc_Fingerprint_Example.docx) |
 | **Credit Card Example** | Sample document related to credit card data. | [Download Word Document](purview-lab/credit_card_example.docx) |
 
@@ -21,9 +21,9 @@ Welcome to your collection of **lab documents** for completing Microsoft Purview
 
 | Document | Description | Download Link |
 |------------|--------------|--------------|
-| **Data Inventory** | Record your data assets and classifications. | [Download Excel Document](./Documents/Data_Inventory_Document.xlsx) |
-| **Access Control Log** | Log access activities and reviews. | [Download Excel Document](./Documents/Access_Control_Log.xlsx) |
-| **Risk Assessment Worksheet** | Document risk assessments related to data assets. | [Download Excel Document](./Documents/Risk_Assessment_Worksheet.xlsx) |
+| **Data Inventory** | Record your data assets and classifications. | [Download Excel Document](purview-lab//Data_Inventory.xlsx) |
+| **Access Control Log** | Log access activities and reviews. | [Download Excel Document](purview-lab/Access_Control_Log.xlsx) |
+| **Risk Assessment Worksheet** | Document risk assessments related to data assets. | [Download Excel Document](purview-lab/Risk_Assessment_Worksheet.xlsx) |
 
 ---
 
