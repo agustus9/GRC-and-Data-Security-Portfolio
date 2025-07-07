@@ -66,7 +66,7 @@ These projects reflect real-world implementation of industry frameworks (NIST, I
 
 ---
 
-### 🔐 Microsoft Purview DLP Lab
+### 🔐 Microsoft Purview Data Protection and DLP Labs
 
 Simulated a full data loss prevention lab using Microsoft Purview:
 - 📦 Built policies to protect PII, PHI, and PCI across O365 apps
@@ -80,7 +80,7 @@ Simulated a full data loss prevention lab using Microsoft Purview:
   _Simulate and manage M365 DLP using Microsoft Purview — includes screenshots and a policy template._
 
 
-### 📸 Microsoft Purview Lab Screenshots
+### 📸 Microsoft Purview Data Protection and DLP Lab Screenshots
 
 - Hands-on exploration of Microsoft Purview's Sensitive Information Types.
 
@@ -107,7 +107,7 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 ## 🔗 Resources
 
 - [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
-- [Microsoft Purview Lab Documents — Access all documents and additional files you'll need for your Purview labs](./lab_documents.md)
+- [Microsoft Purview Data Protection and DLP Lab Documents — Access all documents and additional files you'll need for your Purview labs](./lab_documents.md)
 - [Microsoft Purview – Keyword Dictionary Lab](./purview-keywords/README.md)
 - [Compliance Dashboard Sample](dashboards/Compliance_Dashboard_Sample.md)
   
