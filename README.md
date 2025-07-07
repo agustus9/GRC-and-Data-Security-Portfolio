@@ -86,9 +86,21 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 
 ![Purview Screenshot 1](./purview-lab/Purview_Screenshot_1.png)
 
+- Hands-on exploration of Microsoft Purview's Sensitive Labels.
+
+![Purview Screenshot 2](./purview-lab/Sensitivity_labels.png)
+
+- Hands-on exploration of Microsoft Purview's New Sensitive Label.
+
+![Purview Screenshot 3](./purview-lab/New_sensitivity_label.png)
+
+- Hands-on exploration of Microsoft Purview's Sensitivity Labels to Publish.
+
+![Purview Screenshot 4](./purview-lab/Sensitivity_labels_to_publish.png)
+  
 - Hands-on exploration of Microsoft Purview's Data Loss Prevention | Policy.
 
-![Purview Screenshot 2](./purview-lab/Purview_Screenshot_2.png)
+![Purview Screenshot 5](./purview-lab/Purview_Screenshot_2.png)
 
 🔗[View the full lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)
 
