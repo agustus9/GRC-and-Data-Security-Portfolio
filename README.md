@@ -235,11 +235,11 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 
 ## Learning Resources
   
-- ✅ This portfolio is supported by a variety of training platforms, including:
+✅ This portfolio is supported by a variety of training platforms, including:
 - 🔄 [Cybrary: CRISC & CISM by Kelly Handerhan](https://www.cybrary.it/)
 - 🔄 [Udemy: Governance, Risk, and Compliance 2025](https://www.udemy.com/)
-- ✅ Microsoft Learn, ISACA prep material, and personal lab simulations
 - ✅ [Simply Cyber: Practical Cybersecurity Skills & GRC Training](https://www.simplycyber.io/)
+- ✅ Microsoft Learn, ISACA prep material, and personal lab simulations
 
 ---
 
