@@ -133,6 +133,8 @@ Microsoft Defender for Cloud Apps (formerly known as Microsoft Defender for Clou
 - 📊 Conducting activity investigations and incident response  
 - ✅ Hands-on simulations to reinforce understanding of security workflows
 
+### 📸 Microsoft Defender for Cloud Apps (CASB) Lab Screenshots
+
 **Lab Environment:**  
 A dedicated lab environment has been set up to practice configuring and deploying Microsoft Defender for Cloud Apps.  
 Access the lab here: **[Insert your lab link here]**
