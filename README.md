@@ -113,6 +113,32 @@ Simulated a full data loss prevention lab using Microsoft Purview:
   
 ---
 
+### 🔐 Microsoft Defender for Cloud Apps (CASB)
+
+**Overview:**  
+Microsoft Defender for Cloud Apps (formerly known as Microsoft Defender for Cloud App Security) is a Cloud Access Security Broker (CASB) solution that provides visibility, control over data, and sophisticated analytics to identify and combat cyber threats across cloud applications. It enables organizations to monitor cloud app usage, enforce policies, detect anomalies, and mitigate risks related to shadow IT and data breaches.
+
+### ⚙️ **Features:**  
+
+- ✅ **Visibility & Monitoring:** Gain insights into cloud app usage across your organization.  
+- 🔄 **Data Control:** Enforce policies to protect sensitive data and prevent data leakage.  
+- 📊 **Threat Detection:** Detect suspicious activities and anomalies with advanced analytics.  
+- ✅ **Risk Assessment:** Evaluate cloud app risk levels to inform security decisions.  
+- 📊 **Secure Collaboration:** Manage sharing and access controls for cloud resources.  
+- 🔄 **Integration:** Seamlessly integrates with Microsoft 365 Security & Compliance tools for comprehensive security management.
+
+**Features covered in the current Microsoft Defender Course:**  
+- 📊 Deploying and configuring Microsoft Defender for Cloud Apps  
+- 🔄 Setting up policies for data protection and threat detection  
+- 📊 Conducting activity investigations and incident response  
+- ✅ Hands-on simulations to reinforce understanding of security workflows
+
+**Lab Environment:**  
+A dedicated lab environment has been set up to practice configuring and deploying Microsoft Defender for Cloud Apps.  
+Access the lab here: **[Insert your lab link here]**
+
+---
+
 ### 📄 Policy Lifecycle Demonstration
 
 A real-world simulation of the full policy lifecycle:
