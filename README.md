@@ -51,7 +51,7 @@ This section provides an overview of key U.S. and international financial regula
 
 ## 🛠 GRC and Data Security Portfolio Projects
 
-Explore my hands-on work across key GRC domains, supported by custom labs, dashboards, and simulations.  
+Explore my hands-on work, supported by custom labs, dashboards, and simulations.  
 
 | Project | Description | Skills & Tools |
 |--------|-------------|----------------|
@@ -143,15 +143,6 @@ A dedicated lab environment has been set up to practice configuring and deployin
 Access the lab here: [Microsoft Defender for Cloud Apps (CASB) Lab](purview-lab/Microsoft_Defender_for_Cloud_Apps_CASB_Lab.md)
 
 ---
-
-### 📄 Policy Lifecycle Demonstration
-
-A real-world simulation of the full policy lifecycle:
-- ✅ Created an Acceptable Use Policy mapped to NIST SP 800-53 and ISO 27001
-- 🔄 Ran through approval, staff distribution, implementation, and annual review
-- 📊 Tracked exceptions and monitored control coverage via ServiceNow and Microsoft Purview
-
-📁 [View PDF](https://github.com/user-attachments/files/20845119/Policy_Lifecycle_Demo.pdf)
  
 ### 📊 Risk Register Template + Summary
 
@@ -167,19 +158,13 @@ This folder includes a structured and reusable Risk Register aligned with NIST C
   - ISO/IEC 27001:2013 Annex A
   - CIS Controls v8
 
-### 📊 Compliance Dashboard (Excel)
-
-Sample Excel dashboard tracking compliance status by control category and asset. Useful for audit readiness, KPI reporting, and control failure monitoring.
-
-📁 [Download Compliance_Dashboard_Sample.xlsx](https://github.com/user-attachments/files/20845198/Compliance_Dashboard_Sample.xlsx)
-
 ---
 
 ### 💼 Purview Regex Expressions & Custom Sensitive Information Types
 
 ### 📘 Microsoft Purview Regex Expressions & Custom Sensitive Information Types
 
-This section of the GRC Portfolio provides curated and custom-built Regular Expressions (Regex) for use in **Microsoft Purview** Data Loss Prevention (DLP) and Information Protection policies.
+This section provides curated and custom-built Regular Expressions (Regex) for use in **Microsoft Purview** Data Loss Prevention (DLP) and Information Protection policies.
 
 These patterns are used to define **Custom Sensitive Information Types (SITs)** that extend beyond the default Purview catalog and help address compliance with frameworks such as **NIST, HIPAA, PCI-DSS, GDPR**, and **ISO 27001**.
 
