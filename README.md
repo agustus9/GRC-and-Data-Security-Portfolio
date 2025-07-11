@@ -239,10 +239,10 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 | ✅ CEH – Certified Ethical Hacker | Earned | EC-Council |
 | ✅ Security+ (CompTIA) | Earned | CompTIA |
 | ✅ AWS Certified Security – Specialty | Earned | AWS |
-| 🔄 CRISC – Certified in Risk and Information Systems Control | In Progress | ISACA |
-| 🔄 CISM – Certified Information Security Manager | In Progress | ISACA |
-| ✅ Microsoft Purview Information Security Administrator Course | Completed | Udemy / Microsoft Learn |
-| ✅ Microsoft Defender Course (CASB) | Completed | Udemy / Microsoft Learn |
+| 🔄 CRISC – Certified in Risk and Information Systems Control | In Progress | ISACA / Cybrary / Udemy |
+| 🔄 CISM – Certified Information Security Manager | In Progress | ISACA / Cybrary / Udemy |
+| ✅ Microsoft Purview Information Security Administrator Course | Completed | Cybrary / Udemy / Microsoft Learn |
+| ✅ Microsoft Defender Course (CASB) | Completed | Cybrary / Udemy / Microsoft Learn |
 | ✅ Definitive GRC Analyst Master Class | Completed | Simply Cyber Academy |   
 
 ---
