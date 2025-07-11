@@ -8,6 +8,26 @@ This GitHub-based lab simulates how Microsoft Purview’s DLP tools can be struc
 
 ---
 
+| Focus Area          | Key Features & Tools                                                                                                 |
+|---------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Data Security**   | - Data Loss Prevention (DLP)                                                                                      |
+|                     | - Information Barriers                                                                                            |
+|                     | - Information Protection                                                                                          |
+|                     | - Insider Risk Management                                                                                         |
+|                     | - Privileged Access Management                                                                                    |
+| **Risk & Compliance** | - Audit                                                                                                         |
+|                     | - eDiscovery                                                                                                      |
+|                     | - Compliance Manager                                                                                              |
+|                     | - Data Lifecycle Management                                                                                       |
+|                     | - Communication Compliance                                                                                        |
+| **Data Governance** | - Data Catalog                                                                                                    |
+|                     | - Data Estate Insights                                                                                            |
+|                     | - Data Map                                                                                                        |
+|                     | - Data Policy                                                                                                     |
+|                     | - Data Sharing                                                                                                    |
+
+---
+
 ## 🧬 1. Sensitive Information Types
 
 Microsoft Purview offers built-in and custom **Sensitive Information Types (SITs)** for identifying data like credit cards, SSNs, or healthcare info.
