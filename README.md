@@ -200,14 +200,6 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 
 ---
 
-Use these tools to enhance your DLP policies and Insider Risk Management detection capabilities.
-
----
-
-🔗 Return to the main GRC Portfolio: [GitHub Repo](https://github.com/agustus9/grc-portfolio)
-
----
-
 ## 🛠️ Tools Used
 
 - Microsoft Purview
