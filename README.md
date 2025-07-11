@@ -196,7 +196,7 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 
 ---
 
-## 💼 GRC Skills Matrix (2025+)
+## 💼 GRC and Data Security Skills Matrix (2025+)
 
 | **Skills & Tools**                         | **Experience Level / Projects**                                              |
 |--------------------------------------------|-------------------------------------------------------------------------------|
@@ -208,7 +208,7 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 📄 [View Full Skills Overview →](./GRC_Skills_Overview.md)
 
 Highlights:
-- Maps key enterprise-ready GRC capabilities (Governance, Risk, Compliance, Vulnerability Mgmt, Cloud, Audit)
+- Maps key enterprise-ready GRC and Data Security capabilities (Governance, Risk, Compliance, Vulnerability Mgmt, Cloud, Data Protection, Audit)
 - Aligns each skill with lab artifacts from this GitHub portfolio
 - Reflects current job market priorities (based on 2025 hiring trends)
 
