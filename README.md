@@ -191,8 +191,8 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 ## 🛠️ Tools Used
 
 - Microsoft Purview
-- Regex101 (for testing)
 - Microsoft 365 Compliance Portal
+- Microsoft Defender for Cloud Apps (CASB)
 
 ---
 
