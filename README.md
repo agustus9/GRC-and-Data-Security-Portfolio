@@ -217,7 +217,7 @@ A detailed breakdown of all security, compliance, cloud, and automation tools I�
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications & Trainings
 
 Here are the certifications I've earned (or am actively pursuing) to reinforce my GRC and cybersecurity expertise:
 
