@@ -257,9 +257,9 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 - ✅ [Cybrary: CRISC & CISM](https://www.cybrary.it/)
 - ✅ [Udemy: Governance, Risk, and Compliance 2025](https://www.udemy.com/)
 - ✅ [Simply Cyber: Practical Cybersecurity Skills & GRC Training](https://www.simplycyber.io/)
-- ✅ [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
+- ✅ [Microsoft Defender Course](https://www.udemy.com/)
 - ✅ [Microsoft Purview Information Security Administrator Course](https://www.cybrary.it/)
-- ✅ [ISACA Prep Material](https://www.isaca.org/credentialing/credentialing-exam-prep)
+- ✅ [ISACA Prep Material(CRISC & CISM)](https://www.isaca.org/credentialing/credentialing-exam-prep)
 
 ---
 
