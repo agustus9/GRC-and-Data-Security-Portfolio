@@ -242,7 +242,8 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 | 🔄 CRISC – Certified in Risk and Information Systems Control | In Progress | ISACA |
 | 🔄 CISM – Certified Information Security Manager | In Progress | ISACA |
 | ✅ Microsoft Purview Information Security Administrator Course | Completed | Udemy / Microsoft Learn |
-| ✅ Definitive GRC Analyst Master Class | Completed | Simply Cyber Academy |
+| ✅ Microsoft Defender Course (CASB) | Completed | Udemy / Microsoft Learn |
+| ✅ Definitive GRC Analyst Master Class | Completed | Simply Cyber Academy |   
 
 ---
 
