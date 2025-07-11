@@ -241,8 +241,8 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 | ✅ AWS Certified Security – Specialty | Earned | AWS |
 | 🔄 CRISC – Certified in Risk and Information Systems Control | In Progress | ISACA / Cybrary / Udemy |
 | 🔄 CISM – Certified Information Security Manager | In Progress | ISACA / Cybrary / Udemy |
-| ✅ Microsoft Purview Information Security Administrator Course | Completed | Cybrary / Udemy / Microsoft Learn |
-| ✅ Microsoft Defender Course (CASB) | Completed | Cybrary / Udemy / Microsoft Learn |
+| ✅ Microsoft Purview Information Security Administrator Course | Completed | Microsoft Learn / Cybrary / Udemy |
+| ✅ Microsoft Defender Course (CASB) | Completed | Microsoft Learn / Cybrary / Udemy |
 | ✅ Definitive GRC Analyst Master Class | Completed | Simply Cyber Academy |   
 
 ---
