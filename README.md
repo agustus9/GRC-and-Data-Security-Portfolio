@@ -172,7 +172,7 @@ Sample Excel dashboard tracking compliance status by control category and asset.
 
 ---
 
-### 📁 Purview Regex Expressions & Custom Sensitive Information Types
+### 💼 Purview Regex Expressions & Custom Sensitive Information Types
 
 ### 🔍 Microsoft Purview Regex Expressions & Custom Sensitive Information Types
 
