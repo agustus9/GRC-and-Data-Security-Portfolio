@@ -4,10 +4,8 @@ This document maps the top in-demand Governance, Risk, and Compliance (GRC) skil
 
 | # | Skill Area | Description | Portfolio Evidence |
 |--|------------|-------------|---------------------|
-| 1 | **Policy Governance & Lifecycle** | End-to-end policy drafting, implementation, and compliance tracking. | [Policy Lifecycle Demo](./policy-lifecycle/) |
-| 2 | **Risk Register Management** | Translate threats into business risks using KPIs/KRIs. | [Risk Register Template](./risk-register/) |
-| 3 | **Compliance Automation & Tooling** | GRC automation with ServiceNow, Qualys, and Microsoft Purview. | [Qualys-ServiceNow POA&M Integration](./qualys-servicenow-lab/), [Purview DLP Lab](./purview-lab/) |
-| 4 | **Audit Readiness & Evidence Management** | Audit checklists, POA&Ms, and evidence packaging. | [Compliance Dashboard](./dashboards/), [Policy Lifecycle Demo](./policy-lifecycle/) |
+| 1 | **Risk Register Management** | Translate threats into business risks using KPIs/KRIs. | [Risk Register Template](./risk-register/) |
+| 2 | **Compliance Automation & Tooling** | GRC automation with ServiceNow, Qualys, and Microsoft Purview. | [Qualys-ServiceNow POA&M Integration](./qualys-servicenow-lab/), [Purview DLP Lab](./purview-lab/) |
 | 5 | **Cloud Security & Shared Responsibility** | Cloud agent operations, tagging, and control enforcement. | [Qualys-FEMA Policy Execution Workflow](./qualys-servicenow-lab/) |
 | 6 | **Vulnerability Governance** | Root cause analysis, policy tagging, remediation strategy. | [Qualys CPU Incident Response](./qualys-servicenow-lab/) |
 | 7 | **Third-Party Risk (TPRM)** | Vendor risk intake, assessment, and policy alignment. | *Planned* |
@@ -21,9 +19,9 @@ This document maps the top in-demand Governance, Risk, and Compliance (GRC) skil
 |---------------------------|-------------------------------------------------------------|
 | Vulnerability Management  | Qualys VMDR, Tenable Nessus                  |
 | Compliance Automation     | Qualys Policy Compliance, ServiceNow GRC, FEMA              |
-| Risk & Policy Governance  | Risk Registers, POA&Ms, Policy Lifecycle Templates   |
-| Security Operations       | Splunk, SCCM, ServiceNow, Intune                              |
-| Cloud Security            | AWS (IAM, EC2), Azure, Microsoft Purview DLP               |
+| Risk & Policy Governance  | Risk Registers, Policy Lifecycle Templates   |
+| Security Operations       | AlienVault, SCCM, ServiceNow, Microsoft Defender                              |
+| Cloud Security            | Microsoft Azure, Microsoft Purview DLP, Microsoft Defender               |
 | Reporting & Dashboards    | FEMA (Compliance Dashboards), Qualys (Compliance Module)  |
-| DLP                       | Microsoft Purview, Proofpoint (theoretical), SC-400 path    |
-| Audit Readiness           | SOC 2 evidence prep, HITRUST alignment (in progress)        |
+| DLP                       | Microsoft Purview, Microsoft Defender, Mimecast   |
+| Audit Readiness           | SOC 2 evidence prep       |
