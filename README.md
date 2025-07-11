@@ -174,7 +174,7 @@ Sample Excel dashboard tracking compliance status by control category and asset.
 
 ### 📁 Purview Regex Expressions & Custom Sensitive Information Types
 
-- # 🔍 Microsoft Purview Regex Expressions & Custom Sensitive Information Types
+### 🔍 Microsoft Purview Regex Expressions & Custom Sensitive Information Types
 
 This section of the GRC Portfolio provides curated and custom-built Regular Expressions (Regex) for use in **Microsoft Purview** Data Loss Prevention (DLP) and Information Protection policies.
 
