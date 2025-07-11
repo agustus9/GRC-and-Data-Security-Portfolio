@@ -249,7 +249,7 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 ## 🔗 Connect With Me
 
 - 📫 arthurmack@email.com  
-- 🔗 [LinkedIn: Arthur Mack](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
 
 ## Learning Resources
   
