@@ -228,8 +228,6 @@ Highlights:
 📄 [🧰 Tools You’ve Mastered](./tools-mastered.md)  
 A detailed breakdown of all security, compliance, cloud, and automation tools I’ve worked with hands-on across projects and professional roles.
 
-✅ [![Tools](https://img.shields.io/badge/Tools-Mastered-blue)](./tools-mastered.md)
-
 ---
 
 ## 🎓 Certifications
