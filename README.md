@@ -8,9 +8,26 @@ Welcome to my Governance, Risk, and Compliance (GRC) portfolio.
 ### 📚 Summary
 Aspiring GRC Manager & Data Protection Engineer focused on risk governance, compliance frameworks, and data privacy within financial institutions. Currently pursuing CRISC, CISM, and Microsoft Purview certifications to deepen my expertise.
 
-## 📚 GRC Overview
+Certainly! Here's a polished and cohesive version of that section, incorporating a clear overview of GRC and Data Security, with some context referencing the importance of these areas:
 
-Governance, Risk, and Compliance (GRC) is the integrated collection of capabilities that enable an organization to reliably achieve objectives, address uncertainty, and act with integrity.
+---
+
+## 📚 GRC and Data Security Overview
+
+Governance, Risk, and Compliance (GRC) is a unified framework that enables organizations to achieve their objectives effectively while managing uncertainty and maintaining integrity. It encompasses the policies, procedures, and technologies designed to ensure that business operations align with regulatory requirements, mitigate risks, and uphold organizational standards.
+
+**Data Security** is a critical component within the GRC framework, focusing on protecting sensitive information from unauthorized access, breaches, and data leakage. Effective data security measures support compliance efforts, reduce organizational risk exposure, and foster trust with customers and stakeholders.
+
+By integrating GRC practices with robust data security strategies, organizations can create a resilient environment that not only adheres to industry standards like ISO 27001, NIST, and PCI-DSS but also proactively defends against evolving cyber threats.
+
+| Pillar         | Description                                                                                                                                                                                                 |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Governance** | Ensures alignment of IT/security initiatives with business goals, including policies, roles, frameworks (e.g., NIST, ISO 27001), and overall strategic direction. Incorporates data security policies and controls. |
+| **Risk Mgmt.** | Identifies, assesses, and mitigates risks to critical assets — often through risk registers, assessments, KRIs, and POA&Ms.                                                                               |
+| **Compliance** | Ensures adherence to legal, regulatory, and policy obligations (e.g., HIPAA, SOX, PCI-DSS, FedRAMP). Supported by evidence collection, UARs, audits.                                            |
+| **Data Security** | Focuses on protecting sensitive and critical data from unauthorized access, breaches, and leaks. Encompasses data classification, access controls, encryption, and monitoring to ensure data integrity and confidentiality. |
+
+---
 
 ![GRC](https://img.shields.io/badge/GRC-Governance%2C%20Risk%2C%20Compliance-blue)
 ![Frameworks](https://img.shields.io/badge/Frameworks-NIST%20%7C%20ISO%2027001%20%7C%20CIS-green)
