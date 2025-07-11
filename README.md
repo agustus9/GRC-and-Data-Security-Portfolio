@@ -231,6 +231,8 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 | ✅ Microsoft Purview Information Security Administrator Course | Completed | Microsoft Learn / Cybrary / Udemy |
 | ✅ Microsoft Defender Course (CASB) | Completed | Microsoft Learn / Cybrary / Udemy |
 | ✅ Definitive GRC Analyst Master Class | Completed | Simply Cyber Academy |   
+| ✅ ServiceNow | Completed | ServiceNow Training | 
+| ✅ Qualys PC, PCI, VMD | Completed | Qualys Training | 
 
 ---
 
