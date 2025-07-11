@@ -103,8 +103,6 @@ Simulated a full data loss prevention lab using Microsoft Purview:
 
 ![Purview Screenshot 5](./purview-lab/Purview_Screenshot_2.png)
 
-🔗[View the full lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)
-
 ## 🔗 Resources
 
 - [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
