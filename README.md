@@ -6,7 +6,7 @@
 Welcome to my Governance, Risk, and Compliance (GRC) and Data Security Portfolio.  
 
 ### 📚 Summary
-Aspiring GRC Manager & Data Protection Engineer focused on risk governance, compliance frameworks, and data privacy and protection within financial institutions. Currently pursuing CRISC, CISM, and Microsoft 365 Compliance Portal to deepen my expertise.
+Aspiring GRC Manager & Data Protection Engineer focused on risk governance, compliance frameworks, and data privacy and protection within institutions. Currently pursuing CRISC, CISM, and Microsoft 365 Compliance Portal to deepen my expertise.
 
 ---
 
