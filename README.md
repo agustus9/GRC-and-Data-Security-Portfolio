@@ -20,26 +20,18 @@ Governance, Risk, and Compliance (GRC) is a unified framework that enables organ
 
 By integrating GRC practices with robust data security strategies, organizations can create a resilient environment that not only adheres to industry standards like ISO 27001, NIST, and PCI-DSS but also proactively defends against evolving cyber threats.
 
+
+![Governance](https://img.shields.io/badge/Governance-Policies%2C%20Roles%2C%20Frameworks-blue)
+![Frameworks](https://img.shields.io/badge/Frameworks-NIST%20%7C%20ISO%2027001%20%7C%20CIS-green)
+![Compliance](https://img.shields.io/badge/Compliance-HIPAA%20%7C%20PCI--DSS%20%7C%20FedRAMP-brightgreen)
+![Risk Tools](https://img.shields.io/badge/Tools-Risk%20Register%20%7C%20POA%26M%20%7C%20UARs-lightgrey)
+![Data Security](https://img.shields.io/badge/Data%20Security-Encryption%2C%20Access%20Controls%2C%20Monitoring-yellow)
 | Pillar         | Description                                                                                                                                                                                      
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Governance** | Ensures alignment of IT/security initiatives with business goals, including policies, roles, frameworks (e.g., NIST, ISO 27001), and overall strategic direction. Incorporates data security policies and controls. |
 | **Risk Mgmt.** | Identifies, assesses, and mitigates risks to critical assets — often through risk registers, assessments, KRIs, and POA&Ms.                                                                      
 | **Compliance** | Ensures adherence to legal, regulatory, and policy obligations (e.g., HIPAA, SOX, PCI-DSS, FedRAMP). Supported by evidence collection, UARs, audits.                                            |
 | **Data Security** | Focuses on protecting sensitive and critical data from unauthorized access, breaches, and leaks. Encompasses data classification, access controls, encryption, and monitoring to ensure data integrity and confidentiality. |
-
----
-
-![GRC](https://img.shields.io/badge/GRC-Governance%2C%20Risk%2C%20Compliance-blue)
-![Frameworks](https://img.shields.io/badge/Frameworks-NIST%20%7C%20ISO%2027001%20%7C%20CIS-green)
-![Compliance](https://img.shields.io/badge/Compliance-HIPAA%20%7C%20PCI--DSS%20%7C%20FedRAMP-brightgreen)
-![Risk Tools](https://img.shields.io/badge/Tools-Risk%20Register%20%7C%20POA%26M%20%7C%20UARs-lightgrey)
-![Certifications](https://img.shields.io/badge/Certifications-CRISC%20%7C%20CISM%20%7C%20Purview%20DLP-yellow)
-
-| Pillar         | Description                                                                                                                                         |
-|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Governance** | Ensures alignment of IT/security initiatives with business goals, including policies, roles, and frameworks (e.g., NIST, ISO 27001).               |
-| **Risk Mgmt.** | Identifies, assesses, and mitigates risks to critical assets — often through risk registers, assessments, KRIs, and POA&Ms.                        |
-| **Compliance** | Ensures adherence to legal, regulatory, and policy obligations (e.g., HIPAA, SOX, PCI-DSS, FedRAMP). Supported by evidence collection, UARs, audits. |
 
 ---
 
