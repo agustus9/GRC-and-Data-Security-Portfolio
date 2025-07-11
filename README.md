@@ -47,9 +47,10 @@ These projects reflect real-world implementation of industry frameworks (NIST, I
 
 | Project | Description | Skills & Tools |
 |--------|-------------|----------------|
+| **[Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)** | Hands-on Data Loss Prevention lab with sensitivity labels and analytics | ![Purview](https://img.shields.io/badge/Microsoft-Purview-blueviolet) ![DLP](https://img.shields.io/badge/DLP-Sensitive%20Info%20Protection-lightgrey) |
+| **[Microsoft Defender for Cloud Apps (CASB) Lab](./purview-lab/Microsoft_Defender_Cloud_Apps.md)** | Hands-on practical lab for configuring, deploying, and managing Microsoft Defender for Cloud Apps (CASB). Focuses on cloud app discovery, policy creation, threat detection, and incident response. | ![Security](https://img.shields.io/badge/Security-HandsOn-success) ![Cloud](https://img.shields.io/badge/Cloud-Defender-success) |
 | **[Risk Register – NIST Mapped](./risk-register/Risk_Register_Template.md)** | Simulated risk register aligned with NIST SP 800-30/53 | ![NIST](https://img.shields.io/badge/NIST-800--53-blue) ![Excel](https://img.shields.io/badge/Excel-Risk%20Dashboard-success) |
 | **[Policy Lifecycle Governance](./policy-lifecycle/Policy_Lifecycle_Demo.md)** | Tracks a security policy from draft to retirement | ![ISO27001](https://img.shields.io/badge/ISO-27001-orange) ![Governance](https://img.shields.io/badge/Governance-Lifecycle-yellow) |
-| **[Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)** | Hands-on Data Loss Prevention lab with sensitivity labels and analytics | ![Purview](https://img.shields.io/badge/Microsoft-Purview-blueviolet) ![DLP](https://img.shields.io/badge/DLP-Sensitive%20Info%20Protection-lightgrey) |
 | **[Compliance Dashboard](dashboards/README.md)** | Excel dashboard for KPI/KRI compliance tracking | ![Compliance](https://img.shields.io/badge/Compliance-Dashboard-brightgreen) ![Excel](https://img.shields.io/badge/Excel-Metrics-green) |
 | **[Regex Library for Custom Sensitive Info Types](./purview-regex/Regex_Custom_Sensitive_Information_Types.md)** | Custom regex patterns for Purview’s data classification engine | ![Regex](https://img.shields.io/badge/Regex-Custom%20Data%20Types-informational) ![Purview](https://img.shields.io/badge/Purview-Custom%20Sensitivity-purple) |
 
