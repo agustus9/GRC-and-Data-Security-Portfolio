@@ -1,36 +1,3 @@
-+--------------------------------------------------------------+
-|                      AI Security Framework                   |
-+--------------------------------------------------------------+
-| Governance & Policy      Asset Management     Threat Modeling |
-|  +-----------------+     +--------------+     +--------------+ |
-|  | Policies, regs  |     | Asset catalog|     | Threats &   | |
-|  | & standards     |     | & versioning |     | vulnerabilities| |
-|  +-----------------+     +--------------+     +--------------+ |
-+--------------------------------------------------------------+
-| Secure Development & Deployment | Monitoring & Incident Response |
-|  +------------------------------+  +-------------------------+ |
-|  | Secure coding, validation    |  | Anomaly detection,     | |
-|  | Testing adversarial risks    |  | response plans         | |
-|  +------------------------------+  +-------------------------+ |
-+--------------------------------------------------------------+
-| Data & Model Security | Access Control & Identity Management |
-|  +------------------+ |  +------------------------------+ |
-|  | Encryption, privacy | | Access policies, monitoring | |
-|  | Watermarking        | | Restricted access           | |
-|  +------------------+ |  +------------------------------+ |
-+--------------------------------------------------------------+
-| Validation & Audit | Compliance & Reporting |
-|  +------------------+ |  +--------------------+ |
-|  | Regular testing  | | Audit logs, reports| |
-|  +------------------+ |  +--------------------+ |
-+--------------------------------------------------------------+
-
----
-
-Certainly! Here's a **detailed implementation plan** for establishing an **AI Security Framework**, along with specific controls and steps to help you operationalize it. This plan is structured into phases, emphasizing proactive measures, ongoing monitoring, and continuous improvement.
-
----
-
 # **AI Security Implementation Plan**
 
 ## **Phase 1: Governance & Asset Management**
@@ -153,4 +120,37 @@ Certainly! Here's a **detailed implementation plan** for establishing an **AI Se
 
 ---
 
-Would you like me to prepare a **visual diagram**, a **checklist**, or **sample policies** to facilitate implementation?
+graph TD
+    A[AI Security Framework]
+    subgraph G1 [Governance & Asset Management & Threat Modeling]
+        G1A[Policies, regs & standards]
+        G1B[Asset catalog & versioning]
+        G1C[Threats & vulnerabilities]
+    end
+    subgraph G2 [Secure Development & Deployment]
+        G2A[Secure coding, validation]
+        G2B[Test adversarial risks]
+    end
+    subgraph G3 [Monitoring & Incident Response]
+        G3A[Anomaly detection]
+        G3B[Response plans]
+    end
+    subgraph G4 [Data & Model Security]
+        G4A[Encryption, privacy]
+        G4B[Watermarking]
+    end
+    subgraph G5 [Access Control & Identity Mgmt]
+        G5A[Access policies]
+        G5B[Monitoring & restricted access]
+    end
+    subgraph G6 [Validation & Audit & Compliance]
+        G6A[Regular testing]
+        G6B[Audit logs & reports]
+    end
+
+    A --> G1
+    A --> G2
+    A --> G3
+    A --> G4
+    A --> G5
+    A --> G6
