@@ -186,7 +186,7 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 
 ---
 
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1bcb8fbc-7298-4b76-b7ee-dbd47c3e681b" />AI Security Framework and Implementation Plan
+## <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/1bcb8fbc-7298-4b76-b7ee-dbd47c3e681b" />AI Security Framework and Implementation Plan
 
 | Category                     | Component                                | Key Practices & Focus                                                                                                               |
 |------------------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
