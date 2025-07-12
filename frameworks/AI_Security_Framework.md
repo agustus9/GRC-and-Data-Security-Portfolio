@@ -25,15 +25,6 @@
 |  +------------------+ |  +--------------------+ |
 +--------------------------------------------------------------+
 
-graph TD
-    A[AI Security Framework]
-    subgraph G1 [Governance & Asset Management & Threat Modeling]
-        G1A[Policies, regs & standards]
-        G1B[Asset catalog & versioning]
-        G1C[Threats & vulnerabilities]
-    end
-    ...
-
 ---
 
 # **AI Security Implementation Plan**
@@ -156,39 +147,3 @@ graph TD
 | Monitoring & Response | Anomaly detection, incident response plan |  
 | Auditing & Compliance | Regular audits, documentation |  
 
----
-
-graph TD
-    A[AI Security Framework]
-    subgraph G1 [Governance & Asset Management & Threat Modeling]
-        G1A[Policies, regs & standards]
-        G1B[Asset catalog & versioning]
-        G1C[Threats & vulnerabilities]
-    end
-    subgraph G2 [Secure Development & Deployment]
-        G2A[Secure coding, validation]
-        G2B[Test adversarial risks]
-    end
-    subgraph G3 [Monitoring & Incident Response]
-        G3A[Anomaly detection]
-        G3B[Response plans]
-    end
-    subgraph G4 [Data & Model Security]
-        G4A[Encryption, privacy]
-        G4B[Watermarking]
-    end
-    subgraph G5 [Access Control & Identity Mgmt]
-        G5A[Access policies]
-        G5B[Monitoring & restricted access]
-    end
-    subgraph G6 [Validation & Audit & Compliance]
-        G6A[Regular testing]
-        G6B[Audit logs & reports]
-    end
-
-    A --> G1
-    A --> G2
-    A --> G3
-    A --> G4
-    A --> G5
-    A --> G6
