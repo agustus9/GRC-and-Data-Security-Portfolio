@@ -194,7 +194,7 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 | **Asset Management**         | Asset Catalog & Versioning              | Identify and document all AI assets (models, datasets, servers, tools) for visibility and change tracking. Ensure a comprehensive inventory of AI components for effective security management and rapid incident response. Prevent "Shadow AI" where unauthorized or unmonitored AI tools can introduce significant risks. |
 | **Compliance & Reporting**     | Audit Logs, Reports                     | Ensure adherence to relevant regulations and standards (e.g., GDPR, HIPAA). Maintain detailed audit logs of AI processing activities, generate reports for regulatory bodies, and proactively identify and address compliance gaps, according to TechTarget. |
 
-This project provides a comprehensive overview of an **AI Security Framework and Implementation Plan**, detailing essential components such as governance, asset management, threat modeling, secure development practices, monitoring, data and model security, access control, validation, implementation plan, and compliance. For a detailed breakdown and best practices, please refer to the [AI Security Framework and Implementation Plan](frameworks/AI_Security_Framework.md) page.
+This section provides a comprehensive overview of an **AI Security Framework and Implementation Plan**, detailing essential components such as governance, asset management, threat modeling, secure development practices, monitoring, data and model security, access control, validation, implementation plan, and compliance. For a detailed breakdown and best practices, please refer to the [AI Security Framework and Implementation Plan](frameworks/AI_Security_Framework.md) page.
 
 ---
 
