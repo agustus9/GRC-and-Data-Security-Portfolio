@@ -186,7 +186,7 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 
 ---
 
-## AI Security Framework and Implementation Plan
+## [**AI**](#)<!-- Or, with a badge style -->AI Security Framework and Implementation Plan
 
 | Category                     | Component                                | Key Practices & Focus                                                                                                               |
 |------------------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
