@@ -217,10 +217,7 @@ This section provides a comprehensive overview of an **AI Security Framework and
 
 📄 [View Full Skills Overview →](./GRC_Skills_Overview.md)
 
-Highlights:
-- Maps key enterprise-ready GRC and Data Security capabilities (Governance, Risk, Compliance, Vulnerability Mgmt, Cloud, Data Protection, Audit)
-- Aligns each skill with lab artifacts from this GitHub portfolio
-- Reflects current job market priorities (based on 2025 hiring trends)
+---
 
 ## 💼 Skills Overview
 
