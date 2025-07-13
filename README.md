@@ -71,7 +71,7 @@ Explore my hands-on work, supported by custom labs, dashboards, and simulations.
 
 ### 🔐 Microsoft Purview Data Protection and DLP Labs
 
-Simulated a full data loss prevention lab using Microsoft Purview:
+Simulated Data Loss Prevention and Data Protection lab using Microsoft Purview:
 - 📦 Built policies to protect PII, PHI, and PCI across O365 apps
 - 🧪 Used simulation mode to test policy behavior before enforcing
 - ⚙️ Activated enforcement actions and tracked alerts
