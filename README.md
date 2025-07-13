@@ -206,16 +206,14 @@ This section provides a comprehensive overview of an **AI Security Framework and
 | ✅ Data Discovery & Risk Assessment         | Developed risk registers aligned with NIST/ISO standards; utilized dashboards for monitoring |
 | ✅ Microsoft Purview                        | Configured Data Loss Prevention (DLP) policies, custom info types, and sensitivity labels |
 
+📄 [View Full Skills Overview →](./GRC_Skills_Overview.md)
+
 ## 🛠️ Tools Used
 
 - Microsoft Purview
 - Microsoft 365 Compliance Portal
 - Microsoft Defender for Cloud Apps (CASB)
 - 
-📄 [View Full Skills Overview →](./GRC_Skills_Overview.md)
-
-## 💼 Skills Overview
-
 📄 [🧰 Tools You’ve Mastered](./tools-mastered.md)  
 A detailed breakdown of all security, compliance, cloud, and automation tools I’ve worked with hands-on across projects and professional roles.
 
