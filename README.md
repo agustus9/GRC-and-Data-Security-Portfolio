@@ -198,14 +198,6 @@ This section provides a comprehensive overview of an **AI Security Framework and
 
 ---
 
-## 🛠️ Tools Used
-
-- Microsoft Purview
-- Microsoft 365 Compliance Portal
-- Microsoft Defender for Cloud Apps (CASB)
-
----
-
 ## 💼 GRC and Data Security Skills Matrix (2025+)
 
 | **Skills & Tools**                         | **Experience Level / Projects**                                              |
@@ -214,7 +206,12 @@ This section provides a comprehensive overview of an **AI Security Framework and
 | ✅ Data Discovery & Risk Assessment         | Developed risk registers aligned with NIST/ISO standards; utilized dashboards for monitoring |
 | ✅ Microsoft Purview                        | Configured Data Loss Prevention (DLP) policies, custom info types, and sensitivity labels |
 
+## 🛠️ Tools Used
 
+- Microsoft Purview
+- Microsoft 365 Compliance Portal
+- Microsoft Defender for Cloud Apps (CASB)
+- 
 📄 [View Full Skills Overview →](./GRC_Skills_Overview.md)
 
 ## 💼 Skills Overview
