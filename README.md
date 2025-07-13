@@ -217,8 +217,6 @@ This section provides a comprehensive overview of an **AI Security Framework and
 
 📄 [View Full Skills Overview →](./GRC_Skills_Overview.md)
 
----
-
 ## 💼 Skills Overview
 
 📄 [🧰 Tools You’ve Mastered](./tools-mastered.md)  
