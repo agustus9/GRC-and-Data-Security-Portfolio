@@ -198,7 +198,7 @@ This section provides a comprehensive overview of an **AI Security Framework and
 
 ---
 
-## 💼 GRC and Data Security Skills Matrix (2025+)
+## 💼 GRC and Data Security Skills Matrix
 
 | **Skills & Tools**                         | **Experience Level / Projects**                                              |
 |--------------------------------------------|-------------------------------------------------------------------------------|
