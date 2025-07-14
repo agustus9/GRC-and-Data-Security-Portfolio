@@ -256,7 +256,7 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 ---
 
 <p align="center">
-  <img src="assets/its_a_grc_world_banner.png" alt="It's a GRC World" width="950" height="250">
+  <img src="assets/its_a_grc_world_banner.png" alt="It's a GRC World" width="950" height="200">
 </p>
 
 
