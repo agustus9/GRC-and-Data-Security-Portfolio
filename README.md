@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/grc_portfolio_banner.png" alt="Arthur Mack GRC Portfolio Banner" width="100%" />
+  <img src="assets/grc_portfolio_banner.png" alt="GRC and Data Security Portfolio Banner" width="100%" />
 </p>
 
 
