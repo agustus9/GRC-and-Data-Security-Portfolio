@@ -183,7 +183,7 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 
 - 🔍 [Custom Regex Template for Sensitive Info Types](./purview-regex/Custom_Sensitive_Information_Types_Template.md)
 - 📘 [Purview Regex Overview README](./purview-regex/README_purview_regex.md)
-- 🔍 [Regex Expressions for Microsoft Purview](purview-lab/Regex_Expressions_for_Purview.md): A collection of regular expressions used to define sensitive information types (e.g., SSNs, credit cards, emails) for custom DLP policies in Microsoft Purview.
+- 🔍 [Regex Expressions for Microsoft Purview](purview-lab/Regex_Expressions_for_Purview.md)
 
 ---
 
