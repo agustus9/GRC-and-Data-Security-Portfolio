@@ -223,7 +223,7 @@ This section provides a comprehensive overview of an **AI Security Framework and
 
 Here are the certifications I've earned (or am actively pursuing) to reinforce my GRC and cybersecurity expertise:
 
-| Certification | Status | Provider |
+| Certifications & Trainings | Status | Provider |
 |---------------|--------|----------|
 | ✅ CEH – Certified Ethical Hacker | Earned | EC-Council |
 | ✅ Security+ (CompTIA) | Earned | CompTIA |
