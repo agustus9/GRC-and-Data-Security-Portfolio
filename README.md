@@ -185,6 +185,8 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 - 📘 [Purview Regex Overview README](./purview-regex/README_purview_regex.md)
 - 🔍 [Regex Expressions for Microsoft Purview](purview-lab/Regex_Expressions_for_Purview.md)
 
+---
+
 ## Automation for GRC & Data Security
 
 To streamline your governance, risk, compliance, and data security processes, check out our dedicated resources and scripts:
