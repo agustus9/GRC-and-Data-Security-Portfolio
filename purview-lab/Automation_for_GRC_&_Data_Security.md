@@ -10,6 +10,7 @@ This section consolidates scripts, tutorials, and resources to automate Governan
 
 # Python & PowerShell script
 echo "# Example vulnerability scan parser" > Automation-GRC-DataSecurity/Python-for-Cybersecurity/Example1-AutomatedVulnerabilityScanning.py
+
 echo "# Example: List AD users with admin privileges" > Automation-GRC-DataSecurity/PowerShell-for-Security-Professionals/Example1-AutomatedUserAccessAudit.ps1
 
 **Example snippet:**
