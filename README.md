@@ -193,8 +193,6 @@ To streamline your governance, risk, compliance, and data security processes, ch
 
 This section includes scripts and tutorials in Python and PowerShell designed to automate vulnerability assessments, policy compliance, user audits, and more.
 
-> **Note:** Be sure to review the full collection in the linked folder for detailed scripts, examples, and best practices.
-
 ---
 
 ### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1bcb8fbc-7298-4b76-b7ee-dbd47c3e681b" /> AI Security Framework and Implementation Plan
