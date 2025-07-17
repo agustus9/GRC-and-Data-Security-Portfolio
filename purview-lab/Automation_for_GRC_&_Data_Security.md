@@ -15,8 +15,6 @@ This section consolidates scripts, tutorials, and resources to automate Governan
 # Python script
 echo "# Example vulnerability scan parser" > Automation-GRC-DataSecurity/Python-for-Cybersecurity/Example1-AutomatedVulnerabilityScanning.py
 
-# PowerShell script
-echo "# Example: List AD users with admin privileges" > Automation-GRC-DataSecurity/PowerShell-for-Security-Professionals/Example1-AutomatedUserAccessAudit.ps1
 
 **Example snippet:**
 ```python
@@ -30,7 +28,14 @@ high_risks = [issue for issue in report['issues'] if issue['severity'] == 'High'
 print(f"High-risk vulnerabilities found: {len(high_risks)}")
 for vuln in high_risks:
     print(f"- {vuln['title']} at {vuln['host']}")
+
+# PowerShell script
+echo "# Example: List AD users with admin privileges" > Automation-GRC-DataSecurity/PowerShell-for-Security-Professionals/Example1-AutomatedUserAccessAudit.ps1
+
 ---
+
+**Example snippet:**
+```powershell
 
 # List all users with admin privileges
 Import-Module ActiveDirectory
