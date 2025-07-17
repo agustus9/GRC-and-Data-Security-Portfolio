@@ -2,8 +2,6 @@
 
 This section consolidates scripts, tutorials, and resources to automate Governance, Risk, and Compliance (GRC) and Data Security processes using Python and PowerShell. These resources aim to streamline compliance, risk management, vulnerability assessments, and security operations.
 
-## Repository Structure
-
 ---
 
 ### Python for GRC & Data Security
@@ -19,7 +17,6 @@ echo "# Example vulnerability scan parser" > Automation-GRC-DataSecurity/Python-
 
 # PowerShell script
 echo "# Example: List AD users with admin privileges" > Automation-GRC-DataSecurity/PowerShell-for-Security-Professionals/Example1-AutomatedUserAccessAudit.ps1
-
 
 **Example snippet:**
 ```python
@@ -38,3 +35,36 @@ for vuln in high_risks:
 # List all users with admin privileges
 Import-Module ActiveDirectory
 Get-ADGroupMember -Identity "Domain Admins" | Select-Object Name, SamAccountName
+# Import Active Directory module
+Import-Module ActiveDirectory
+
+# Define the group(s) that represent admin privileges
+$adminGroups = @("Domain Admins", "Enterprise Admins", "Schema Admins")
+
+# Initialize an array to hold results
+$adminUsers = @()
+
+# Loop through each admin group and get its members
+foreach ($group in $adminGroups) {
+    Write-Output "Members of $group:"
+    try {
+        $members = Get-ADGroupMember -Identity $group -Recursive | Where-Object { $_.ObjectClass -eq 'user' }
+        foreach ($member in $members) {
+            # Get user details
+            $user = Get-ADUser -Identity $member.SamAccountName -Properties Name, SamAccountName, Enabled
+            $status = if ($user.Enabled) { "Enabled" } else { "Disabled" }
+            $adminUsers += [PSCustomObject]@{
+                Group      = $group
+                Name       = $user.Name
+                Username   = $user.SamAccountName
+                Status     = $status
+            }
+        }
+    } catch {
+        Write-Warning "Could not retrieve members of $group. Are you running with sufficient permissions?"
+    }
+}
+
+# Output the list of admin users
+$adminUsers | Format-Table -AutoSize
+
