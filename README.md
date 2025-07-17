@@ -191,7 +191,7 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 
 To streamline your governance, risk, compliance, and data security processes, check out our dedicated resources and scripts:
 
-- **[GRC & Data Security Automation Resources](purview-lab/Automation_for_GRC_&_Data_Security.md)**
+**[GRC & Data Security Automation Resources](purview-lab/Automation_for_GRC_&_Data_Security.md)**
 
 This section includes scripts and tutorials in Python and PowerShell designed to automate vulnerability assessments, policy compliance, user audits, and more.
 
