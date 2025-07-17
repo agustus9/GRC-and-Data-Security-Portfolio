@@ -4,14 +4,12 @@ This section consolidates scripts, tutorials, and resources to automate Governan
 
 ---
 
-### Python for GRC & Data Security
+### Python & PowerShell for GRC & Data Security
 - Automate Vulnerability Scanning: Script to parse output from tools like Nessus or OpenVAS, generating compliance reports.
 - Policy Compliance Checks: Script that scans configurations or files to verify adherence to data security policies (e.g., encryption, access controls).
 
-# Python script
+# Python & PowerShell script
 echo "# Example vulnerability scan parser" > Automation-GRC-DataSecurity/Python-for-Cybersecurity/Example1-AutomatedVulnerabilityScanning.py
-
-# PowerShell script
 echo "# Example: List AD users with admin privileges" > Automation-GRC-DataSecurity/PowerShell-for-Security-Professionals/Example1-AutomatedUserAccessAudit.ps1
 
 **Example snippet:**
