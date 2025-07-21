@@ -7,7 +7,7 @@ Welcome to my Governance, Risk, and Compliance (GRC) and Data Security Portfolio
 
 ### 📚 Summary
 
-This portfolio showcases my dedication and expertise in risk governance, compliance frameworks, and data privacy and protection within organizations. It reflects my hands-on experience, ongoing projects, and commitment to strengthening security and regulatory adherence. Currently, I am enhancing my skills through certifications in CISM and Microsoft 365 Compliance Portal to further expand and demonstrate my capabilities in these specializations.
+This portfolio showcases my dedication and expertise in risk governance, compliance frameworks, and data privacy and protection within organizations. It reflects my hands-on experience, ongoing projects, and commitment to strengthening security and regulatory adherence. Currently, I am enhancing my skills through certification and training in CISM and Microsoft 365 Compliance Portal to further expand and demonstrate my capabilities in these specializations.
 
 ---
 
