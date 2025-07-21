@@ -7,7 +7,7 @@ Welcome to my Governance, Risk, and Compliance (GRC) and Data Security Portfolio
 
 ### 📚 Summary
 
-This portfolio showcases my dedication and expertise in risk governance, compliance frameworks, and data privacy and protection within organizations. It reflects my hands-on experience, ongoing projects, and commitment to strengthening security and regulatory adherence. Currently, I am enhancing my skills through certifications in CRISC, CISM, and Microsoft 365 Compliance Portal to further expand and demonstrate my capabilities in these specializations.
+This portfolio showcases my dedication and expertise in risk governance, compliance frameworks, and data privacy and protection within organizations. It reflects my hands-on experience, ongoing projects, and commitment to strengthening security and regulatory adherence. Currently, I am enhancing my skills through certifications in CISM and Microsoft 365 Compliance Portal to further expand and demonstrate my capabilities in these specializations.
 
 ---
 
@@ -17,7 +17,7 @@ Governance, Risk, and Compliance (GRC) is a unified framework that enables organ
 
 **Data Security** is a critical component within the GRC framework, focusing on protecting sensitive information from unauthorized access, breaches, and data leakage. Effective data security measures support compliance efforts, reduce organizational risk exposure, and foster trust with customers and stakeholders.
 
-By integrating GRC practices with robust data security strategies, organizations can create a resilient environment that not only adheres to industry standards like ISO 27001, NIST, and PCI-DSS but also proactively defends against evolving cyber threats.
+By integrating GRC practices with robust data security strategies, organizations can create a resilient environment that not only adheres to industry standards ISO 27001, NIST, and PCI-DSS but also proactively defends against evolving cyber threats.
 
 
 ![Governance](https://img.shields.io/badge/Governance-Policies%2C%20Roles%2C%20Frameworks-blue)
@@ -29,7 +29,7 @@ By integrating GRC practices with robust data security strategies, organizations
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Governance** | Ensures alignment of IT/security initiatives with business goals, including policies, roles, frameworks (e.g., NIST, ISO 27001), and overall strategic direction. Incorporates data security policies and controls. |
 | **Risk Mgmt.** | Identifies, assesses, and mitigates risks to critical assets — often through risk registers, assessments, KRIs, and POA&Ms.                                                                      
-| **Compliance** | Ensures adherence to legal, regulatory, and policy obligations (e.g., HIPAA, SOX, PCI-DSS, FedRAMP). Supported by evidence collection, UARs, audits.                                            |
+| **Compliance** | Ensures adherence to legal, regulatory, and policy obligations (e.g., HIPAA, SOX, PCI-DSS, FedRAMP). Supported by evidence collection, UARs, and audits.                                            |
 | **Data Security** | Focuses on protecting sensitive and critical data from unauthorized access, breaches, and leaks. Encompasses data classification, access controls, encryption, and monitoring to ensure data integrity and confidentiality. |
 
 ---
@@ -238,10 +238,9 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 | ✅ CEH – Certified Ethical Hacker | Earned | EC-Council |
 | ✅ Security+ (CompTIA) | Earned | CompTIA |
 | ✅ AWS Certified Security – Specialty | Earned | AWS |
-| 🔄 CRISC – Certified in Risk and Information Systems Control | In Progress | ISACA / Cybrary / Udemy |
 | 🔄 CISM – Certified Information Security Manager | In Progress | ISACA / Cybrary / Udemy |
 | ✅ Microsoft Purview Information Security Administrator Course | Completed | Microsoft Learn / Cybrary / Udemy |
-| ✅ Microsoft Defender Course (CASB) | Completed | Microsoft Learn / Cybrary / Udemy |
+| ✅ Microsoft Defender for Cloud Apps (CASB) Course | Completed | Microsoft Learn / Cybrary / Udemy |
 | ✅ Definitive GRC Analyst Master Class | Completed | Simply Cyber Academy |   
 | ✅ ServiceNow | Completed | ServiceNow Training | 
 | ✅ Qualys PC, PCI, VMD | Completed | Qualys Training | 
@@ -256,7 +255,7 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 ## Learning Resources
   
 ✅ This portfolio is supported by a variety of training platforms, including:
-- ✅ [Cybrary: CRISC & CISM](https://www.cybrary.it/)
+- ✅ [Cybrary: CISM](https://www.cybrary.it/)
 - ✅ [Udemy: Governance, Risk, and Compliance 2025](https://www.udemy.com/)
 - ✅ [Simply Cyber: Practical Cybersecurity Skills & GRC Training](https://www.simplycyber.io/)
 - ✅ [Microsoft Defender Course(CASB)](https://www.udemy.com/)
