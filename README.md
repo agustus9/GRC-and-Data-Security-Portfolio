@@ -258,11 +258,11 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
   
 ✅ This portfolio is supported by a variety of training platforms, including:
 - ✅ [CRISC & CDPSE (ISACA Prep Material)](https://www.isaca.org/credentialing/credentialing-exam-prep)
-- ✅ [CCSP (ISC²)](https://www.isc2.org/)
+- ✅ [CCSP (ISC² Prep Material)](https://www.isc2.org/)
 - ✅ [Governance, Risk, and Compliance (Udemy)](https://www.udemy.com/)
 - ✅ [GRC for Banking, FinTech, and Insurance | GRC in Business (Udemy)](https://www.udemy.com/)
 - ✅ [Data Security in GDPR, CCPA, HIPAA, PCI-DSS & SOX (Privacy) (Udemy)](https://www.udemy.com/)
-- ✅ [Simply Cyber: Governance, Risk & Compliance Masterclass](https://www.simplycyber.io/)
+- ✅ [Governance, Risk & Compliance Masterclass (Simply Cyber)](https://www.simplycyber.io/)
 - ✅ [Microsoft Defender Course(CASB) (Udemy)](https://www.udemy.com/)
 - ✅ [Microsoft Purview Information Security Administrator Course (Udemy)](https://www.cybrary.it/)
 
