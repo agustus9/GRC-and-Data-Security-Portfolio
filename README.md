@@ -257,7 +257,7 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 ## Learning Resources
   
 ✅ This portfolio is supported by a variety of training platforms, including:
-- ✅ [CRISC & CDPSE (ISACA Prep Material)](https://www.isaca.org/credentialing/credentialing-exam-prep)
+- ✅ [CRISC (ISACA Prep Material)](https://www.isaca.org/credentialing/credentialing-exam-prep)
 - ✅ [CCSP (ISC² Prep Material)](https://www.isc2.org/)
 - ✅ [Governance, Risk, and Compliance (Udemy)](https://www.udemy.com/)
 - ✅ [GRC for Banking, FinTech, and Insurance | GRC in Business (Udemy)](https://www.udemy.com/)
