@@ -240,7 +240,6 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 | ✅ AWS Certified Security – Specialty | Earned | AWS |
 | 🔄 CCSP – Certified Cloud Security Professional  | In Progress | ISC² / Cybrary / Udemy |
 | 🔄 CRISC – Certified in Risk and Information Systems Control | In Progress | ISACA / Cybrary / Udemy |
-| 🔄 CDPSE – Certified Data Privacy Solutions Engineer | In Progress | ISACA / Cybrary / Udemy |
 | ✅ Microsoft Purview Information Security Administrator Course | Completed | Microsoft Learn / Cybrary / Udemy |
 | ✅ Microsoft Defender for Cloud Apps (CASB) Course | Completed | Microsoft Learn / Cybrary / Udemy |
 | ✅ Definitive GRC Analyst Master Class | Completed | Simply Cyber Academy |   
