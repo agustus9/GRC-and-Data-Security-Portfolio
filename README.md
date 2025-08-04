@@ -145,7 +145,7 @@ Microsoft Defender for Cloud Apps (formerly known as Microsoft Defender for Clou
 
 ![Defender Screenshot 1](./purview-lab/create-policy-from-conditional-access-tab.png)
 
-- Hands-on exploration of Microsoft Defender Cloud Apps: Configure Alerts.
+- Hands-on exploration of Microsoft Defender Cloud Apps: Security Alerts.
 
 ![Defender Screenshot 1](./purview-lab/security_alerts.png)
 
