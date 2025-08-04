@@ -145,6 +145,10 @@ Microsoft Defender for Cloud Apps (formerly known as Microsoft Defender for Clou
 
 ![Defender Screenshot 1](./purview-lab/create-policy-from-conditional-access-tab.png)
 
+- Hands-on exploration of Microsoft Defender Cloud Apps Discovery.
+
+![Defender Screenshot 1](./purview-lab/security_alerts.png)
+
 
 **Lab Environment:**  
 A dedicated lab environment has been set up to practice configuring and deploying Microsoft Defender for Cloud Apps.  
