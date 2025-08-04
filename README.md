@@ -137,15 +137,15 @@ Microsoft Defender for Cloud Apps (formerly known as Microsoft Defender for Clou
 
 ### 📸 Microsoft Defender for Cloud Apps (CASB) Lab Screenshots
 
-- Hands-on exploration of Microsoft Defender Cloud Apps Discovery.
+- Hands-on exploration of Microsoft Defender Cloud Apps: Discovery.
 
 ![Defender Screenshot 1](./purview-lab/cloud_discovery.png)
 
-- Hands-on exploration of Microsoft Defender Cloud Apps Discovery.
+- Hands-on exploration of Microsoft Defender Cloud Apps: Create Policies.
 
 ![Defender Screenshot 1](./purview-lab/create-policy-from-conditional-access-tab.png)
 
-- Hands-on exploration of Microsoft Defender Cloud Apps Discovery.
+- Hands-on exploration of Microsoft Defender Cloud Apps: Configure Alerts.
 
 ![Defender Screenshot 1](./purview-lab/security_alerts.png)
 
