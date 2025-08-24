@@ -16,7 +16,7 @@ This lab demonstrates how to create and import custom keyword dictionaries into 
 - [financial_terms.txt](./financial_terms.txt)
 - [healthcare_terms.txt](./healthcare_terms.txt)
 
--![Import Guide](purview-keywords/keyword_discovery.png)
+-![Import Guide](./purview-keywords/keyword_discovery.png)
 
 ### Lab Objectives:
 - Understand what keyword dictionaries are and their role in data classification.
