@@ -2,7 +2,7 @@
 
 ![Microsoft Purview Lab Banner](Microsoft_Purview_Lab_Banner.png)
 
-This GitHub-based lab simulates how Microsoft Purview’s DLP tools can be structured and implemented using prewritten templates, keyword dictionaries, and POA&M response workflows.
+This GitHub-based lab simulates how Microsoft Purview’s DLP tools can be structured and implemented using prewritten templates and keyword dictionaries.
 
 > 🧪 This is a simulated training lab, not a production environment.
 
@@ -71,17 +71,4 @@ Purview supports uploading custom keyword lists to create **dictionary-based SIT
 
 ---
 
-## 🛠️ 4. POA&M Mapping
-
-Violations detected by DLP should be documented in a **Plan of Action & Milestones (POA&M)**.
-
-📄 Template: [POAM_Workflow_Example.xlsx](../qualys-servicenow-lab/POAM_Workflow_Example.xlsx)
-
-| Incident | Control | Action | Owner | Due Date |
-|----------|---------|--------|--------|----------|
-| Sensitive info emailed externally | NIST 800-53 AC-21 | Auto-revoke access | Security Compliance | 30 days |
-
----
-
 > 🔄 This lab continues to evolve with additional templates, rules, and dashboards.  
-> Explore more in: [Regex Library](../regex-library/) | [Keyword Lab](../purview-keywords/)
