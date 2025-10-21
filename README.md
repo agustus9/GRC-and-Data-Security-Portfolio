@@ -45,18 +45,6 @@ This section provides an overview of key U.S. and international financial regula
 ### 🔐 Controls Mapping Guide
 
 - 🔐 For a detailed control mapping across standards and frameworks, see the [Controls Mapping Guide](financial-regulations/Controls_Mapping_Guide.md).
-
----
-
-## 🛠 GRC and Data Security Portfolio Projects
-
-Explore my hands-on work, supported by custom labs, dashboards, and simulations.  
-
-| Project | Description | Skills & Tools |
-|--------|-------------|----------------|
-| **[Microsoft Purview DLP Lab](./purview-lab/Microsoft_Purview_DLP_Lab.md)** | Hands-on Data Loss Prevention lab with sensitivity labels and analytics | ![Purview](https://img.shields.io/badge/Microsoft-Purview-blueviolet) ![DLP](https://img.shields.io/badge/DLP-Sensitive%20Info%20Protection-lightgrey) |
-| **[Microsoft Defender for Cloud Apps (CASB) Lab](purview-lab/Microsoft_Defender_for_Cloud_Apps_CASB_Lab.md)** | Hands-on practical lab for configuring, deploying, and managing Microsoft Defender for Cloud Apps (CASB). Focuses on cloud app discovery, policy creation, threat detection, and incident response. | ![Security](https://img.shields.io/badge/Security-HandsOn-success) ![Cloud](https://img.shields.io/badge/Cloud-Defender-success) |
-
 ---
 
 ## 🔐 Data Privacy & Data Protection Projects
