@@ -176,14 +176,6 @@ This integration streamlines operational intelligence, job scheduling, and ITSM 
        style="width: 700px; border-radius: 10px;"/>
 </p>
 
-## 💼 GRC and Data Security Skills Matrix
-
-| **Skills & Tools**                         | **Experience Level / Projects**                                              |
-|--------------------------------------------|-------------------------------------------------------------------------------|
-| ✅ Data Classification & Labels           | Created sensitivity labels, data lifecycle policies, and applied to docs/emails in Purview |
-| ✅ Data Discovery & Risk Assessment         | Developed risk registers aligned with NIST/ISO standards; utilized dashboards for monitoring |
-| ✅ Microsoft Purview                        | Configured Data Loss Prevention (DLP) policies, custom info types, and sensitivity labels |
-
 📄 [Skills Overview](./GRC_Skills_Overview.md)
 
 ## 🛠️ Tools Used
