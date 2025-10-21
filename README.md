@@ -177,6 +177,28 @@ This integration streamlines operational intelligence, job scheduling, and ITSM 
        style="width: 700px; border-radius: 10px;"/>
 </p>
 
+## 🛰️ Unified Monitoring & Compliance Automation Workflow  
+### *(AutoSys – AppDynamics – ServiceNow Integration)*
+
+This unified workflow bridges **operations**, **security**, and **compliance** across enterprise systems to enhance visibility, automation, and governance alignment.
+
+- **AutoSys** — Orchestrates scheduled jobs, maintenance windows, and infrastructure workflows across hybrid environments.  
+- **AppDynamics** — Monitors real-time performance, application health, and service dependencies (e.g., Nginx, Tomcat).  
+- **ServiceNow** — Acts as the central ITSM layer for automated incident creation, risk logging, and compliance tracking.  
+- **Starfleet / Qualys Policy Compliance** — Validates that underlying assets and application components meet configuration and control baselines.  
+
+### 🚀 Key Benefits
+- Automated ticket creation and CI correlation when AppDynamics detects job or service degradation.  
+- Continuous control validation through Starfleet and Qualys compliance baselines.  
+- Full traceability of job performance → application health → compliance posture.  
+- Improved operational uptime and reduced MTTR through automation and integrated intelligence.  
+
+<p align="center">
+  <img src="assets/AutoSys_AppDynamics_ServiceNow_Workflow.png" 
+       alt="Unified Monitoring & Compliance Automation Workflow"
+       style="width: 750px; border-radius: 10px;"/>
+</p>
+
 ## 🛠️ Tools Used
 - AutoSys
 - AppDynamics
