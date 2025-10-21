@@ -184,7 +184,7 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 
 ---
 
-## 🔄 AutoSys–AppDynamics–ServiceNow Integration Workflow
+## 🔄 AutoSys AppDynamics ServiceNow Integration Workflow
 
 This integration streamlines operational intelligence, job scheduling, and ITSM workflows:
 
@@ -202,7 +202,6 @@ This integration streamlines operational intelligence, job scheduling, and ITSM 
        alt="AutoSys–AppDynamics–ServiceNow Integration Workflow"
        style="width: 700px; border-radius: 10px;"/>
 </p>
----
 
 ## 💼 GRC and Data Security Skills Matrix
 
