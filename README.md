@@ -175,13 +175,7 @@ Microsoft Purview lets you define your own custom Sensitive Information Types (S
 - Supporting Elements (keywords or regex)
 - Confidence levels
 - Proximity tuning
-
-Explore Microsoft Purview's support for custom Sensitive Information Types using regular expressions (regex). Includes examples and templates.
-
-- 🔍 [Custom Regex Template for Sensitive Info Types](./purview-regex/Custom_Sensitive_Information_Types_Template.md)
-- 📘 [Purview Regex Overview README](./purview-regex/README_purview_regex.md)
-- 🔍 [Regex Expressions for Microsoft Purview](purview-lab/Regex_Expressions_for_Purview.md)
-
+- 
 ---
 
 ## 🔄 AutoSys AppDynamics ServiceNow Integration Workflow
