@@ -219,11 +219,10 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 - ✅ [Governance, Risk & Compliance Masterclass (Simply Cyber)](https://www.simplycyber.io/)
 - ✅ [Microsoft Defender Course(CASB) (Udemy)](https://www.udemy.com/)
 - ✅ [Microsoft Purview Information Security Administrator Course (Udemy)](https://www.cybrary.it/)
-
+---
 ## 🔗 Connect With Me
 - 📫 arthurmack@email.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
-
 ---
 
 <p align="center">
