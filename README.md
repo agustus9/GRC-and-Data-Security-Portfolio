@@ -106,28 +106,6 @@ Simulated Data Loss Prevention and Data Protection labs using Microsoft Purview:
 
 ![Purview Screenshot 5](./purview-lab/Purview_Screenshot_2.png)
 
-## 🔄 AutoSys–AppDynamics–ServiceNow Integration Workflow
-
-This integration streamlines operational intelligence, job scheduling, and ITSM workflows:
-
-- **AutoSys** handles enterprise job scheduling and automation, ensuring workloads run on time across distributed systems.  
-- **AppDynamics** monitors the performance and health of critical applications (e.g., Nginx, Tomcat) in real time.  
-- **ServiceNow** correlates alerts, incidents, and performance metrics for rapid triage and remediation.  
-
-### 🌐 Integration Benefits
-- Real-time mapping of application performance to scheduled jobs and infrastructure health.  
-- Automated ServiceNow ticket creation and updates from AppDynamics alerts or AutoSys job failures.  
-- End-to-end visibility into operational risk, compliance impact, and change management cycles.  
-
-<p align="center">
-  <img src="assets/Autosys Unitity.png" 
-       alt="AutoSys–AppDynamics–ServiceNow Integration Workflow"
-       style="width: 700px; border-radius: 10px;"/>
-</p>
-
-└──────────────────────────────────────────────┘
-
-
 ## 🔗 Resources
 
 - [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
@@ -177,22 +155,6 @@ A dedicated lab environment has been set up to practice configuring and deployin
 Access the lab here: [Microsoft Defender for Cloud Apps (CASB) Lab](purview-lab/Microsoft_Defender_for_Cloud_Apps_CASB_Lab.md)
 
 ---
- 
-### 📊 Risk Register Template + Summary
-
-This folder includes a structured and reusable Risk Register aligned with NIST CSF, ISO/IEC 27005, and CIS Controls.
-
-- ✅ `Risk_Register_Template.xlsx` – Editable Excel template with:
-  - Likelihood × Impact heatmap scoring
-  - Residual Risk calculation
-  - Fields for Risk Owner, Mitigation, and Control Mapping
-- ✅ `Risk_Register_Example.pdf` – A sample filled-out risk register for reference
-- 🔐 Frameworks Used:
-  - NIST CSF
-  - ISO/IEC 27001:2013 Annex A
-  - CIS Controls v8
-
----
 
 ### 💼 Purview Regex Expressions & Custom Sensitive Information Types
 
@@ -222,26 +184,24 @@ Explore Microsoft Purview's support for custom Sensitive Information Types using
 
 ---
 
-## Automation for GRC & Data Security
+## 🔄 AutoSys–AppDynamics–ServiceNow Integration Workflow
 
-To streamline your governance, risk, compliance, and data security processes, check out our dedicated resources and scripts:
+This integration streamlines operational intelligence, job scheduling, and ITSM workflows:
 
-**[GRC & Data Security Automation Resources](purview-lab/Automation_for_GRC_&_Data_Security.md)**
+- **AutoSys** handles enterprise job scheduling and automation, ensuring workloads run on time across distributed systems.  
+- **AppDynamics** monitors the performance and health of critical applications (e.g., Nginx, Tomcat) in real time.  
+- **ServiceNow** correlates alerts, incidents, and performance metrics for rapid triage and remediation.  
 
-This section includes scripts and tutorials in Python and PowerShell designed to automate vulnerability assessments, policy compliance, user audits, and more.
+### 🌐 Integration Benefits
+- Real-time mapping of application performance to scheduled jobs and infrastructure health.  
+- Automated ServiceNow ticket creation and updates from AppDynamics alerts or AutoSys job failures.  
+- End-to-end visibility into operational risk, compliance impact, and change management cycles.  
 
----
-
-### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1bcb8fbc-7298-4b76-b7ee-dbd47c3e681b" /> AI Security Framework and Implementation Plan
-
-| Category                     | Component                                | Key Practices & Focus                                                                                                               |
-|------------------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| **Governance & Policy**      | Policies, Regulations & Standards       | Align AI with business objectives, regulatory requirements (e.g., GDPR, HIPAA), ethical standards, and internal privacy policies. Develop clear acceptable use policies, establish formal review processes for third-party AI tools, and define standard operating procedures (SOPs) for the entire model lifecycle (training, testing, deployment, retirement). |
-| **Asset Management**         | Asset Catalog & Versioning              | Identify and document all AI assets (models, datasets, servers, tools) for visibility and change tracking. Ensure a comprehensive inventory of AI components for effective security management and rapid incident response. Prevent "Shadow AI" where unauthorized or unmonitored AI tools can introduce significant risks. |
-| **Compliance & Reporting**     | Audit Logs, Reports                     | Ensure adherence to relevant regulations and standards (e.g., GDPR, HIPAA). Maintain detailed audit logs of AI processing activities, generate reports for regulatory bodies, and proactively identify and address compliance gaps, according to TechTarget. |
-
-This section provides a comprehensive overview of an **AI Security Framework and Implementation Plan**, detailing essential components such as governance, asset management, threat modeling, secure development practices, monitoring, data and model security, access control, validation, implementation plan, and compliance. For a detailed breakdown and best practices, please refer to the [AI Security Framework and Implementation Plan](frameworks/AI_Security_Framework.md).
-
+<p align="center">
+  <img src="assets/Autosys Unitity.png" 
+       alt="AutoSys–AppDynamics–ServiceNow Integration Workflow"
+       style="width: 700px; border-radius: 10px;"/>
+</p>
 ---
 
 ## 💼 GRC and Data Security Skills Matrix
@@ -255,7 +215,8 @@ This section provides a comprehensive overview of an **AI Security Framework and
 📄 [Skills Overview](./GRC_Skills_Overview.md)
 
 ## 🛠️ Tools Used
-
+- AutoSys
+- AppDynamics
 - Microsoft Purview
 - Microsoft 365 Compliance Portal
 - Microsoft Defender for Cloud Apps (CASB)
