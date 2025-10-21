@@ -106,34 +106,25 @@ Simulated Data Loss Prevention and Data Protection labs using Microsoft Purview:
 
 ![Purview Screenshot 5](./purview-lab/Purview_Screenshot_2.png)
 
-┌──────────────────────────────────────────────┐
-│                 AppDynamics                  │
-│  - Monitors Tomcat/NGINX performance metrics │
-│  - Detects latency, CPU spikes, slow threads │
-└───────────────┬──────────────────────────────┘
-                │ (Triggers threshold breach)
-                ▼
-┌──────────────────────────────────────────────┐
-│                  AutoSys                     │
-│  - Schedules and executes remediation jobs   │
-│  - Restarts Tomcat / Rotates NGINX logs      │
-│  - Runs FIM/BCM compliance scripts           │
-└───────────────┬──────────────────────────────┘
-                │ (Logs job results)
-                ▼
-┌──────────────────────────────────────────────┐
-│                 ServiceNow                   │
-│  - Receives incident alerts or success logs  │
-│  - Creates or closes tickets automatically   │
-│  - Tracks SLA and audit status               │
-└───────────────┬──────────────────────────────┘
-                │ (Compliance data feed)
-                ▼
-┌──────────────────────────────────────────────┐
-│                   Qualys                     │
-│  - Validates control status post-remediation │
-│  - Runs BCM/FIM scans for policy adherence   │
-│  - Feeds compliance results back to GRC      │
+## 🔄 AutoSys–AppDynamics–ServiceNow Integration Workflow
+
+This integration streamlines operational intelligence, job scheduling, and ITSM workflows:
+
+- **AutoSys** handles enterprise job scheduling and automation, ensuring workloads run on time across distributed systems.  
+- **AppDynamics** monitors the performance and health of critical applications (e.g., Nginx, Tomcat) in real time.  
+- **ServiceNow** correlates alerts, incidents, and performance metrics for rapid triage and remediation.  
+
+### 🌐 Integration Benefits
+- Real-time mapping of application performance to scheduled jobs and infrastructure health.  
+- Automated ServiceNow ticket creation and updates from AppDynamics alerts or AutoSys job failures.  
+- End-to-end visibility into operational risk, compliance impact, and change management cycles.  
+
+<p align="center">
+  <img src="assets/Autosys Unitity.png" 
+       alt="AutoSys–AppDynamics–ServiceNow Integration Workflow"
+       style="width: 700px; border-radius: 10px;"/>
+</p>
+
 └──────────────────────────────────────────────┘
 
 
