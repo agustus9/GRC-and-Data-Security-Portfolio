@@ -106,12 +106,7 @@ Simulated Data Loss Prevention and Data Protection labs using Microsoft Purview:
 
 ![Purview Screenshot 5](./purview-lab/Purview_Screenshot_2.png)
 
-## 🔗 Resources
-
 - [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
-- [Microsoft Purview Data Protection and DLP Lab Documents — Access all documents and additional files you'll need for your Purview labs](./lab_documents.md)
-- [Microsoft Purview – Keyword Dictionary Lab](./purview-keywords/README.md)
-- [Compliance Dashboard Sample](dashboards/Compliance_Dashboard_Sample.md)
   
 ---
 
