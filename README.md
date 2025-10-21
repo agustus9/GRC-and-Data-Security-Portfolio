@@ -225,9 +225,7 @@ Here are the certifications I've earned (or am actively pursuing) to reinforce m
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
 ---
 
-<p align="center">
-  <img src="assets/its_a_grc_and_data_security_world_banner.png" alt="It's a GRC and Data Security World" width="980" height="310">
-</p>
+
 
 
 
