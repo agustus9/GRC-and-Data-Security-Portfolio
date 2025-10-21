@@ -157,6 +157,7 @@ Microsoft Purview lets you define your own custom Sensitive Information Types (S
 - Proximity tuning
 ---
 
+## 🎓 Automation
 ## 🔄 AutoSys AppDynamics ServiceNow Integration Workflow
 
 This integration streamlines operational intelligence, job scheduling, and ITSM workflows:
