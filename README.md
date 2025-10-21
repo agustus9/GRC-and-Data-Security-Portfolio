@@ -201,6 +201,9 @@ This unified workflow bridges **operations**, **security**, and **compliance** a
 
 ## 🛠️ Tools Used
 - AutoSys
+- Qualys
+- Starfleet
+- ServiceNow
 - AppDynamics
 - Microsoft Purview
 - Microsoft 365 Compliance Portal
