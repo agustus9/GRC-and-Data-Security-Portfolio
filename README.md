@@ -177,16 +177,12 @@ This integration streamlines operational intelligence, job scheduling, and ITSM 
        style="width: 700px; border-radius: 10px;"/>
 </p>
 
-📄 [Skills Overview](./GRC_Skills_Overview.md)
-
 ## 🛠️ Tools Used
 - AutoSys
 - AppDynamics
 - Microsoft Purview
 - Microsoft 365 Compliance Portal
 - Microsoft Defender for Cloud Apps (CASB)
-  
-📄 [🧰 Tools Mastered](./tools-mastered.md)  
 
 ---
 
