@@ -106,6 +106,37 @@ Simulated Data Loss Prevention and Data Protection labs using Microsoft Purview:
 
 ![Purview Screenshot 5](./purview-lab/Purview_Screenshot_2.png)
 
+┌──────────────────────────────────────────────┐
+│                 AppDynamics                  │
+│  - Monitors Tomcat/NGINX performance metrics │
+│  - Detects latency, CPU spikes, slow threads │
+└───────────────┬──────────────────────────────┘
+                │ (Triggers threshold breach)
+                ▼
+┌──────────────────────────────────────────────┐
+│                  AutoSys                     │
+│  - Schedules and executes remediation jobs   │
+│  - Restarts Tomcat / Rotates NGINX logs      │
+│  - Runs FIM/BCM compliance scripts           │
+└───────────────┬──────────────────────────────┘
+                │ (Logs job results)
+                ▼
+┌──────────────────────────────────────────────┐
+│                 ServiceNow                   │
+│  - Receives incident alerts or success logs  │
+│  - Creates or closes tickets automatically   │
+│  - Tracks SLA and audit status               │
+└───────────────┬──────────────────────────────┘
+                │ (Compliance data feed)
+                ▼
+┌──────────────────────────────────────────────┐
+│                   Qualys                     │
+│  - Validates control status post-remediation │
+│  - Runs BCM/FIM scans for policy adherence   │
+│  - Feeds compliance results back to GRC      │
+└──────────────────────────────────────────────┘
+
+
 ## 🔗 Resources
 
 - [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
