@@ -175,7 +175,6 @@ Microsoft Purview lets you define your own custom Sensitive Information Types (S
 - Supporting Elements (keywords or regex)
 - Confidence levels
 - Proximity tuning
-- 
 ---
 
 ## 🔄 AutoSys AppDynamics ServiceNow Integration Workflow
