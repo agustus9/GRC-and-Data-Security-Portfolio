@@ -106,7 +106,7 @@ Simulated Data Loss Prevention and Data Protection labs using Microsoft Purview:
 
 ![Purview Screenshot 5](./purview-lab/Purview_Screenshot_2.png)
 
-- [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
+Access the lab here: [Microsoft Purview DLP Lab](purview-lab/Microsoft_Purview_DLP_Lab.md)
   
 ---
 
@@ -144,9 +144,6 @@ Microsoft Defender for Cloud Apps (formerly known as Microsoft Defender for Clou
 
 ![Defender Screenshot 1](./purview-lab/security_alerts.png)
 
-
-**Lab Environment:**  
-A dedicated lab environment has been set up to practice configuring and deploying Microsoft Defender for Cloud Apps.  
 Access the lab here: [Microsoft Defender for Cloud Apps (CASB) Lab](purview-lab/Microsoft_Defender_for_Cloud_Apps_CASB_Lab.md)
 
 ---
